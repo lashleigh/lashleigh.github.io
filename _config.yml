@@ -1,0 +1,25 @@
+title: Ashleigh's Pet Project Palace
+email: hello@lashleigh.com
+description: >
+  Ashleigh Baumgardner is an aspiring leisure scientest. Which she imagines as
+  an existence filled with dancing, swingsets, reading, writing, and collaborating with
+  others; all in the pursuit of truth, happiness, and a more just world.
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "@lashleigh"
+github_username:  lashleigh
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-maps
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+maps:
+  google:
+    api_key: AIzaSyDVSSWLvgewa9r2O-kSAxrsUzljewRXuJ4
