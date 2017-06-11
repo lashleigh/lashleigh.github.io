@@ -5,9 +5,10 @@ date:   2017-05-31 20:18:26 -0700
 started: 2017-05-14
 finished: 2017-05-16
 categories: book-review
-location:
-  latitude: 31.7476
-  longitude: -106.4869
+
+location: # Juarez
+  lat: 31.7476
+  lng: -106.4869
 ---
 {% include quote.html quote="Everything is impossible except the status quo." %}
 
