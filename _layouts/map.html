@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="TODO" aria-label="Content">
+      <div id="mapid"></div>
+      <script type="text/javascript">
+        {% include map.js %}
+        {% for post in site.posts %}
+          {% if post.location.lat and post.location.lng %}
+
+            L.marker([{{post.location.lat}}, {{post.location.lng}}]).addTo(mymap)
+		     .bindPopup('<a class="map-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>');
+		  {% else %}
+		    L.marker([0,0], {
+		    	title: '<a class="map-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>'
+		      })
+		     .bindPopup('<a class="map-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>')
+		     .addTo(mymap)
+		     .on('dragend', function(event) {
+               lastEvent = event;
+               event.target.setPopupContent(event.target.options.title + "</br>" + event.target.getLatLng()).openPopup();
+             })
+		     .dragging.enable();	                  
+          {% endif %}
+        {% endfor %}
+    </script>
+
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

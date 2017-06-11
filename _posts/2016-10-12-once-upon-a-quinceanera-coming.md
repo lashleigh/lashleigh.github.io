@@ -1,0 +1,16 @@
+---
+date: '2016-10-12'
+goodreads_id: 83988
+title: 'Once Upon a Quinceanera: Coming of Age in the USA'
+author: Julia Alvarez
+date_read: '2016-10-12'
+isbn13: '9780670038732'
+year_published: 2007
+original_publication_year: 2007
+date_added: '2016-11-02'
+publisher: Viking Adult
+binding: Hardcover
+number_of_pages: 288
+
+---
+This book was so many things; historical and autobiographical. I thought it was beautifully done. Some reviewers seemed disappointed that Alvarez tried to cover so much ground in one volume, but I thought it added depth and really enjoyed getting a sense of the person behind the research. We are all biased and by showing more of who she was I felt Alvarez was inviting us to understand her own biases.<br/><br/>Side note I listened to this as an audiobook and it had great narration.

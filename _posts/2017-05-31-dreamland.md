@@ -21,9 +21,6 @@ Credit to the staff at [Left Bank Books][left-bank] for putting me onto this gem
 
 [left-bank]: http://www.leftbankbooks.com/sp.php
 
-  {% google_map zoom="11" show_marker="false" %}
-
-
 Misc:
  * Good source of quotes: http://goaliesanxiety.blogspot.com/2010/11/dreamland-collaboration-between-author.html
 

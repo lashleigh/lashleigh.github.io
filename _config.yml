@@ -19,7 +19,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-maps:
-  google:
-    api_key: AIzaSyDVSSWLvgewa9r2O-kSAxrsUzljewRXuJ4
