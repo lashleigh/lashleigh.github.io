@@ -1,0 +1,3521 @@
+---
+- 813033:
+    book_id: 813033
+    title: The Atlas of Literature
+    author: Malcolm Bradbury
+    isbn: '1556708793'
+    isbn13: '9781556708794'
+    publisher: Stewart, Tabori, & Chang
+    binding: Hardcover
+    number_of_pages: 352
+    year_published: 1996
+    original_publication_year: 1996
+    date_added: '2017-06-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#76)
+    exclusive_shelf: to-read
+    read_count: 0
+- 25942967:
+    book_id: 25942967
+    title: 'Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity'
+    author: Julia Serano
+    isbn: '1580056229'
+    isbn13: '9781580056229'
+    publisher: Seal Press
+    binding: Paperback
+    number_of_pages: 424
+    year_published: 2016
+    original_publication_year: 2007
+    date_added: '2017-06-03'
+    bookshelves: currently-reading
+    bookshelves_with_positions: currently-reading (#3)
+    exclusive_shelf: currently-reading
+    read_count: 0
+- 6617037:
+    book_id: 6617037
+    title: 'Debt: The First 5,000 Years'
+    author: David Graeber
+    isbn: '1933633867'
+    isbn13: '9781933633862'
+    publisher: Melville House Publishing
+    binding: Hardcover
+    number_of_pages: 534
+    year_published: 2011
+    original_publication_year: 2011
+    date_added: '2017-06-03'
+    bookshelves: currently-reading
+    bookshelves_with_positions: currently-reading (#2)
+    exclusive_shelf: currently-reading
+    read_count: 0
+- 9578127:
+    book_id: 9578127
+    title: 'Beyond Inclusion, Beyond Empowerment: A Developmental Strategy To Liberate
+      Everyone'
+    author: Leticia Nieto
+    additional_authors: Margot F. Boyer, Liz Goodwin, Garth R. Johnson, Laurel Collier
+      Smith
+    isbn: 0976611201
+    isbn13: '9780976611202'
+    publisher: Cuetzpalin
+    binding: Paperback
+    number_of_pages: 319
+    year_published: 2010
+    original_publication_year: 2010
+    date_added: '2017-06-03'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#75)
+    exclusive_shelf: to-read
+    read_count: 0
+- 25571952:
+    book_id: 25571952
+    title: 'Unstoppable: Harnessing Science to Change the World'
+    author: Bill  Nye
+    isbn: '1250007143'
+    isbn13: '9781250007148'
+    publisher: St. Martin's Press
+    binding: Hardcover
+    number_of_pages: 341
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2017-04-14'
+    date_added: '2017-04-27'
+    exclusive_shelf: read
+    read_count: 1
+- 21913812:
+    book_id: 21913812
+    title: 'This Changes Everything: Capitalism vs. The Climate'
+    author: Naomi Klein
+    isbn: '1451697384'
+    isbn13: '9781451697384'
+    publisher: Simon & Schuster
+    binding: Hardcover
+    number_of_pages: 576
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2017-04-12'
+    date_added: '2017-04-27'
+    exclusive_shelf: read
+    read_count: 1
+- 29771103:
+    book_id: 29771103
+    title: 'Biting the Hands that Feed Us: How Fewer, Smarter Laws Would Make Our
+      Food System More Sustainable'
+    author: Baylen J. Linnekin
+    isbn: '1610916751'
+    isbn13: '9781610916752'
+    publisher: Island Press
+    binding: Hardcover
+    number_of_pages: 280
+    year_published: 2016
+    date_read: '2017-04-14'
+    date_added: '2017-04-27'
+    exclusive_shelf: read
+    read_count: 1
+- 29405093:
+    book_id: 29405093
+    title: The Girl with the Lower Back Tattoo
+    author: Amy Schumer
+    isbn: '1501139886'
+    isbn13: '9781501139888'
+    publisher: Gallery Books
+    binding: Hardcover
+    number_of_pages: 323
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2017-04-29'
+    date_added: '2017-04-27'
+    exclusive_shelf: read
+    read_count: 1
+- 14761587:
+    book_id: 14761587
+    title: How Should a Person Be? A Novel From Life
+    author: Sheila Heti
+    isbn: '1770892486'
+    isbn13: '9781770892484'
+    publisher: House of Anansi
+    binding: Paperback
+    number_of_pages: 306
+    year_published: 2012
+    original_publication_year: 2010
+    date_added: '2017-04-27'
+    exclusive_shelf: read
+    read_count: 1
+- 26067678:
+    book_id: 26067678
+    title: The Queue
+    author: Basma Abdel Aziz
+    additional_authors: Elisabeth Jaquette
+    isbn: '1612195164'
+    isbn13: '9781612195162'
+    publisher: Melville House
+    binding: Paperback
+    number_of_pages: 224
+    year_published: 2016
+    original_publication_year: 2012
+    date_read: '2017-04-24'
+    date_added: '2017-04-27'
+    exclusive_shelf: read
+    read_count: 1
+- 25734304:
+    book_id: 25734304
+    title: 'Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity'
+    author: Douglas Rushkoff
+    isbn: '1617230170'
+    isbn13: '9781617230172'
+    publisher: Portfolio
+    binding: Hardcover
+    number_of_pages: 288
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2017-02-20'
+    exclusive_shelf: read
+    read_count: 1
+- 13059271:
+    book_id: 13059271
+    title: 'The Top Five Regrets of the Dying: A Life Transformed by the Dearly Departing'
+    author: Bronnie Ware
+    isbn: ''
+    isbn13: ''
+    binding: Kindle Edition
+    number_of_pages: 247
+    original_publication_year: 2011
+    date_read: '2016-04-09'
+    date_added: '2017-02-07'
+    exclusive_shelf: read
+    read_count: 1
+- 30809689:
+    book_id: 30809689
+    title: Norse Mythology
+    author: Neil Gaiman
+    isbn: 039360909X
+    isbn13: '9780393609097'
+    publisher: W. W. Norton & Company
+    binding: Hardcover
+    number_of_pages: 299
+    year_published: 2017
+    original_publication_year: 2017
+    date_added: '2017-02-04'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#74)
+    exclusive_shelf: to-read
+- 27161156:
+    book_id: 27161156
+    title: 'Hillbilly Elegy: A Memoir of a Family and Culture in Crisis'
+    author: J.D. Vance
+    isbn: '0062300547'
+    isbn13: '9780062300546'
+    publisher: Harper
+    binding: Hardcover
+    number_of_pages: 272
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2017-02-04'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#73)
+    exclusive_shelf: to-read
+- 22543496:
+    book_id: 22543496
+    title: 'Elon Musk: Inventing the Future'
+    author: Ashlee Vance
+    isbn: '0062301233'
+    isbn13: ''
+    publisher: Ecco
+    binding: Hardcover
+    number_of_pages: 392
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2017-01-30'
+    date_added: '2017-01-30'
+    exclusive_shelf: read
+- 23215488:
+    book_id: 23215488
+    title: Speak
+    author: Louisa Hall
+    additional_authors: Suet Yee Chong
+    isbn: 0062391194
+    isbn13: '9780062391193'
+    publisher: Ecco
+    binding: Hardcover
+    number_of_pages: 336
+    year_published: 2015
+    original_publication_year: 2015
+    date_added: '2017-01-28'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#72)
+    exclusive_shelf: to-read
+- 25894085:
+    book_id: 25894085
+    title: 'Becoming Wise: An Inquiry into the Mystery and Art of Living'
+    author: Krista Tippett
+    isbn: '1594206805'
+    isbn13: '9781594206801'
+    publisher: Penguin Press
+    binding: Hardcover
+    number_of_pages: 288
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2017-02-02'
+    date_added: '2017-01-26'
+    exclusive_shelf: read
+    read_count: 1
+- 18528093:
+    book_id: 18528093
+    title: 'Capitalism: A Ghost Story'
+    author: Arundhati Roy
+    isbn: '1608463850'
+    isbn13: '9781608463855'
+    publisher: Haymarket Books
+    binding: Paperback
+    number_of_pages: 136
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2017-01-26'
+    date_added: '2017-01-22'
+    exclusive_shelf: read
+- 6759:
+    book_id: 6759
+    title: Infinite Jest
+    author: David Foster Wallace
+    isbn: 0316921173
+    isbn13: '9780316921176'
+    publisher: Back Bay Books
+    binding: Paperback
+    number_of_pages: 1088
+    year_published: 2005
+    original_publication_year: 1996
+    date_added: '2017-01-22'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#71)
+    exclusive_shelf: to-read
+- 5986375:
+    book_id: 5986375
+    title: 'This Is Water: Some Thoughts, Delivered on a Significant Occasion, about
+      Living a Compassionate Life'
+    author: David Foster Wallace
+    isbn: 0316068225
+    isbn13: '9780316068222'
+    publisher: Little, Brown and Company
+    binding: Hardcover
+    number_of_pages: 138
+    year_published: 2009
+    original_publication_year: 2009
+    date_read: '2017-01-22'
+    date_added: '2017-01-20'
+    exclusive_shelf: read
+- 19063:
+    book_id: 19063
+    title: The Book Thief
+    author: Markus Zusak
+    isbn: 0375831002
+    isbn13: '9780375831003'
+    publisher: Knopf Books for Young Readers
+    binding: Hardcover
+    number_of_pages: 552
+    year_published: 2006
+    original_publication_year: 2005
+    date_added: '2017-01-20'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#70)
+    exclusive_shelf: to-read
+- 27845690:
+    book_id: 27845690
+    title: The Course of Love
+    author: Alain de Botton
+    isbn: '0241145473'
+    isbn13: '9780241145470'
+    publisher: Hamish Hamilton
+    binding: Hardcover
+    number_of_pages: 240
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2017-01-18'
+    date_added: '2017-01-18'
+    exclusive_shelf: read
+- 3618:
+    book_id: 3618
+    title: "¡Ya Basta!: Ten Years of the Zapatista Uprising"
+    author: Subcomandante Marcos
+    additional_authors: Naomi Klein, Ziga Vodovnik, Noam Chomsky
+    isbn: '1904859135'
+    isbn13: '9781904859130'
+    publisher: AK Press
+    binding: Paperback
+    number_of_pages: 640
+    year_published: 2004
+    original_publication_year: 1994
+    date_added: '2017-01-18'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#69)
+    exclusive_shelf: to-read
+- 21971548:
+    book_id: 21971548
+    title: 'Compañeras: Zapatista Women''s Stories'
+    author: Hilary Klein
+    isbn: '1609805879'
+    isbn13: '9781609805876'
+    publisher: Seven Stories Press
+    binding: Paperback
+    number_of_pages: 384
+    year_published: 2015
+    original_publication_year: 2015
+    date_added: '2017-01-18'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#68)
+    exclusive_shelf: to-read
+- 433281:
+    book_id: 433281
+    title: 'Racism without Racists: Color-Blind Racism and the Persistence of Racial
+      Inequality in the United States'
+    author: Eduardo Bonilla-Silva
+    isbn: 0742546861
+    isbn13: '9780742546868'
+    publisher: Rowman & Littlefield Publishers
+    binding: Paperback
+    number_of_pages: 288
+    year_published: 2006
+    original_publication_year: 2003
+    date_added: '2017-01-17'
+    bookshelves: currently-reading, race-education
+    bookshelves_with_positions: currently-reading (#1), race-education (#12)
+    exclusive_shelf: currently-reading
+- 20518872:
+    book_id: 20518872
+    title: 'The Three-Body Problem (Remembrance of Earth’s Past, #1)'
+    author: Liu Cixin
+    additional_authors: Ken Liu
+    isbn: '0765377063'
+    isbn13: '9780765377067'
+    publisher: Tor Books
+    binding: Hardcover
+    number_of_pages: 400
+    year_published: 2014
+    original_publication_year: 2007
+    date_added: '2017-01-16'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#67)
+    exclusive_shelf: to-read
+- 9408311:
+    book_id: 9408311
+    title: 'Program or Be Programmed: Ten Commands for a Digital Age'
+    author: Douglas Rushkoff
+    isbn: ''
+    isbn13: ''
+    publisher: OR Books
+    binding: Paperback
+    number_of_pages: 152
+    year_published: 2010
+    original_publication_year: 2010
+    date_read: '2017-02-12'
+    date_added: '2017-01-14'
+    exclusive_shelf: read
+    read_count: 1
+- 28587950:
+    book_id: 28587950
+    title: 'Time Travel: A History'
+    author: James Gleick
+    isbn: 0307908798
+    isbn13: '9780307908797'
+    publisher: Pantheon Books
+    binding: Hardcover
+    number_of_pages: 336
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2017-01-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#66)
+    exclusive_shelf: to-read
+- 27430326:
+    book_id: 27430326
+    title: Black Hole Blues and Other Songs from Outer Space
+    author: Janna Levin
+    isbn: '1847921965'
+    isbn13: '9781847921963'
+    publisher: Bodley Head
+    binding: Audiobook
+    number_of_pages: 256
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2017-01-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#65)
+    exclusive_shelf: to-read
+- 28048:
+    book_id: 28048
+    title: Hope in the Dark
+    author: Rebecca Solnit
+    isbn: '1841956600'
+    isbn13: '9781841956602'
+    publisher: Canongate Books
+    binding: Paperback
+    number_of_pages: 192
+    year_published: 2005
+    original_publication_year: 2004
+    date_read: '2017-01-16'
+    date_added: '2017-01-09'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#13)
+    exclusive_shelf: read
+- 13588385:
+    book_id: 13588385
+    title: 'There Was a Country: A Personal History of Biafra'
+    author: Chinua Achebe
+    isbn: '1594204829'
+    isbn13: '9781594204821'
+    publisher: Penguin Press
+    binding: Hardcover
+    number_of_pages: 352
+    year_published: 2012
+    original_publication_year: 2012
+    date_added: '2017-01-09'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#17)
+    exclusive_shelf: hold
+    read_count: 0
+- 17591945:
+    book_id: 17591945
+    title: 'Hip Hop Family Tree, Vol. 1: 1970s-1981'
+    author: Ed Piskor
+    isbn: '1606996908'
+    isbn13: '9781606996904'
+    publisher: Fantagraphics
+    binding: Paperback
+    number_of_pages: 112
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2017-01-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#64)
+    exclusive_shelf: to-read
+- 20910157:
+    book_id: 20910157
+    title: Yes Please
+    author: Amy Poehler
+    isbn: 0062268341
+    isbn13: '9780062268341'
+    publisher: Dey St.
+    binding: Hardcover
+    number_of_pages: 329
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2017-01-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#63)
+    exclusive_shelf: to-read
+- 25422234:
+    book_id: 25422234
+    title: 'Notorious RBG: The Life and Times of Ruth Bader Ginsburg'
+    author: Irin Carmon
+    additional_authors: Shana Knizhnik
+    isbn: 0062415832
+    isbn13: '9780062415837'
+    publisher: Dey Street Books
+    binding: Hardcover
+    number_of_pages: 227
+    year_published: 2015
+    original_publication_year: 2015
+    date_added: '2017-01-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#62)
+    exclusive_shelf: to-read
+- 1243498:
+    book_id: 1243498
+    title: Making Shapely Fiction
+    author: Jerome Stern
+    isbn: 039332124X
+    isbn13: '9780393321241'
+    publisher: W. W. Norton  Company
+    binding: Paperback
+    number_of_pages: 288
+    year_published: 2000
+    original_publication_year: 1991
+    date_added: '2017-01-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#61)
+    exclusive_shelf: to-read
+- 11206:
+    book_id: 11206
+    title: In the Time of the Butterflies
+    author: Julia Alvarez
+    isbn: '0452274427'
+    isbn13: '9780452274426'
+    publisher: Plume
+    binding: Paperback
+    number_of_pages: 324
+    year_published: 1995
+    original_publication_year: 1994
+    date_added: '2017-01-08'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#60)
+    exclusive_shelf: to-read
+- 315882:
+    book_id: 315882
+    title: 'Henry''s Freedom Box: A True Story from the Underground Railroad'
+    author: Ellen Levine
+    additional_authors: Kadir Nelson
+    isbn: 043977733X
+    isbn13: '9780439777339'
+    publisher: Scholastic Press
+    binding: Hardcover
+    number_of_pages: 40
+    year_published: 2007
+    original_publication_year: 2007
+    date_read: '2016-01-08'
+    date_added: '2017-01-08'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#1)
+    exclusive_shelf: read
+- 8139824:
+    book_id: 8139824
+    title: 'Dave the Potter: Artist, Poet, Slave'
+    author: Laban Carrick Hill
+    additional_authors: Bryan Collier
+    isbn: 031610731X
+    isbn13: '9780316107310'
+    publisher: Little, Brown Books for Young Readers
+    binding: Hardcover
+    number_of_pages: 40
+    year_published: 2010
+    original_publication_year: 2010
+    date_read: '2016-02-12'
+    date_added: '2017-01-08'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#2)
+    exclusive_shelf: read
+- 8062379:
+    book_id: 8062379
+    title: 'Creating a Forest Garden: Working with Nature to Grow Edible Crops'
+    author: Martin Crawford
+    isbn: '1900322625'
+    isbn13: '9781900322621'
+    publisher: UIT Cambridge Ltd.
+    binding: Hardcover
+    number_of_pages: 384
+    year_published: 2010
+    original_publication_year: 2010
+    date_read: '2016-12-24'
+    date_added: '2017-01-08'
+    exclusive_shelf: read
+- 9346907:
+    book_id: 9346907
+    title: 'Bioshelter Market Garden: A Permaculture Farm'
+    author: Darrell Frey
+    isbn: 0865716781
+    isbn13: '9780865716780'
+    publisher: New Society Publishers
+    binding: Paperback
+    number_of_pages: 480
+    year_published: 2011
+    original_publication_year: 2011
+    date_added: '2017-01-08'
+    bookshelves: skimmed
+    bookshelves_with_positions: skimmed (#5)
+    exclusive_shelf: skimmed
+- 22180819:
+    book_id: 22180819
+    title: 'The Tao of Vegetable Gardening: Cultivating Tomatoes, Greens, Peas, Beans,
+      Squash, Joy, and Serenity'
+    author: Carol Deppe
+    isbn: '1603584870'
+    isbn13: '9781603584876'
+    publisher: Chelsea Green Publishing Company
+    binding: Paperback
+    number_of_pages: 288
+    year_published: 2015
+    original_publication_year: 2014
+    date_read: '2017-01-05'
+    date_added: '2017-01-08'
+    exclusive_shelf: read
+- 7519640:
+    book_id: 7519640
+    title: War
+    author: Sebastian Junger
+    isbn: '0446556246'
+    isbn13: '9780446556248'
+    publisher: Twelve
+    binding: Hardcover
+    number_of_pages: 304
+    year_published: 2010
+    original_publication_year: 2010
+    date_added: '2016-12-30'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#59)
+    exclusive_shelf: to-read
+- 72223:
+    book_id: 72223
+    title: 'The Worst Hard Time: The Untold Story of Those Who Survived the Great
+      American Dust Bowl'
+    author: Timothy Egan
+    isbn: 0618773479
+    isbn13: '9780618773473'
+    publisher: Mariner Books
+    binding: Paperback
+    number_of_pages: 312
+    year_published: 2006
+    original_publication_year: 2006
+    date_added: '2016-12-29'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#18)
+    exclusive_shelf: abandoned
+- 71642:
+    book_id: 71642
+    title: New and Selected Poems, Vol. 1
+    author: Mary Oliver
+    isbn: 0807068780
+    isbn13: '9780807068786'
+    publisher: Beacon Press
+    binding: Hardcover
+    number_of_pages: 272
+    year_published: 2004
+    original_publication_year: 1992
+    date_read: '2016-11-01'
+    date_added: '2016-12-29'
+    exclusive_shelf: read
+- 16248196:
+    book_id: 16248196
+    title: The Art of Thinking Clearly
+    author: Rolf Dobelli
+    isbn: 0062219685
+    isbn13: '9780062219688'
+    publisher: Harper
+    binding: Hardcover
+    number_of_pages: 384
+    year_published: 2013
+    original_publication_year: 2011
+    date_read: '2016-12-16'
+    date_added: '2016-12-29'
+    exclusive_shelf: read
+- 475:
+    book_id: 475
+    title: 'Collapse: How Societies Choose to Fail or Succeed'
+    author: Jared Diamond
+    isbn: '0143036556'
+    isbn13: '9780143036555'
+    publisher: Penguin Books Ltd. (London)
+    binding: Paperback
+    number_of_pages: 608
+    year_published: 2005
+    original_publication_year: 2004
+    date_added: '2016-12-28'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#58)
+    exclusive_shelf: to-read
+- 28449076:
+    book_id: 28449076
+    title: 'The Witches: Salem, 1692'
+    author: Stacy Schiff
+    isbn: 031620059X
+    isbn13: '9780316200592'
+    publisher: Back Bay Books
+    binding: Paperback
+    number_of_pages: 512
+    year_published: 2016
+    original_publication_year: 2015
+    date_added: '2016-12-21'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#57)
+    exclusive_shelf: to-read
+- 20174424:
+    book_id: 20174424
+    title: 'City of Stairs (The Divine Cities, #1)'
+    author: Robert Jackson Bennett
+    isbn: 080413717X
+    isbn13: '9780804137171'
+    publisher: Broadway Books
+    binding: Paperback
+    number_of_pages: 452
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2016-12-21'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#56)
+    exclusive_shelf: to-read
+- 20763766:
+    book_id: 20763766
+    title: 'Information Doesn''t Want to Be Free: Laws for the Internet Age'
+    author: Cory Doctorow
+    isbn: '1940450284'
+    isbn13: '9781940450285'
+    publisher: McSweeney's
+    binding: Hardcover
+    number_of_pages: 192
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2016-12-17'
+    date_added: '2016-12-18'
+    exclusive_shelf: read
+- 25898173:
+    book_id: 25898173
+    title: 'The Home That Was Our Country: A Memoir of Syria'
+    author: Alia Malek
+    isbn: '1568585322'
+    isbn13: '9781568585321'
+    publisher: Nation Books
+    binding: Hardcover
+    number_of_pages: 334
+    year_published: 2017
+    original_publication_year: 2016
+    date_added: '2016-12-16'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#16)
+    exclusive_shelf: hold
+- 8664353:
+    book_id: 8664353
+    title: 'Unbroken: A World War II Story of Survival, Resilience, and Redemption'
+    author: Laura Hillenbrand
+    isbn: '1400064163'
+    isbn13: '9781400064168'
+    publisher: Random House
+    binding: Hardcover
+    number_of_pages: 473
+    year_published: 2010
+    original_publication_year: 2010
+    date_read: '2016-12-10'
+    date_added: '2016-12-13'
+    exclusive_shelf: read
+- 30075802:
+    book_id: 30075802
+    title: The Princess Saves Herself in this One
+    author: Amanda Lovelace
+    isbn: '1532913680'
+    isbn13: '9781532913686'
+    publisher: CreateSpace
+    binding: Paperback
+    number_of_pages: 156
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2016-12-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#55)
+    exclusive_shelf: to-read
+- 22245334:
+    book_id: 22245334
+    title: 'The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of
+      Bureaucracy'
+    author: David Graeber
+    isbn: '1612193749'
+    isbn13: '9781612193748'
+    publisher: Melville House
+    binding: Hardcover
+    number_of_pages: 261
+    year_published: 2015
+    original_publication_year: 2013
+    date_added: '2016-12-09'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#54)
+    exclusive_shelf: to-read
+- 10115296:
+    book_id: 10115296
+    title: 'The Pun Also Rises: How the Humble Pun Revolutionized Language, Changed
+      History, and Made Wordplay More Than Some Antics'
+    author: John Pollack
+    isbn: '1592406238'
+    isbn13: '9781592406234'
+    publisher: Gotham
+    binding: Hardcover
+    number_of_pages: 240
+    year_published: 2011
+    original_publication_year: 2011
+    date_added: '2016-12-08'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#53)
+    exclusive_shelf: to-read
+- 163462:
+    book_id: 163462
+    title: 'Epitaph for a Peach: Four Seasons on My Family Farm'
+    author: David Mas Masumoto
+    isbn: 0062510258
+    isbn13: '9780062510259'
+    publisher: HarperOne
+    binding: Paperback
+    number_of_pages: 256
+    year_published: 1996
+    original_publication_year: 1995
+    date_read: '2016-11-27'
+    date_added: '2016-11-29'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#11)
+    exclusive_shelf: read
+- 18667790:
+    book_id: 18667790
+    title: 'The Third Plate: Field Notes on the Future of Food'
+    author: Dan Barber
+    isbn: '1594204071'
+    isbn13: '9781594204074'
+    publisher: Penguin Press
+    binding: Hardcover
+    number_of_pages: 496
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2016-11-27'
+    date_added: '2016-11-15'
+    exclusive_shelf: read
+- 23705512:
+    book_id: 23705512
+    title: You're Never Weird on the Internet (Almost)
+    author: Felicia Day
+    additional_authors: Joss Whedon
+    isbn: '1476785651'
+    isbn13: '9781476785653'
+    publisher: Touchstone
+    binding: Hardcover
+    number_of_pages: 272
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2016-11-11'
+    date_added: '2016-11-07'
+    exclusive_shelf: read
+- 17333324:
+    book_id: 17333324
+    title: 'Ancillary Justice (Imperial Radch #1)'
+    author: Ann Leckie
+    isbn: 031624662X
+    isbn13: '9780316246620'
+    publisher: Orbit
+    binding: Paperback
+    number_of_pages: 386
+    year_published: 2013
+    original_publication_year: 2013
+    date_read: '2015-04-07'
+    date_added: '2016-11-07'
+    exclusive_shelf: read
+- 21418013:
+    book_id: 21418013
+    title: 'Lock In (Lock In, #1)'
+    author: John Scalzi
+    isbn: 0765375869
+    isbn13: '9780765375865'
+    publisher: Tor Books
+    binding: Hardcover
+    number_of_pages: 336
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2015-09-07'
+    date_added: '2016-11-07'
+    exclusive_shelf: read
+- 18078311:
+    book_id: 18078311
+    title: 'Letters of Note: An Eclectic Collection of Correspondence Deserving of
+      a Wider Audience'
+    author: Shaun Usher
+    isbn: '1782112235'
+    isbn13: '9781782112235'
+    publisher: Canongate Unbound
+    binding: Hardcover
+    number_of_pages: 384
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2016-11-07'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#52)
+    exclusive_shelf: to-read
+- 18526648:
+    book_id: 18526648
+    title: The Oldest Living Things in the World
+    author: Rachel Sussman
+    additional_authors: Carl Zimmer, Hans Ulrich Obrist
+    isbn: 022605750X
+    isbn13: '9780226057507'
+    publisher: University Of Chicago Press
+    binding: Hardcover
+    number_of_pages: 269
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2016-11-07'
+    bookshelves: skimmed
+    bookshelves_with_positions: skimmed (#4)
+    exclusive_shelf: skimmed
+- 20344868:
+    book_id: 20344868
+    title: The Encyclopedia of Trouble and Spaciousness
+    author: Rebecca Solnit
+    isbn: '1595341986'
+    isbn13: '9781595341983'
+    publisher: Trinity University Press
+    binding: Hardcover
+    number_of_pages: 334
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2016-12-18'
+    date_added: '2016-11-07'
+    exclusive_shelf: read
+- 13588404:
+    book_id: 13588404
+    title: A Thousand Mornings
+    author: Mary Oliver
+    isbn: '1594204772'
+    isbn13: '9781594204777'
+    publisher: Penguin Press
+    binding: Hardcover
+    number_of_pages: 82
+    year_published: 2012
+    original_publication_year: 2012
+    date_read: '2016-11-04'
+    date_added: '2016-11-07'
+    exclusive_shelf: read
+- 18528190:
+    book_id: 18528190
+    title: Men Explain Things to Me
+    author: Rebecca Solnit
+    isbn: '1608463869'
+    isbn13: '9781608463862'
+    publisher: Haymarket Books
+    binding: Paperback
+    number_of_pages: 130
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2016-12-29'
+    date_added: '2016-11-07'
+    exclusive_shelf: read
+- 7170627:
+    book_id: 7170627
+    title: 'The Emperor of All Maladies: A Biography of Cancer'
+    author: Siddhartha Mukherjee
+    isbn: '1439107955'
+    isbn13: '9781439107959'
+    publisher: Scribner
+    binding: Hardcover
+    number_of_pages: 571
+    year_published: 2010
+    original_publication_year: 2010
+    date_added: '2016-11-07'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#51)
+    exclusive_shelf: to-read
+- 24972194:
+    book_id: 24972194
+    title: 'On the Move: A Life'
+    author: Oliver Sacks
+    isbn: 0385352549
+    isbn13: '9780385352543'
+    publisher: Knopf
+    binding: Hardcover
+    number_of_pages: 397
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2016-10-25'
+    date_added: '2016-11-02'
+    exclusive_shelf: read
+- 7258237:
+    book_id: 7258237
+    title: 'Plenitude: The New Economics of True Wealth'
+    author: Juliet B. Schor
+    isbn: '1594202540'
+    isbn13: '9781594202544'
+    publisher: Penguin Press
+    binding: Hardcover
+    number_of_pages: 272
+    year_published: 2010
+    original_publication_year: 2010
+    date_added: '2016-11-02'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#16)
+    exclusive_shelf: abandoned
+- 18730154:
+    book_id: 18730154
+    title: 'My Drunk Kitchen: A Guide to Eating, Drinking, and Going with Your Gut'
+    author: Hannah Hart
+    isbn: 0062293036
+    isbn13: '9780062293039'
+    publisher: Dey Street Books
+    binding: Hardcover
+    number_of_pages: 240
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2016-11-02'
+    bookshelves: skimmed
+    bookshelves_with_positions: skimmed (#3)
+    exclusive_shelf: skimmed
+- 25776682:
+    book_id: 25776682
+    title: 'The Abundance: Narrative Essays Old and New'
+    author: Annie Dillard
+    isbn: '0062433016'
+    isbn13: '9780062433015'
+    publisher: Ecco
+    binding: ebook
+    number_of_pages: 304
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-09-13'
+    date_added: '2016-11-02'
+    exclusive_shelf: read
+    read_count: 1
+- 83988:
+    book_id: 83988
+    title: 'Once Upon a Quinceanera: Coming of Age in the USA'
+    author: Julia Alvarez
+    isbn: 0670038733
+    isbn13: '9780670038732'
+    publisher: Viking Adult
+    binding: Hardcover
+    number_of_pages: 288
+    year_published: 2007
+    original_publication_year: 2007
+    date_read: '2016-10-12'
+    date_added: '2016-11-02'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#10)
+    exclusive_shelf: read
+- 20787425:
+    book_id: 20787425
+    title: 'Reinventing Organizations: A Guide to Creating Organizations Inspired
+      by the Next Stage of Human Consciousness'
+    author: Frederic Laloux
+    additional_authors: Ken Wilber
+    isbn: ''
+    isbn13: ''
+    publisher: Nelson Parker
+    binding: Kindle Edition
+    number_of_pages: 382
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2016-11-01'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#50)
+    exclusive_shelf: to-read
+- 13330771:
+    book_id: 13330771
+    title: Hallucinations
+    author: Oliver Sacks
+    isbn: 0307957241
+    isbn13: '9780307957245'
+    publisher: Knopf
+    binding: Hardcover
+    number_of_pages: 326
+    year_published: 2012
+    original_publication_year: 1995
+    date_added: '2016-10-29'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#49)
+    exclusive_shelf: to-read
+- 14456:
+    book_id: 14456
+    title: Awakenings
+    author: Oliver Sacks
+    isbn: '0375704051'
+    isbn13: '9780375704055'
+    publisher: Vintage
+    binding: Paperback
+    number_of_pages: 464
+    year_published: 1999
+    original_publication_year: 1973
+    date_added: '2016-10-29'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#48)
+    exclusive_shelf: to-read
+- 428157:
+    book_id: 428157
+    title: 'The Mind of a Mnemonist: A Little Book about a Vast Memory'
+    author: Alexander R. Luria
+    additional_authors: Jerome Bruner
+    isbn: '0674576225'
+    isbn13: '9780674576223'
+    publisher: Harvard University Press
+    binding: Paperback
+    number_of_pages: 192
+    year_published: 1987
+    original_publication_year: 1968
+    date_added: '2016-10-29'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#47)
+    exclusive_shelf: to-read
+- 79766:
+    book_id: 79766
+    title: 'A Pattern Language: Towns, Buildings, Construction'
+    author: Christopher W. Alexander
+    additional_authors: Sara Ishikawa, Murray Silverstein, Max  Jacobson, Ingrid Fiksdahl-King,
+      Shlomo Angel
+    isbn: 0195019199
+    isbn13: '9780195019193'
+    publisher: Oxford University Press, USA
+    binding: Hardcover
+    number_of_pages: 1216
+    year_published: 1977
+    original_publication_year: 1977
+    date_added: '2016-10-06'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#17)
+    exclusive_shelf: abandoned
+- 7815:
+    book_id: 7815
+    title: The Year of Magical Thinking
+    author: Joan Didion
+    isbn: '1400078431'
+    isbn13: '9781400078431'
+    publisher: Vintage
+    binding: Paperback
+    number_of_pages: 227
+    year_published: 2007
+    original_publication_year: 2005
+    date_read: '2016-10-06'
+    date_added: '2016-10-06'
+    exclusive_shelf: read
+- 18642003:
+    book_id: 18642003
+    title: 'Not by Chance: How Parents Boost Their Teen''s Success In and After Treatment'
+    author: Tim Thayne
+    isbn: '1599323176'
+    isbn13: '9781599323176'
+    publisher: Advantage Media Group
+    binding: Hardcover
+    number_of_pages: 304
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2016-10-02'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#46)
+    exclusive_shelf: to-read
+- 338540:
+    book_id: 338540
+    title: The Economy As An Evolving Complex System
+    author: Philip Anderson
+    additional_authors: David Pines, Kenneth J. Arrow
+    isbn: 0201156857
+    isbn13: '9780201156850'
+    publisher: Westview Press
+    binding: Paperback
+    number_of_pages: 336
+    year_published: 1988
+    original_publication_year: 1988
+    date_added: '2016-10-02'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#45)
+    exclusive_shelf: to-read
+- 1877110:
+    book_id: 1877110
+    title: Dynamics Of Complex Systems
+    author: Yaneer Bar-Yam
+    isbn: 0813341213
+    isbn13: '9780813341217'
+    publisher: Westview Press
+    binding: Paperback
+    number_of_pages: 864
+    year_published: 2003
+    original_publication_year: 1997
+    date_added: '2016-10-02'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#44)
+    exclusive_shelf: to-read
+- 26200563:
+    book_id: 26200563
+    title: 'Hamilton: The Revolution'
+    author: Lin-Manuel Miranda
+    additional_authors: Jeremy McCarter
+    isbn: '1455539740'
+    isbn13: '9781455539741'
+    publisher: Grand Central Publishing
+    binding: Hardcover
+    number_of_pages: 288
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2016-10-02'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#43)
+    exclusive_shelf: to-read
+- 118944:
+    book_id: 118944
+    title: American Born Chinese
+    author: Gene Luen Yang
+    isbn: '1596431520'
+    isbn13: '9781596431522'
+    publisher: First Second
+    binding: Paperback
+    number_of_pages: 240
+    year_published: 2006
+    original_publication_year: 2006
+    date_added: '2016-10-02'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#42)
+    exclusive_shelf: to-read
+- 21326:
+    book_id: 21326
+    title: 'Fables, Vol. 1: Legends in Exile'
+    author: Bill Willingham
+    additional_authors: Lan Medina, Steve Leialoha, Craig Hamilton, James Jean
+    isbn: '1563899426'
+    isbn13: '9781563899423'
+    publisher: Vertigo
+    binding: Paperback
+    number_of_pages: 128
+    year_published: 2002
+    original_publication_year: 2001
+    date_read: '2016-02-02'
+    date_added: '2016-10-02'
+    exclusive_shelf: read
+- 9516:
+    book_id: 9516
+    title: 'Persepolis: The Story of a Childhood (Persepolis, #1)'
+    author: Marjane Satrapi
+    additional_authors: Mattias Ripa
+    isbn: 037571457X
+    isbn13: '9780375714573'
+    publisher: Pantheon
+    binding: Paperback
+    number_of_pages: 153
+    year_published: 2004
+    original_publication_year: 2000
+    date_added: '2016-10-02'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#41)
+    exclusive_shelf: to-read
+- 12527:
+    book_id: 12527
+    title: Pilgrim at Tinker Creek
+    author: Annie Dillard
+    isbn: '0072434171'
+    isbn13: '9780072434170'
+    publisher: Harper Perennial
+    binding: Paperback
+    number_of_pages: 288
+    year_published: 2000
+    original_publication_year: 1974
+    date_added: '2016-10-01'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#40)
+    exclusive_shelf: to-read
+- 24817626:
+    book_id: 24817626
+    title: Go Set a Watchman
+    author: Harper Lee
+    isbn: 0062409859
+    isbn13: '9780062409850'
+    publisher: HarperCollins
+    binding: Hardcover
+    number_of_pages: 278
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2016-10-10'
+    date_added: '2016-10-01'
+    exclusive_shelf: read
+- 13152194:
+    book_id: 13152194
+    title: 'Tiny Beautiful Things: Advice on Love and Life from Dear Sugar'
+    author: Cheryl Strayed
+    isbn: 030794932X
+    isbn13: '9780307949325'
+    publisher: Vintage
+    binding: ebook
+    number_of_pages: 304
+    year_published: 2012
+    original_publication_year: 2012
+    date_read: '2016-10-01'
+    date_added: '2016-10-01'
+    exclusive_shelf: read
+- 12530:
+    book_id: 12530
+    title: The Writing Life
+    author: Annie Dillard
+    isbn: 0060919884
+    isbn13: '9780060919887'
+    publisher: Harper Perennial (HarperCollins)
+    binding: Paperback
+    number_of_pages: 113
+    year_published: 1998
+    original_publication_year: 1989
+    date_read: '2016-10-01'
+    date_added: '2016-10-01'
+    exclusive_shelf: read
+- 10639:
+    book_id: 10639
+    title: 'The Paradox of Choice: Why More Is Less'
+    author: Barry Schwartz
+    isbn: 0060005696
+    isbn13: '9780060005696'
+    publisher: Harper Perennial
+    binding: Paperback
+    number_of_pages: 265
+    year_published: 2005
+    original_publication_year: 2004
+    date_added: '2016-09-20'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#39)
+    exclusive_shelf: to-read
+- 17573685:
+    book_id: 17573685
+    title: The Feminine Mystique
+    author: Betty Friedan
+    additional_authors: Anna Quindlen, Gail Collins
+    isbn: 0393346781
+    isbn13: '9780393346787'
+    publisher: W. W. Norton  Company
+    binding: Paperback
+    number_of_pages: 592
+    year_published: 2013
+    original_publication_year: 1963
+    date_added: '2016-09-20'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#38)
+    exclusive_shelf: to-read
+- 28432244:
+    book_id: 28432244
+    title: 'Shrill: Notes from a Loud Woman'
+    author: Lindy West
+    isbn: ''
+    isbn13: ''
+    publisher: Hachette Books
+    binding: Kindle Edition
+    number_of_pages: 272
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2016-09-20'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#37)
+    exclusive_shelf: to-read
+- 25667449:
+    book_id: 25667449
+    title: 'The Lonely City: Adventures in the Art of Being Alone'
+    author: Olivia Laing
+    isbn: '1250039576'
+    isbn13: '9781250039576'
+    publisher: Picador
+    binding: Hardcover
+    number_of_pages: 336
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-11-21'
+    date_added: '2016-09-20'
+    exclusive_shelf: read
+- 26792189:
+    book_id: 26792189
+    title: The Geek Feminist Revolution
+    author: Kameron Hurley
+    isbn: 0765386259
+    isbn13: '9780765386250'
+    publisher: Tor Books
+    binding: ebook
+    number_of_pages: 285
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-09-19'
+    date_added: '2016-09-20'
+    exclusive_shelf: read
+- 22875103:
+    book_id: 22875103
+    title: The Fishermen
+    author: Chigozie Obioma
+    isbn: 0316338370
+    isbn13: '9780316338370'
+    publisher: Little, Brown and Company
+    binding: Hardcover
+    number_of_pages: 304
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2016-10-01'
+    date_added: '2016-09-17'
+    exclusive_shelf: read
+- 27882150:
+    book_id: 27882150
+    title: The World According to Star Wars
+    author: Cass R. Sunstein
+    isbn: 0062484222
+    isbn13: '9780062484222'
+    publisher: Dey Street Books
+    binding: Hardcover
+    number_of_pages: 223
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-09-17'
+    date_added: '2016-09-17'
+    exclusive_shelf: read
+- 28014216:
+    book_id: 28014216
+    title: 'The Nordic Theory of Everything: In Search of a Better Life'
+    author: Anu  Partanen
+    isbn: '0062316567'
+    isbn13: '9780062316561'
+    publisher: Harper
+    binding: ebook
+    number_of_pages: 432
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2016-09-08'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#36)
+    exclusive_shelf: to-read
+- 16130:
+    book_id: 16130
+    title: Alexander Hamilton
+    author: Ron Chernow
+    isbn: 0143034758
+    isbn13: '9780143034759'
+    publisher: Penguin Books
+    binding: Paperback
+    number_of_pages: 731
+    year_published: 2005
+    original_publication_year: 2004
+    date_added: '2016-09-05'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#35)
+    exclusive_shelf: to-read
+- 10864102:
+    book_id: 10864102
+    title: The Absolute Sandman, Volume Five
+    author: Neil Gaiman
+    additional_authors: P. Craig Russell, Yoshitaka Amano, Teddy Kristiansen, Milo
+      Manara, Miguelanxo Prado, Barron Storey, Bill Sienkiewicz, Glenn Fabry, Frank
+      Quitely, Dave McKean, Lovern Kindzierski, Christopher Chuckry, Todd Klein
+    isbn: '1401232027'
+    isbn13: '9781401232023'
+    publisher: Vertigo
+    binding: Slipcased Hardcover
+    number_of_pages: 520
+    year_published: 2011
+    original_publication_year: 2011
+    date_added: '2016-09-05'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#34)
+    exclusive_shelf: to-read
+- 3375878:
+    book_id: 3375878
+    title: The Absolute Sandman, Volume Four
+    author: Neil Gaiman
+    additional_authors: Marc Hempel, Michael Zulli, D'Israeli, Richard Case, Charles
+      Vess, Teddy Kristiansen, Jon J. Muth, Kevin Nowlan, Dean Ormston, Glyn Dillion,
+      Daniel Vozzo, Todd Klein, Dave McKean
+    isbn: '1401210856'
+    isbn13: '9781401210854'
+    publisher: Vertigo
+    binding: Slipcased Hardcover
+    number_of_pages: 608
+    year_published: 2008
+    original_publication_year: 2008
+    date_read: '2016-11-11'
+    date_added: '2016-09-05'
+    exclusive_shelf: read
+- 2186848:
+    book_id: 2186848
+    title: The Absolute Sandman, Volume Three
+    author: Neil Gaiman
+    additional_authors: Jill Thompson, Vince Locke, Bryan Talbot, Mark Buckingham,
+      P. Craig Russell, Michael Zulli, John Watkiss, Dick Giordano, Mike Allred, Shea
+      Anton Pensa, Alec Stevens, Gary Amaro, Kent Williams, Tony Harris, Steve Leialoha,
+      Daniel Vozzo, Lovern Kindzierski, Sherilyn van Valkenburgh, Todd Klein, Dave
+      McKean
+    isbn: '1401210848'
+    isbn13: '9781401210847'
+    publisher: Vertigo
+    binding: Slipcased Hardcover
+    number_of_pages: 616
+    year_published: 2008
+    original_publication_year: 2008
+    date_read: '2016-11-02'
+    date_added: '2016-09-05'
+    exclusive_shelf: read
+- 1025685:
+    book_id: 1025685
+    title: The Absolute Sandman, Volume Two
+    author: Neil Gaiman
+    additional_authors: Shawn McManus, Kelley Jones, Mike Dringenberg, Bryan Talbot,
+      John Watkiss, Matt Wagner, Stan Woch, Colleen Doran, Duncan Eagleson, John Bolton,
+      Malcolm Jones III, George Pratt, Dick Giordano, P. Craig Russell, Vince Locke,
+      Daniel Vozzo, Steve Oliff, Todd Klein, Dave McKean
+    isbn: 140121083X
+    isbn13: '9781401210830'
+    publisher: Vertigo
+    binding: Slipcased Hardcover
+    number_of_pages: 616
+    year_published: 2007
+    original_publication_year: 2007
+    date_read: '2016-10-01'
+    date_added: '2016-09-05'
+    exclusive_shelf: read
+- 23753:
+    book_id: 23753
+    title: The Absolute Sandman, Volume One
+    author: Neil Gaiman
+    additional_authors: Mike Dringenberg, Chris Bachalo, Michael Zulli, Kelly Jones,
+      Charles Vess, Colleen Doran, Malcolm Jones III, Steve Parkhouse, Daniel Vozzo,
+      Lee Loughridge, Steve Oliff, Todd Klein, Dave McKean, Sam Kieth
+    isbn: '1401210821'
+    isbn13: '9781401210823'
+    publisher: Vertigo
+    binding: Slipcased Hardcover
+    number_of_pages: 612
+    year_published: 2006
+    original_publication_year: 2006
+    date_read: '2016-08-26'
+    date_added: '2016-09-05'
+    exclusive_shelf: read
+- 17468561:
+    book_id: 17468561
+    title: The Moth
+    author: Catherine Burns
+    additional_authors: Adam Gopnick, George Dawes Green, James  Braly, Damien Echols,
+      Ari Handel, Anoid Latipovna Rakhmatyllaeva, Joe Lockhart, Wayne Reece, Richard
+      Price, Jon Levin, Annie Duke, Michael Massimino, Kimberly Reed, Darryl McDaniels,
+      Sherman Powell, Ed Gavagan, Marvin Gelfand, Paul Nurse, Steve Osborne, Erin
+      Barker, Edgar Oliver, Ellie Lee, Carly Johnstone, Sebastian Junger, Andy Christie,
+      Malcolm Gladwell, Ophira Eisenberg, Ted Conover, Matthew Mcgough, Jeffery Rudell,
+      Elna Barker, Tristan Jimerson, Aimee Mullins, Janna Levin, Nathan Englander,
+      Wanda Bullard, Kemp Powers, Jenny Allen, Joyce Maynard, Stephanie Summerville,
+      Jenifer Hixson, Brian Finkelstein, Faye Lane, Mike DeStefano, George Lombardi,
+      Andrew Solomon, Alan Rabinowitz, Jillian Lauren, A.E. Hotchner
+    isbn: '1401311113'
+    isbn13: '9781401311117'
+    publisher: Hachette Books
+    binding: Paperback
+    number_of_pages: 410
+    year_published: 2013
+    original_publication_year: 2013
+    date_read: '2016-08-30'
+    date_added: '2016-08-22'
+    exclusive_shelf: read
+- 24331386:
+    book_id: 24331386
+    title: 'The View from the Cheap Seats: Selected Nonfiction'
+    author: Neil Gaiman
+    isbn: '0062262262'
+    isbn13: '9780062262264'
+    publisher: William Morrow
+    binding: Hardcover
+    number_of_pages: 522
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-08-16'
+    date_added: '2016-08-04'
+    exclusive_shelf: read
+- 28649432:
+    book_id: 28649432
+    title: 'Catching Homelessness: A Nurse''s Story of Falling Through the Safety
+      Net'
+    author: Josephine Ensign
+    isbn: '1631521179'
+    isbn13: '9781631521171'
+    publisher: She Writes Press
+    binding: Paperback
+    number_of_pages: 240
+    year_published: 2016
+    date_added: '2016-08-04'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#33)
+    exclusive_shelf: to-read
+- 8234930:
+    book_id: 8234930
+    title: The Anthropology of Learning in Childhood
+    author: David F. Lancy
+    additional_authors: John Bock, Suzanne Gaskins
+    isbn: 075911322X
+    isbn13: '9780759113220'
+    publisher: Altamira Press
+    binding: Hardcover
+    number_of_pages: 483
+    year_published: 2010
+    original_publication_year: 2010
+    date_added: '2016-08-04'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#32)
+    exclusive_shelf: to-read
+- 6867864:
+    book_id: 6867864
+    title: 'The Cross of Redemption: Uncollected Writings'
+    author: James     Baldwin
+    additional_authors: Randall Kenan
+    isbn: 0307378829
+    isbn13: '9780307378828'
+    publisher: Pantheon
+    binding: Hardcover
+    number_of_pages: 336
+    year_published: 2010
+    original_publication_year: 2010
+    date_added: '2016-08-04'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#31)
+    exclusive_shelf: to-read
+- 15916:
+    book_id: 15916
+    title: 'The True Believer: Thoughts on the Nature of Mass Movements'
+    author: Eric Hoffer
+    isbn: 0060505915
+    isbn13: '9780060505912'
+    publisher: Harper Perennial Modern Classics
+    binding: Paperback
+    number_of_pages: 240
+    year_published: 2010
+    original_publication_year: 1951
+    date_added: '2016-07-25'
+    bookshelves: skimmed
+    bookshelves_with_positions: skimmed (#1)
+    exclusive_shelf: skimmed
+- 20890478:
+    book_id: 20890478
+    title: 'Ravensbrück: Life and Death in Hitler''s Concentration Camp for Women'
+    author: Sarah Helm
+    isbn: 038552059X
+    isbn13: '9780385520591'
+    publisher: Nan A. Talese
+    binding: Hardcover
+    number_of_pages: 768
+    year_published: 2015
+    original_publication_year: 2015
+    date_added: '2016-07-19'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#30)
+    exclusive_shelf: to-read
+- 23399020:
+    book_id: 23399020
+    title: 'Nagasaki: Life After Nuclear War'
+    author: Susan Southard
+    isbn: '0670025623'
+    isbn13: '9780670025626'
+    publisher: Viking
+    binding: Hardcover
+    number_of_pages: 416
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2016-07-15'
+    date_added: '2016-07-17'
+    exclusive_shelf: read
+- 28695425:
+    book_id: 28695425
+    title: 'Strangers in Their Own Land: Anger and Mourning on the American Right'
+    author: Arlie Russell Hochschild
+    isbn: '1620972255'
+    isbn13: '9781620972250'
+    publisher: New Press
+    binding: Hardcover
+    number_of_pages: 288
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-10-10'
+    date_added: '2016-07-11'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#9)
+    exclusive_shelf: read
+- 5587960:
+    book_id: 5587960
+    title: The Thing Around Your Neck
+    author: Chimamanda Ngozi Adichie
+    isbn: '0307271072'
+    isbn13: '9780307271075'
+    publisher: Knopf
+    binding: Hardcover
+    number_of_pages: 218
+    year_published: 2009
+    original_publication_year: 2009
+    date_read: '2016-07-22'
+    date_added: '2016-07-10'
+    exclusive_shelf: read
+- 126381:
+    book_id: 126381
+    title: Purple Hibiscus
+    author: Chimamanda Ngozi Adichie
+    isbn: 0007189885
+    isbn13: '9780007189885'
+    publisher: Harper Perennial
+    binding: Paperback
+    number_of_pages: 307
+    year_published: 2005
+    original_publication_year: 2003
+    date_read: '2016-08-10'
+    date_added: '2016-07-10'
+    exclusive_shelf: read
+- 15796700:
+    book_id: 15796700
+    title: Americanah
+    author: Chimamanda Ngozi Adichie
+    isbn: 0307271080
+    isbn13: '9780307271082'
+    publisher: Knopf
+    binding: Hardcover
+    number_of_pages: 477
+    year_published: 2013
+    original_publication_year: 2013
+    date_read: '2016-08-04'
+    date_added: '2016-07-10'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#8)
+    exclusive_shelf: read
+- 171127:
+    book_id: 171127
+    title: 'The Little Book of Common Sense Investing: The Only Way to Guarantee Your
+      Fair Share of Stock Market Returns'
+    author: John C. Bogle
+    isbn: '0470102101'
+    isbn13: '9780470102107'
+    publisher: John Wiley & Sons
+    binding: Hardcover
+    number_of_pages: 216
+    year_published: 2007
+    original_publication_year: 2007
+    date_read: '2016-05-10'
+    date_added: '2016-07-10'
+    bookshelves: skimmed
+    bookshelves_with_positions: skimmed (#2)
+    exclusive_shelf: skimmed
+- 26113735:
+    book_id: 26113735
+    title: The Girl Who Saved Yesterday
+    author: Julius Lester
+    additional_authors: Carl Angel
+    isbn: '1939547245'
+    isbn13: '9781939547248'
+    publisher: Creston Books
+    binding: Hardcover
+    number_of_pages: 32
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-07-01'
+    date_added: '2016-07-10'
+    exclusive_shelf: read
+- 1545795:
+    book_id: 1545795
+    title: 'Mary McLeod Bethune: Building a Better World, Essays and Selected Documents'
+    author: Audrey Thomas McCluskey
+    isbn: 025321503X
+    isbn13: '9780253215031'
+    publisher: Indiana University Press
+    binding: Paperback
+    number_of_pages: 336
+    year_published: 2001
+    original_publication_year: 1999
+    date_added: '2016-07-10'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#14)
+    exclusive_shelf: abandoned
+- 2010938:
+    book_id: 2010938
+    title: 'No More Teams: Mastering the Dynamics of Creative Collaboration'
+    author: Michael Schrage
+    isbn: 0385476035
+    isbn13: '9780385476034'
+    publisher: Crown Business
+    binding: Paperback
+    number_of_pages: 241
+    year_published: 1995
+    original_publication_year: 1995
+    date_added: '2016-07-10'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#13)
+    exclusive_shelf: abandoned
+- 13587160:
+    book_id: 13587160
+    title: 'To Save Everything, Click Here: The Folly of Technological Solutionism'
+    author: Evgeny Morozov
+    isbn: '1610391381'
+    isbn13: '9781610391382'
+    publisher: PublicAffairs
+    binding: Hardcover
+    number_of_pages: 415
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2016-07-10'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#12)
+    exclusive_shelf: abandoned
+- 15195:
+    book_id: 15195
+    title: 'The Complete Maus (Maus, #1-2)'
+    author: Art Spiegelman
+    isbn: 0141014083
+    isbn13: '9780141014081'
+    publisher: Penguin Books
+    binding: Paperback
+    number_of_pages: 296
+    year_published: 2003
+    original_publication_year: 1986
+    date_read: '2016-07-07'
+    date_added: '2016-07-10'
+    exclusive_shelf: read
+- 2880662:
+    book_id: 2880662
+    title: 'This Land Is Their Land: Reports from a Divided Nation'
+    author: Barbara Ehrenreich
+    isbn: 0805088407
+    isbn13: '9780805088403'
+    publisher: Metropolitan Books
+    binding: Hardcover
+    number_of_pages: 235
+    year_published: 2008
+    original_publication_year: 2008
+    date_read: '2016-07-10'
+    date_added: '2016-07-10'
+    exclusive_shelf: read
+- 18521:
+    book_id: 18521
+    title: A Room of One's Own
+    author: Virginia Woolf
+    isbn: 0141183535
+    isbn13: '9780141183534'
+    publisher: Penguin Books, Limited (UK)
+    binding: Mass Market Paperback
+    number_of_pages: 112
+    year_published: 2002
+    original_publication_year: 1929
+    date_read: '2016-07-02'
+    date_added: '2016-07-10'
+    exclusive_shelf: read
+- 23848047:
+    book_id: 23848047
+    title: 'Resurrection Science: Conservation, De-extinction and the Precarious Future
+      of Wild Things'
+    author: M.R. O'Connor
+    isbn: 113727929X
+    isbn13: '9781137279293'
+    publisher: St. Martin's Press
+    binding: Hardcover
+    number_of_pages: 272
+    year_published: 2015
+    original_publication_year: 2015
+    date_added: '2016-07-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#29)
+    exclusive_shelf: to-read
+- 25159334:
+    book_id: 25159334
+    title: 'Pushout: The Criminalization of Black Girls in Schools'
+    author: Monique Morris
+    isbn: '1620970945'
+    isbn13: '9781620970942'
+    publisher: The New Press
+    binding: Hardcover
+    number_of_pages: 277
+    year_published: 2016
+    original_publication_year: 2016
+    date_added: '2016-07-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#28)
+    exclusive_shelf: to-read
+- 2150054:
+    book_id: 2150054
+    title: Streetwise
+    author: Mary Ellen Mark
+    additional_authors: John Irving
+    isbn: 0812212681
+    isbn13: '9780812212686'
+    publisher: University of Pennsylvania Press
+    binding: Paperback
+    number_of_pages: 77
+    year_published: 1988
+    original_publication_year: 1988
+    date_added: '2016-07-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#27)
+    exclusive_shelf: to-read
+- 289751:
+    book_id: 289751
+    title: 'Proust and the Squid: The Story and Science of the Reading Brain'
+    author: Maryanne Wolf
+    isbn: 0060186399
+    isbn13: '9780060186395'
+    publisher: Harper
+    binding: Hardcover
+    number_of_pages: 308
+    year_published: 2007
+    original_publication_year: 2007
+    date_added: '2016-07-10'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#15)
+    exclusive_shelf: abandoned
+- 60931:
+    book_id: 60931
+    title: Kindred
+    author: Octavia E. Butler
+    isbn: 0807083690
+    isbn13: '9780807083697'
+    publisher: Beacon Press
+    binding: Paperback
+    number_of_pages: 287
+    year_published: 2004
+    original_publication_year: 1979
+    date_added: '2016-07-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#26)
+    exclusive_shelf: to-read
+- 9476755:
+    book_id: 9476755
+    title: 'Revolutionary Women: A Book of Stencils'
+    author: Queen of the Neighbourhood
+    isbn: '1604862009'
+    isbn13: '9781604862003'
+    publisher: PM Press
+    binding: Paperback
+    number_of_pages: 128
+    year_published: 2010
+    original_publication_year: 2010
+    date_added: '2016-07-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#25)
+    exclusive_shelf: to-read
+- 125441:
+    book_id: 125441
+    title: An Autobiography
+    author: Angela Y. Davis
+    isbn: 0717806677
+    isbn13: '9780717806676'
+    publisher: International Publishers
+    binding: Paperback
+    number_of_pages: 416
+    year_published: 1989
+    original_publication_year: 1974
+    date_added: '2016-07-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#24)
+    exclusive_shelf: to-read
+- 8908:
+    book_id: 8908
+    title: 'World War Z: An Oral History of the Zombie War'
+    author: Max Brooks
+    isbn: 0307346609
+    isbn13: '9780307346605'
+    publisher: Crown
+    binding: Hardcover
+    number_of_pages: 342
+    year_published: 2006
+    original_publication_year: 2006
+    date_read: '2016-07-05'
+    date_added: '2016-07-05'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#11)
+    exclusive_shelf: abandoned
+- 18749:
+    book_id: 18749
+    title: Half of a Yellow Sun
+    author: Chimamanda Ngozi Adichie
+    isbn: '1400044162'
+    isbn13: '9781400044160'
+    publisher: Knopf
+    binding: Hardcover
+    number_of_pages: 433
+    year_published: 2006
+    original_publication_year: 2006
+    date_read: '2016-07-09'
+    date_added: '2016-07-04'
+    exclusive_shelf: read
+- 769016:
+    book_id: 769016
+    title: How to Talk So Kids Will Listen & Listen So Kids Will Talk
+    author: Adele Faber
+    additional_authors: Elaine Mazlish, Kimberly Ann Coe
+    isbn: 0380811960
+    isbn13: '9780380811960'
+    publisher: Collins Living
+    binding: Paperback
+    number_of_pages: 286
+    year_published: 1999
+    original_publication_year: 1979
+    date_added: '2016-07-01'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#10)
+    exclusive_shelf: abandoned
+- 64582:
+    book_id: 64582
+    title: 'Chaos: Making a New Science'
+    author: James Gleick
+    isbn: 0140092501
+    isbn13: '9780140092509'
+    publisher: Penguin Books
+    binding: Paperback
+    number_of_pages: 352
+    year_published: 1988
+    original_publication_year: 1987
+    date_read: '2016-06-10'
+    date_added: '2016-06-20'
+    exclusive_shelf: read
+- 22738563:
+    book_id: 22738563
+    title: We Should All Be Feminists
+    author: Chimamanda Ngozi Adichie
+    isbn: ''
+    isbn13: ''
+    publisher: Vintage
+    binding: Kindle Edition
+    number_of_pages: 49
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2016-08-02'
+    date_added: '2016-06-12'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#7)
+    exclusive_shelf: read
+- 6422661:
+    book_id: 6422661
+    title: 'Look Both Ways: Illustrated Essays on the Intersection of Life and Design'
+    author: Debbie Millman
+    isbn: '1600613217'
+    isbn13: '9781600613210'
+    publisher: HOW Books
+    binding: Hardcover
+    number_of_pages: 224
+    year_published: 2009
+    original_publication_year: 2009
+    date_added: '2016-06-04'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#23)
+    exclusive_shelf: to-read
+- 10887582:
+    book_id: 10887582
+    title: 'Design Like You Give a Damn {2}: Building Change from the Ground Up'
+    author: Architecture For Humanity
+    isbn: 0810997029
+    isbn13: '9780810997028'
+    publisher: Harry N. Abrams
+    binding: Paperback
+    number_of_pages: 336
+    year_published: 2012
+    original_publication_year: 2011
+    date_read: '2016-06-12'
+    date_added: '2016-05-24'
+    exclusive_shelf: read
+- 13628572:
+    book_id: 13628572
+    title: The Connected Company
+    author: Dave  Gray
+    isbn: 144931905X
+    isbn13: '9781449319052'
+    publisher: O'Reilly Media
+    binding: Hardcover
+    number_of_pages: 304
+    year_published: 2012
+    original_publication_year: 2012
+    date_added: '2016-05-22'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#15)
+    exclusive_shelf: hold
+- 25636791:
+    book_id: 25636791
+    title: What Matters Now
+    author: Gary Hamel
+    isbn: '8126534958'
+    isbn13: ''
+    publisher: Wiley India Pvt Ltd
+    binding: Paperback
+    number_of_pages: 304
+    year_published: 2012
+    original_publication_year: 2011
+    date_read: '2016-05-21'
+    date_added: '2016-05-22'
+    exclusive_shelf: read
+- 9839954:
+    book_id: 9839954
+    title: M Is for Magic
+    author: Neil Gaiman
+    isbn: 0061475815
+    isbn13: '9780061475818'
+    publisher: HarperCollins
+    binding: Audio
+    number_of_pages: 0
+    year_published: 2007
+    original_publication_year: 2007
+    date_read: '2016-06-02'
+    date_added: '2016-05-22'
+    exclusive_shelf: read
+- 16981:
+    book_id: 16981
+    title: Invisible Man
+    author: Ralph Ellison
+    isbn: 0679732764
+    isbn13: '9780679732761'
+    publisher: Vintage
+    binding: Paperback
+    number_of_pages: 581
+    year_published: 1995
+    original_publication_year: 1952
+    date_read: '2016-05-04'
+    date_added: '2016-05-22'
+    exclusive_shelf: read
+    spoiler: 'true'
+- 30068850:
+    book_id: 30068850
+    title: 'Rising: Strategies for the Broke, the At-Risk, and Those Who Love Them'
+    author: Joon Madriga
+    isbn: ''
+    isbn13: ''
+    binding: Kindle Edition
+    number_of_pages: 301
+    year_published: 2016
+    date_added: '2016-05-21'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#13)
+    exclusive_shelf: hold
+- 9272404:
+    book_id: 9272404
+    title: 'The Compass of Pleasure: How Our Brains Make Fatty Foods, Orgasm, Exercise,
+      Marijuana, Generosity, Vodka, Learning, and Gambling Feel So Good'
+    author: David J. Linden
+    isbn: 0670022586
+    isbn13: '9780670022588'
+    publisher: Viking
+    binding: Hardcover
+    number_of_pages: 240
+    year_published: 2011
+    original_publication_year: 2010
+    date_added: '2016-05-21'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#12)
+    exclusive_shelf: hold
+- 18693884:
+    book_id: 18693884
+    title: 'How Not to Be Wrong: The Power of Mathematical Thinking'
+    author: Jordan Ellenberg
+    isbn: '1594205221'
+    isbn13: '9781594205224'
+    publisher: Penguin Press
+    binding: Hardcover
+    number_of_pages: 480
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2016-05-21'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#22)
+    exclusive_shelf: to-read
+- 22875447:
+    book_id: 22875447
+    title: 'Work Rules!: Insights from Inside Google That Will Transform How You Live
+      and Lead'
+    author: Laszlo Bock
+    isbn: '1455554790'
+    isbn13: '9781455554799'
+    publisher: Twelve
+    binding: Hardcover
+    number_of_pages: 406
+    year_published: 2015
+    original_publication_year: 2015
+    date_read: '2016-05-13'
+    date_added: '2016-05-21'
+    exclusive_shelf: read
+- 1072491:
+    book_id: 1072491
+    title: 'Serious Play: How the World''s Best Companies Simulate to Innovate'
+    author: Michael Schrage
+    isbn: 0875848141
+    isbn13: '9780875848143'
+    publisher: Harvard Business Review Press
+    binding: Hardcover
+    number_of_pages: 272
+    year_published: 1999
+    original_publication_year: 1999
+    date_added: '2016-05-16'
+    bookshelves: design, hold
+    bookshelves_with_positions: design (#5), hold (#14)
+    exclusive_shelf: hold
+- 619759:
+    book_id: 619759
+    title: 'Creativity: A Handbook for Teachers'
+    author: Ai-Girl Tan
+    isbn: '9812569596'
+    isbn13: '9789812569592'
+    publisher: World Scientific Publishing Company
+    binding: Paperback
+    number_of_pages: 586
+    year_published: 2007
+    original_publication_year: 2007
+    date_added: '2016-05-16'
+    bookshelves: to-read, design
+    bookshelves_with_positions: to-read (#21), design (#4)
+    exclusive_shelf: to-read
+- 26506001:
+    book_id: 26506001
+    title: 'Crowdsourcing: Cloud-Based Software Development'
+    author: Wei Li
+    additional_authors: Michael N. Huhns, Wei-Tek Tsai, Wenjun Wu
+    isbn: '3662470101'
+    isbn13: '9783662470107'
+    publisher: Springer
+    binding: Hardcover
+    number_of_pages: 270
+    year_published: 2015
+    original_publication_year: 2015
+    date_added: '2016-05-16'
+    bookshelves: to-read, design
+    bookshelves_with_positions: to-read (#20), design (#1)
+    exclusive_shelf: to-read
+- 26260495:
+    book_id: 26260495
+    title: Video Games and Creativity
+    author: Garo Green
+    isbn: 0128014628
+    isbn13: '9780128014622'
+    publisher: Academic Press
+    binding: Hardcover
+    number_of_pages: 332
+    year_published: 2015
+    original_publication_year: 2015
+    date_added: '2016-05-16'
+    bookshelves: to-read, design
+    bookshelves_with_positions: to-read (#19), design (#2)
+    exclusive_shelf: to-read
+- 20545790:
+    book_id: 20545790
+    title: 'Fablab: Of Machines, Makers and Inventors'
+    author: Julia Walter-Herrmann
+    additional_authors: Corinne Buching
+    isbn: '3839423821'
+    isbn13: '9783839423820'
+    publisher: Transcript Verlag, Roswitha Gost, Sigrid Nokel u. Dr. Karin Werner
+    binding: ebook
+    number_of_pages: 262
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2016-05-16'
+    bookshelves: to-read, design
+    bookshelves_with_positions: to-read (#18), design (#3)
+    exclusive_shelf: to-read
+- 18667945:
+    book_id: 18667945
+    title: "#GIRLBOSS"
+    author: Sophia Amoruso
+    isbn: 039916927X
+    isbn13: '9780399169274'
+    publisher: Portfolio
+    binding: Hardcover
+    number_of_pages: 256
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2016-05-13'
+    date_added: '2016-05-15'
+    exclusive_shelf: read
+- 89230:
+    book_id: 89230
+    title: 'Augustus: The Life of Rome''s First Emperor'
+    author: Anthony Everitt
+    isbn: '1400061288'
+    isbn13: '9781400061280'
+    publisher: Random House
+    binding: Hardcover
+    number_of_pages: 327
+    year_published: 2006
+    original_publication_year: 2006
+    date_added: '2016-05-14'
+    bookshelves: lhl, to-read
+    bookshelves_with_positions: lhl (#5), to-read (#16)
+    exclusive_shelf: to-read
+- 37832:
+    book_id: 37832
+    title: 'Forty Ways to Look at Winston Churchill: A Brief Account of a Long Life'
+    author: Gretchen Rubin
+    isbn: 0812971442
+    isbn13: '9780812971446'
+    publisher: Random House Trade Paperbacks
+    binding: Paperback
+    number_of_pages: 336
+    year_published: 2004
+    original_publication_year: 2003
+    date_added: '2016-05-14'
+    bookshelves: lhl, to-read
+    bookshelves_with_positions: lhl (#4), to-read (#17)
+    exclusive_shelf: to-read
+- 20949792:
+    book_id: 20949792
+    title: 'Augustus: First Emperor of Rome'
+    author: Adrian Goldsworthy
+    isbn: 0300178727
+    isbn13: '9780300178722'
+    publisher: Yale University Press
+    binding: Hardcover
+    number_of_pages: 624
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2016-05-14'
+    bookshelves: lhl, to-read
+    bookshelves_with_positions: lhl (#3), to-read (#15)
+    exclusive_shelf: to-read
+- 1701815:
+    book_id: 1701815
+    title: Julius Caesar
+    author: Philip Freeman
+    isbn: 0743289536
+    isbn13: '9780743289535'
+    publisher: Simon & Schuster
+    binding: Hardcover
+    number_of_pages: 405
+    year_published: 2008
+    original_publication_year: 2008
+    date_added: '2016-05-14'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#14)
+    exclusive_shelf: to-read
+- 8161967:
+    book_id: 8161967
+    title: 'Small Is Beautiful: Economics as if People Mattered'
+    author: Ernst F. Schumacher
+    isbn: 0061997765
+    isbn13: '9780061997761'
+    publisher: Harper Perennial
+    binding: Paperback
+    number_of_pages: 352
+    year_published: 2010
+    original_publication_year: 1973
+    date_added: '2016-05-14'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#8)
+    exclusive_shelf: abandoned
+- 249140:
+    book_id: 249140
+    title: The Human Side of Enterprise
+    author: Douglas McGregor
+    additional_authors: Joel Cutcher-Gershenfeld
+    isbn: 0071462228
+    isbn13: '9780071462228'
+    publisher: McGraw-Hill Companies
+    binding: Hardcover
+    number_of_pages: 423
+    year_published: 2006
+    original_publication_year: 1960
+    date_added: '2016-04-24'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#13)
+    exclusive_shelf: to-read
+- 4989687:
+    book_id: 4989687
+    title: Who
+    author: Geoff Smart
+    additional_authors: Randy Street
+    isbn: 0345504194
+    isbn13: '9780345504197'
+    publisher: Ballantine Books
+    binding: Hardcover
+    number_of_pages: 208
+    year_published: 2008
+    date_added: '2016-04-24'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#11)
+    exclusive_shelf: hold
+- 34985:
+    book_id: 34985
+    title: The Deming Management Method
+    author: Mary Walton
+    isbn: '1852521414'
+    isbn13: '9781852521417'
+    publisher: Management Books 2000
+    binding: Paperback
+    number_of_pages: 254
+    year_published: 1992
+    original_publication_year: 1986
+    date_added: '2016-04-24'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#7)
+    exclusive_shelf: abandoned
+- 846249:
+    book_id: 846249
+    title: 'The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning
+      Organization'
+    author: Peter M. Senge
+    additional_authors: Art Kleiner, Charlotte Roberts
+    isbn: 0385472560
+    isbn13: '9780385472562'
+    publisher: Crown Business
+    binding: Paperback
+    number_of_pages: 608
+    year_published: 1994
+    original_publication_year: 86
+    date_added: '2016-04-24'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#12)
+    exclusive_shelf: to-read
+- 6667514:
+    book_id: 6667514
+    title: 'The Checklist Manifesto: How to Get Things Right'
+    author: Atul Gawande
+    isbn: 0805091742
+    isbn13: '9780805091748'
+    publisher: Metropolitan Books
+    binding: Hardcover
+    number_of_pages: 208
+    year_published: 2009
+    original_publication_year: 2009
+    date_read: '2016-04-24'
+    date_added: '2016-04-23'
+    exclusive_shelf: read
+- 6184317:
+    book_id: 6184317
+    title: 'Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa'
+    author: Dambisa Moyo
+    additional_authors: Niall Ferguson
+    isbn: 0374139563
+    isbn13: '9780374139568'
+    publisher: Farrar, Straus and Giroux
+    binding: Hardcover
+    number_of_pages: 188
+    year_published: 2009
+    original_publication_year: 2009
+    date_read: '2016-06-02'
+    date_added: '2016-04-23'
+    exclusive_shelf: read
+- 13552345:
+    book_id: 13552345
+    title: 'Sowing Seeds in the Desert: Natural Farming, Global Restoration, and Ultimate
+      Food Security'
+    author: Masanobu Fukuoka
+    isbn: '1603584188'
+    isbn13: '9781603584180'
+    publisher: Chelsea Green Publishing
+    binding: Hardcover
+    number_of_pages: 208
+    year_published: 2012
+    original_publication_year: 2012
+    date_read: '2016-05-01'
+    date_added: '2016-04-23'
+    exclusive_shelf: read
+- 566574:
+    book_id: 566574
+    title: Out of the Crisis
+    author: W. Edwards Deming
+    isbn: '0262541157'
+    isbn13: '9780262541152'
+    publisher: Mit Press
+    binding: Paperback
+    number_of_pages: 523
+    year_published: 2000
+    original_publication_year: 1982
+    date_added: '2016-04-23'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#6)
+    exclusive_shelf: abandoned
+- 649361:
+    book_id: 649361
+    title: Farewell to Manzanar
+    author: Jeanne Wakatsuki Houston
+    additional_authors: James D. Houston
+    isbn: 0553272586
+    isbn13: '9780553272581'
+    publisher: Dell
+    binding: Paperback
+    number_of_pages: 203
+    year_published: 1995
+    original_publication_year: 1972
+    date_read: '2016-04-23'
+    date_added: '2016-04-23'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#6)
+    exclusive_shelf: read
+- 9418327:
+    book_id: 9418327
+    title: Bossypants
+    author: Tina Fey
+    isbn: ''
+    isbn13: ''
+    publisher: Reagan Arthur Books
+    binding: Kindle Edition
+    number_of_pages: 283
+    year_published: 2011
+    original_publication_year: 2011
+    date_read: '2016-04-06'
+    date_added: '2016-04-05'
+    exclusive_shelf: read
+- 25489083:
+    book_id: 25489083
+    title: 'The Myth of the Spoiled Child: Coddled Kids, Helicopter Parents, and Other
+      Phony Crises'
+    author: Alfie Kohn
+    isbn: 0807073881
+    isbn13: '9780807073889'
+    publisher: Beacon Press
+    binding: Paperback
+    number_of_pages: 280
+    year_published: 2016
+    original_publication_year: 2014
+    date_read: '2016-03-20'
+    date_added: '2016-03-28'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#4)
+    exclusive_shelf: read
+- 553267:
+    book_id: 553267
+    title: 'All the Best, Neill: Letters from Summerhill'
+    author: A.S. Neill
+    additional_authors: Jonathan Croall
+    isbn: 0531098222
+    isbn13: '9780531098226'
+    publisher: Franklin Watts
+    binding: Hardcover
+    number_of_pages: 264
+    year_published: 1984
+    original_publication_year: 1983
+    date_added: '2016-03-28'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#9)
+    exclusive_shelf: abandoned
+- 268530:
+    book_id: 268530
+    title: The Day America Told the Truth
+    author: James    Patterson
+    additional_authors: Peter Kim
+    isbn: 0452268087
+    isbn13: '9780452268081'
+    publisher: Plume
+    binding: Paperback
+    number_of_pages: 288
+    year_published: 1992
+    original_publication_year: 1991
+    date_added: '2016-03-21'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#11)
+    exclusive_shelf: to-read
+- 2855034:
+    book_id: 2855034
+    title: Nation
+    author: Terry Pratchett
+    isbn: '0061433012'
+    isbn13: '9780061433016'
+    publisher: HarperCollins
+    binding: Roughcut
+    number_of_pages: 367
+    year_published: 2008
+    original_publication_year: 2008
+    date_read: '2016-09-05'
+    date_added: '2016-03-21'
+    exclusive_shelf: read
+- 29065532:
+    book_id: 29065532
+    title: I Forgot Something (But I Can't Remember What It Was)
+    author: Nelson C Dellis
+    isbn: '1631775677'
+    isbn13: '9781631775673'
+    publisher: Mascot Books
+    binding: Hardcover
+    year_published: 2016
+    date_added: '2016-03-20'
+    bookshelves: to-read, lhl
+    bookshelves_with_positions: to-read (#10), lhl (#1)
+    exclusive_shelf: to-read
+- 29465611:
+    book_id: 29465611
+    title: 'A Reluctant Prosecutor: My Journey'
+    author: Creighton C Horton II
+    isbn: '1943190038'
+    isbn13: '9781943190034'
+    publisher: Wild Ginger Press
+    binding: Paperback
+    number_of_pages: 356
+    year_published: 2016
+    date_added: '2016-03-20'
+    bookshelves: to-read, lhl
+    bookshelves_with_positions: to-read (#9), lhl (#2)
+    exclusive_shelf: to-read
+- 17470674:
+    book_id: 17470674
+    title: Fahrenheit 451
+    author: Ray Bradbury
+    isbn: 0007491565
+    isbn13: '9780007491568'
+    publisher: Harper Voyager
+    binding: Hardcover
+    number_of_pages: 227
+    year_published: 2013
+    original_publication_year: 1953
+    date_added: '2016-03-14'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#8)
+    exclusive_shelf: to-read
+- 22318578:
+    book_id: 22318578
+    title: 'The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering
+      and Organizing'
+    author: Marie Kondō
+    additional_authors: Cathy Hirano
+    isbn: '1607747308'
+    isbn13: '9781607747307'
+    publisher: Ten Speed Press
+    binding: Hardcover
+    number_of_pages: 213
+    year_published: 2014
+    original_publication_year: 2011
+    date_read: '2016-02-13'
+    date_added: '2016-03-13'
+    exclusive_shelf: read
+- 16190817:
+    book_id: 16190817
+    title: 'Why Managing Sucks and How to Fix It: A Results-Only Guide to Taking Control
+      of Work, Not People'
+    author: Cali Ressler
+    additional_authors: Jody Thompson
+    isbn: '1118426363'
+    isbn13: '9781118426364'
+    publisher: John Wiley & Sons
+    binding: Hardcover
+    number_of_pages: 278
+    year_published: 2013
+    original_publication_year: 2013
+    date_read: '2016-03-01'
+    date_added: '2016-03-13'
+    exclusive_shelf: read
+- 13588394:
+    book_id: 13588394
+    title: 'The Signal and the Noise: Why So Many Predictions Fail - But Some Don''t'
+    author: Nate Silver
+    isbn: 159420411X
+    isbn13: '9781594204111'
+    publisher: Penguin
+    binding: Hardcover
+    number_of_pages: 544
+    year_published: 2012
+    original_publication_year: 2012
+    date_read: '2016-03-21'
+    date_added: '2016-03-13'
+    exclusive_shelf: read
+- 2657:
+    book_id: 2657
+    title: To Kill a Mockingbird
+    author: Harper Lee
+    isbn: 0061120081
+    isbn13: '9780061120084'
+    publisher: Harper Perennial Modern Classics
+    binding: Paperback
+    number_of_pages: 324
+    year_published: 2006
+    original_publication_year: 1960
+    date_read: '2016-03-03'
+    date_added: '2016-03-13'
+    exclusive_shelf: read
+- 178462:
+    book_id: 178462
+    title: To Be a Slave
+    author: Julius Lester
+    additional_authors: Tom Feelings
+    isbn: '0141310014'
+    isbn13: '9780141310015'
+    publisher: Puffin Books
+    binding: Paperback
+    number_of_pages: 160
+    year_published: 2000
+    original_publication_year: 1968
+    date_read: '2016-03-11'
+    date_added: '2016-03-13'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#3)
+    exclusive_shelf: read
+- 11468377:
+    book_id: 11468377
+    title: Thinking, Fast and Slow
+    author: Daniel Kahneman
+    isbn: '0374275637'
+    isbn13: '9780374275631'
+    publisher: Farrar, Straus and Giroux
+    binding: Hardcover
+    number_of_pages: 499
+    year_published: 2011
+    original_publication_year: 2011
+    date_read: '2016-03-30'
+    date_added: '2016-03-02'
+    exclusive_shelf: read
+- 18693655:
+    book_id: 18693655
+    title: 'A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked
+      Algebra)'
+    author: Barbara Oakley
+    isbn: 039916524X
+    isbn13: '9780399165245'
+    publisher: Tarcher/Penguin
+    binding: Paperback
+    number_of_pages: 306
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2016-03-07'
+    date_added: '2016-02-21'
+    exclusive_shelf: read
+- 1595177:
+    book_id: 1595177
+    title: 'The Adventures of Johnny Bunko: The Last Career Guide You''ll Ever Need'
+    author: Daniel H. Pink
+    isbn: '1594482918'
+    isbn13: '9781594482915'
+    publisher: Riverhead Books
+    binding: Paperback
+    number_of_pages: 160
+    year_published: 2008
+    original_publication_year: 2008
+    date_read: '2016-02-20'
+    date_added: '2016-02-21'
+    exclusive_shelf: read
+- 210509:
+    book_id: 210509
+    title: Farewell to Manzanar and Related Readings (Farewell to Manzanar)
+    author: Jeanne Wakatsuki Houston
+    additional_authors: McDougal Littell, James D. Houston
+    isbn: 0395884551
+    isbn13: '9780395884553'
+    publisher: McDougal Littell
+    binding: Hardcover
+    number_of_pages: 0
+    year_published: 1997
+    original_publication_year: 1997
+    date_added: '2016-02-21'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#6)
+    exclusive_shelf: to-read
+- 6464060:
+    book_id: 6464060
+    title: Never Learn Anything From History
+    author: Kate Beaton
+    isbn: ''
+    isbn13: ''
+    publisher: Topatoco.com
+    binding: Paperback
+    number_of_pages: 68
+    year_published: 2009
+    original_publication_year: 2009
+    date_added: '2016-02-19'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#5)
+    exclusive_shelf: to-read
+- 16006353:
+    book_id: 16006353
+    title: The Infinite Wait and Other Stories
+    author: Julia Wertz
+    isbn: ''
+    isbn13: ''
+    publisher: Koyama Press
+    number_of_pages: 228
+    year_published: 2012
+    original_publication_year: 2012
+    date_added: '2016-02-19'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#4)
+    exclusive_shelf: to-read
+- 1054397:
+    book_id: 1054397
+    title: 'Field Notes from a Catastrophe: Man, Nature, and Climate Change'
+    author: Elizabeth Kolbert
+    isbn: '1596911255'
+    isbn13: '9781596911253'
+    publisher: Bloomsbury USA
+    binding: Hardcover
+    year_published: 2006
+    original_publication_year: 2006
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 56153:
+    book_id: 56153
+    title: 'QED: The Strange Theory of Light and Matter'
+    author: Richard Feynman
+    additional_authors: A. Zee
+    isbn: 0691125759
+    isbn13: '9780691125756'
+    publisher: Princeton University Press
+    binding: Paperback
+    number_of_pages: 192
+    year_published: 2006
+    original_publication_year: 1985
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 2926211:
+    book_id: 2926211
+    title: 'Conformity and Conflict: Readings in Cultural Anthropology'
+    author: David W. McCurdy
+    isbn: 0205354793
+    isbn13: '9780205354795'
+    publisher: Allyn & Bacon
+    binding: Paperback
+    number_of_pages: 464
+    year_published: 2002
+    original_publication_year: 1977
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 3158100:
+    book_id: 3158100
+    title: The Forest People
+    author: Colin M. Turnbull
+    isbn: '0671201530'
+    isbn13: '9780671201531'
+    publisher: Touchstone Books
+    binding: Paperback
+    number_of_pages: 295
+    year_published: 1983
+    original_publication_year: 1961
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 8423493:
+    book_id: 8423493
+    title: 'Catching Fire (The Hunger Games, #2)'
+    author: Suzanne Collins
+    isbn: ''
+    isbn13: ''
+    publisher: Scholastic Press
+    binding: Kindle Edition
+    number_of_pages: 403
+    year_published: 2010
+    original_publication_year: 2009
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 17333426:
+    book_id: 17333426
+    title: 'Egghead: Or, You Can''t Survive on Ideas Alone'
+    author: Bo Burnham
+    additional_authors: Chance Bone
+    isbn: '1455519146'
+    isbn13: '9781455519149'
+    publisher: Grand Central Publishing
+    binding: Hardcover
+    number_of_pages: 240
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 17571564:
+    book_id: 17571564
+    title: 'Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms,
+      Mayhem, and Other Things That Happened'
+    author: Allie Brosh
+    isbn: '1451666179'
+    isbn13: '9781451666175'
+    publisher: Touchstone
+    binding: Paperback
+    number_of_pages: 371
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 66354:
+    book_id: 66354
+    title: 'Flow: The Psychology of Optimal Experience'
+    author: Mihaly Csikszentmihalyi
+    isbn: 0060920432
+    isbn13: '9780060920432'
+    publisher: Harper Perennial
+    binding: Paperback
+    number_of_pages: 303
+    year_published: 1990
+    original_publication_year: 1990
+    date_added: '2016-02-17'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#3)
+    exclusive_shelf: abandoned
+- 1953:
+    book_id: 1953
+    title: A Tale of Two Cities
+    author: Charles Dickens
+    additional_authors: Richard Maxwell, Hablot Knight Browne
+    isbn: 0141439602
+    isbn13: '9780141439600'
+    publisher: Penguin
+    binding: Paperback
+    number_of_pages: 489
+    year_published: 2003
+    original_publication_year: 1859
+    date_added: '2016-02-17'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#1)
+    exclusive_shelf: abandoned
+- 255127:
+    book_id: 255127
+    title: 'The Fifth Discipline: The Art & Practice of The Learning Organization'
+    author: Peter M. Senge
+    isbn: 0385517254
+    isbn13: '9780385517256'
+    publisher: Crown Business
+    binding: Paperback
+    number_of_pages: 464
+    year_published: 2006
+    original_publication_year: 1990
+    date_read: '2016-05-14'
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 32994:
+    book_id: 32994
+    title: 'Maverick: The Success Story Behind the World''s Most Unusual Workplace'
+    author: Ricardo Semler
+    isbn: 0712678867
+    isbn13: '9780712678865'
+    publisher: Random House
+    binding: Paperback
+    number_of_pages: 336
+    year_published: 2001
+    original_publication_year: 1988
+    date_added: '2016-02-17'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#8)
+    exclusive_shelf: hold
+- 1319:
+    book_id: 1319
+    title: 'The War of Art: Break Through the Blocks & Win Your Inner Creative Battles'
+    author: Steven Pressfield
+    additional_authors: Robert McKee
+    isbn: 0446691437
+    isbn13: '9780446691437'
+    publisher: Warner Books
+    binding: Paperback
+    number_of_pages: 168
+    year_published: 2003
+    original_publication_year: 2002
+    date_added: '2016-02-17'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#4)
+    exclusive_shelf: abandoned
+- 541132:
+    book_id: 541132
+    title: 'Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A''s,
+      Praise and Other Bribes'
+    author: Alfie Kohn
+    isbn: 0395710901
+    isbn13: '9780395710906'
+    publisher: Mariner Books
+    binding: Paperback
+    number_of_pages: 398
+    year_published: 1995
+    original_publication_year: 1993
+    date_read: '2016-02-21'
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 18868057:
+    book_id: 18868057
+    title: 'The Amateurs: The Story of Four Young Men and Their Quest for an Olympic
+      Gold Medal'
+    author: David Halberstam
+    isbn: ''
+    isbn13: ''
+    publisher: Open Road Media
+    binding: Kindle Edition
+    number_of_pages: 221
+    year_published: 2012
+    original_publication_year: 1985
+    date_added: '2016-02-17'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#6)
+    exclusive_shelf: hold
+- 3228917:
+    book_id: 3228917
+    title: 'Outliers: The Story of Success'
+    author: Malcolm Gladwell
+    isbn: 0316017922
+    isbn13: '9780316017923'
+    publisher: Little, Brown and Company
+    binding: Hardcover
+    number_of_pages: 309
+    year_published: 2008
+    original_publication_year: 2008
+    date_added: '2016-02-17'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#5)
+    exclusive_shelf: hold
+- 66338:
+    book_id: 66338
+    title: 'Good Work: When Excellence and Ethics Meet'
+    author: Howard Gardner
+    additional_authors: Mihaly Csikszentmihalyi, William Damon
+    isbn: 0465026087
+    isbn13: '9780465026081'
+    publisher: Basic Books
+    binding: Paperback
+    number_of_pages: 304
+    year_published: 2002
+    original_publication_year: 2001
+    date_added: '2016-02-17'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#1)
+    exclusive_shelf: hold
+- 40745:
+    book_id: 40745
+    title: 'Mindset: The New Psychology of Success'
+    author: Carol S. Dweck
+    isbn: '1400062756'
+    isbn13: '9781400062751'
+    publisher: Random House
+    binding: Hardcover
+    number_of_pages: 276
+    year_published: 2006
+    original_publication_year: 2006
+    date_added: '2016-02-17'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#3)
+    exclusive_shelf: to-read
+- 683539:
+    book_id: 683539
+    title: 'Why We Do What We Do: Understanding Self-Motivation'
+    author: Edward L. Deci
+    additional_authors: Richard Flaste
+    isbn: '0140255265'
+    isbn13: '9780140255263'
+    publisher: Penguin Books
+    binding: Paperback
+    number_of_pages: 240
+    year_published: 1996
+    original_publication_year: 1995
+    date_read: '2016-03-10'
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 4485966:
+    book_id: 4485966
+    title: 'Talent is Overrated: What Really Separates World-Class Performers from
+      Everybody Else'
+    author: Geoff Colvin
+    isbn: '1591842247'
+    isbn13: '9781591842248'
+    publisher: Portfolio
+    binding: Hardcover
+    number_of_pages: 240
+    year_published: 2008
+    original_publication_year: 2008
+    date_added: '2016-02-17'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#4)
+    exclusive_shelf: hold
+- 189989:
+    book_id: 189989
+    title: 'Finite and Infinite Games: A Vision of Life as Play and Possibility'
+    author: James P. Carse
+    isbn: 0345341848
+    isbn13: '9780345341846'
+    publisher: Ballantine Books
+    binding: Mass Market Paperback
+    number_of_pages: 192
+    year_published: 1987
+    original_publication_year: 1986
+    date_added: '2016-02-17'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#3)
+    exclusive_shelf: hold
+- 225850:
+    book_id: 225850
+    title: 'Dumbing Us Down: The Hidden Curriculum of Compulsory Education'
+    author: John Taylor Gatto
+    isbn: 086571519X
+    isbn13: '9780865715196'
+    publisher: New Society Publishers
+    binding: Paperback
+    number_of_pages: 142
+    year_published: 2005
+    original_publication_year: 1991
+    date_added: '2016-02-17'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#5)
+    exclusive_shelf: abandoned
+- 98250:
+    book_id: 98250
+    title: Once a Runner
+    author: John L. Parker Jr.
+    isbn: 0915297019
+    isbn13: '9780915297016'
+    publisher: Cedarwinds
+    binding: Paperback
+    number_of_pages: 226
+    year_published: 1999
+    original_publication_year: 1978
+    date_added: '2016-02-17'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#2)
+    exclusive_shelf: hold
+- 2199:
+    book_id: 2199
+    title: 'Team of Rivals: The Political Genius of Abraham Lincoln'
+    author: Doris Kearns Goodwin
+    isbn: '0743270754'
+    isbn13: '9780743270755'
+    publisher: Simon  Schuster
+    binding: Paperback
+    number_of_pages: 916
+    year_published: 2006
+    original_publication_year: 2005
+    date_added: '2016-02-17'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#7)
+    exclusive_shelf: to-read
+- 97782:
+    book_id: 97782
+    title: Then We Came to the End
+    author: Joshua Ferris
+    isbn: 0316016381
+    isbn13: '9780316016384'
+    publisher: Little, Brown and Company
+    binding: Hardcover
+    number_of_pages: 387
+    year_published: 2007
+    original_publication_year: 2007
+    date_read: '2016-03-02'
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 6452796:
+    book_id: 6452796
+    title: 'Drive: The Surprising Truth About What Motivates Us'
+    author: Daniel H. Pink
+    isbn: '1594488843'
+    isbn13: '9781594488849'
+    publisher: Riverhead Books
+    binding: Hardcover
+    number_of_pages: 242
+    year_published: 2009
+    original_publication_year: 2008
+    date_read: '2016-02-15'
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 121892:
+    book_id: 121892
+    title: Ultra Marathon Man
+    author: Dean Karnazes
+    isbn: '1741146011'
+    isbn13: '9781741146011'
+    publisher: Allen & Unwin
+    binding: Paperback
+    year_published: 2005
+    original_publication_year: 2005
+    date_added: '2016-02-17'
+    exclusive_shelf: read
+- 16158542:
+    book_id: 16158542
+    title: 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at
+      the 1936 Berlin Olympics'
+    author: Daniel James Brown
+    isbn: 067002581X
+    isbn13: '9780670025817'
+    publisher: Viking
+    binding: Hardcover
+    number_of_pages: 416
+    year_published: 2013
+    original_publication_year: 2013
+    date_added: '2016-02-10'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#2)
+    exclusive_shelf: to-read
+- 129731:
+    book_id: 129731
+    title: 'Mindless Eating: Why We Eat More Than We Think'
+    author: Brian Wansink
+    isbn: 0553804340
+    isbn13: '9780553804348'
+    publisher: Bantam
+    binding: Hardcover
+    number_of_pages: 276
+    year_published: 2006
+    original_publication_year: 2006
+    date_added: '2016-02-03'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#9)
+    exclusive_shelf: hold
+- 56627:
+    book_id: 56627
+    title: Stumbling on Happiness
+    author: Daniel Todd Gilbert
+    isbn: '1400077427'
+    isbn13: '9781400077427'
+    publisher: Vintage
+    binding: Paperback
+    number_of_pages: 263
+    year_published: 2007
+    original_publication_year: 2006
+    date_added: '2016-02-03'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#7)
+    exclusive_shelf: hold
+- 1301:
+    book_id: 1301
+    title: 'Moneyball: The Art of Winning an Unfair Game'
+    author: Michael   Lewis
+    isbn: 0393324818
+    isbn13: '9780393324815'
+    publisher: W. W. Norton & Company
+    binding: Paperback
+    number_of_pages: 317
+    year_published: 2004
+    original_publication_year: 2003
+    date_added: '2016-02-03'
+    bookshelves: hold
+    bookshelves_with_positions: hold (#10)
+    exclusive_shelf: hold
+- 48484:
+    book_id: 48484
+    title: 'Blindsight (Firefall, #1)'
+    author: Peter Watts
+    isbn: 0765312182
+    isbn13: '9780765312181'
+    publisher: Tor Books
+    binding: Hardcover
+    number_of_pages: 384
+    year_published: 2006
+    original_publication_year: 2006
+    date_added: '2016-02-03'
+    bookshelves: to-read
+    bookshelves_with_positions: to-read (#1)
+    exclusive_shelf: to-read
+- 22155:
+    book_id: 22155
+    title: 'Let My People Go Surfing: The Education of a Reluctant Businessman'
+    author: Yvon Chouinard
+    isbn: 0143037838
+    isbn13: '9780143037835'
+    publisher: Penguin Books
+    binding: Paperback
+    number_of_pages: 272
+    year_published: 2006
+    original_publication_year: 2005
+    date_read: '2016-03-20'
+    date_added: '2016-02-03'
+    exclusive_shelf: read
+- 840:
+    book_id: 840
+    title: The Design of Everyday Things
+    author: Donald A. Norman
+    isbn: '0465067107'
+    isbn13: '9780465067107'
+    publisher: Basic Books
+    binding: Paperback
+    number_of_pages: 240
+    year_published: 2002
+    original_publication_year: 1988
+    date_read: '2016-04-16'
+    date_added: '2016-02-03'
+    exclusive_shelf: read
+- 16144853:
+    book_id: 16144853
+    title: Leaders Eat Last
+    author: Simon Sinek
+    isbn: '1591845327'
+    isbn13: '9781591845324'
+    publisher: Portfolio
+    binding: Hardcover
+    number_of_pages: 244
+    year_published: 2014
+    original_publication_year: 2013
+    date_added: '2016-02-03'
+    bookshelves: abandoned
+    bookshelves_with_positions: abandoned (#2)
+    exclusive_shelf: abandoned
+- 7108725:
+    book_id: 7108725
+    title: 'Start with Why: How Great Leaders Inspire Everyone to Take Action'
+    author: Simon Sinek
+    isbn: '1591842808'
+    isbn13: '9781591842804'
+    publisher: Portfolio
+    binding: Hardcover
+    number_of_pages: 256
+    year_published: 2009
+    original_publication_year: 2009
+    date_read: '2016-01-03'
+    date_added: '2016-02-03'
+    exclusive_shelf: read
+- 25666069:
+    book_id: 25666069
+    title: 'The Most Wanted Man in China: My Journey from Scientist to Enemy of the
+      State'
+    author: Fang Lizhi
+    isbn: '1627794999'
+    isbn13: '9781627794992'
+    publisher: Henry Holt and Co.
+    binding: Hardcover
+    number_of_pages: 352
+    year_published: 2016
+    original_publication_year: 2016
+    date_read: '2016-03-21'
+    date_added: '2016-01-31'
+    bookshelves: race-education
+    bookshelves_with_positions: race-education (#5)
+    exclusive_shelf: read
+- 4667024:
+    book_id: 4667024
+    title: The Help
+    author: Kathryn Stockett
+    isbn: 0399155341
+    isbn13: '9780399155345'
+    publisher: Amy Einhorn Books
+    binding: Hardcover
+    number_of_pages: 444
+    year_published: 2009
+    original_publication_year: 2009
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 8935689:
+    book_id: 8935689
+    title: 'Consider Phlebas (Culture, #1)'
+    author: Iain M. Banks
+    isbn: '1857231384'
+    isbn13: '9781857231380'
+    publisher: Orbit
+    binding: Paperback
+    number_of_pages: 471
+    year_published: 2005
+    original_publication_year: 1987
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 16299389:
+    book_id: 16299389
+    title: Cloud Atlas. L'Atlante delle Nuvole
+    author: David Mitchell
+    additional_authors: Luca Scarlini, Lorenzo Borgotallo
+    isbn: '8820053489'
+    isbn13: '9788820053482'
+    publisher: Frassinelli
+    binding: Paperback
+    number_of_pages: 581
+    year_published: 2012
+    original_publication_year: 2004
+    date_read: '2016-01-01'
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 250693:
+    book_id: 250693
+    title: How to Cook a Wolf
+    author: M.F.K. Fisher
+    isbn: 0865473366
+    isbn13: '9780865473362'
+    publisher: North Point Press
+    binding: Paperback
+    number_of_pages: 202
+    year_published: 1988
+    original_publication_year: 1942
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 16793:
+    book_id: 16793
+    title: Stardust
+    author: Neil Gaiman
+    isbn: '0061142026'
+    isbn13: '9780061142024'
+    publisher: Harper Perennial
+    binding: Paperback
+    number_of_pages: 266
+    year_published: 2006
+    original_publication_year: 1999
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 14497:
+    book_id: 14497
+    title: Neverwhere
+    author: Neil Gaiman
+    isbn: 0060557818
+    isbn13: '9780060557812'
+    publisher: William Morrow Paperbacks
+    binding: Paperback
+    number_of_pages: 370
+    year_published: 2003
+    original_publication_year: 1996
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 18007564:
+    book_id: 18007564
+    title: The Martian
+    author: Andy Weir
+    isbn: 0804139024
+    isbn13: '9780804139021'
+    publisher: Crown
+    binding: Hardcover
+    number_of_pages: 369
+    year_published: 2014
+    original_publication_year: 2014
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 4407:
+    book_id: 4407
+    title: 'American Gods (American Gods, #1)'
+    author: Neil Gaiman
+    isbn: '0747263744'
+    isbn13: '9780747263746'
+    publisher: Headline Review
+    binding: Paperback
+    number_of_pages: 635
+    year_published: 2005
+    original_publication_year: 2001
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 2744:
+    book_id: 2744
+    title: Anansi Boys
+    author: Neil Gaiman
+    isbn: 0060515198
+    isbn13: '9780060515195'
+    publisher: HarperCollins HarperTorch
+    binding: Mass Market Paperback
+    number_of_pages: 384
+    year_published: 2006
+    original_publication_year: 2005
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 9361589:
+    book_id: 9361589
+    title: The Night Circus
+    author: Erin Morgenstern
+    isbn: 0385534639
+    isbn13: '9780385534635'
+    publisher: Doubleday
+    binding: Hardcover
+    number_of_pages: 400
+    year_published: 2011
+    original_publication_year: 2011
+    date_read: '2016-01-09'
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 9484114:
+    book_id: 9484114
+    title: 'The Happiness Advantage: The Seven Principles of Positive Psychology That
+      Fuel Success and Performance at Work'
+    author: Shawn Achor
+    isbn: 0307591565
+    isbn13: '9780307591562'
+    publisher: Crown Business
+    binding: ebook
+    number_of_pages: 272
+    year_published: 2010
+    original_publication_year: 2010
+    date_read: '2015-12-20'
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 17288716:
+    book_id: 17288716
+    title: 'Before Happiness: How Creating a Positive Reality First Amplifies Your
+      Levels of Happiness and Success'
+    author: Shawn Achor
+    isbn: '0770436730'
+    isbn13: '9780770436735'
+    publisher: Crown Business
+    binding: Hardcover
+    number_of_pages: 256
+    year_published: 2013
+    original_publication_year: 2013
+    date_read: '2016-01-20'
+    date_added: '2016-01-11'
+    exclusive_shelf: read
+- 11:
+    book_id: 11
+    title: 'The Hitchhiker''s Guide to the Galaxy (Hitchhiker''s Guide to the Galaxy,
+      #1)'
+    author: Douglas Adams
+    isbn: 0345391802
+    isbn13: '9780345391803'
+    publisher: Del Rey Books
+    binding: Mass Market Paperback
+    number_of_pages: 216
+    year_published: 1995
+    original_publication_year: 1979
+    date_added: '2015-10-09'
+    exclusive_shelf: read
+- 9969571:
+    book_id: 9969571
+    title: Ready Player One
+    author: Ernest Cline
+    isbn: 030788743X
+    isbn13: '9780307887436'
+    publisher: Crown Publishers
+    binding: Hardcover
+    number_of_pages: 374
+    year_published: 2011
+    original_publication_year: 2011
+    date_added: '2015-10-09'
+    exclusive_shelf: read
+- 2767052:
+    book_id: 2767052
+    title: 'The Hunger Games (The Hunger Games, #1)'
+    author: Suzanne Collins
+    isbn: 0439023483
+    isbn13: '9780439023481'
+    publisher: Scholastic Press
+    binding: Hardcover
+    number_of_pages: 374
+    year_published: 2008
+    original_publication_year: 2008
+    date_added: '2015-10-09'
+    exclusive_shelf: read
+- 830:
+    book_id: 830
+    title: Snow Crash
+    author: Neal Stephenson
+    isbn: 0553380958
+    isbn13: '9780553380958'
+    publisher: Bantam Books
+    binding: Paperback
+    number_of_pages: 470
+    year_published: 2000
+    original_publication_year: 1992
+    date_added: '2015-10-09'
+    exclusive_shelf: read
+- 17235026:
+    book_id: 17235026
+    title: The Girl with All the Gifts
+    author: M.R. Carey
+    isbn: '0356500152'
+    isbn13: '9780356500157'
+    publisher: 'Orbit '
+    binding: Paperback
+    number_of_pages: 460
+    year_published: 2014
+    original_publication_year: 2014
+    date_read: '2015-11-01'
+    date_added: '2015-10-09'
+    exclusive_shelf: read
