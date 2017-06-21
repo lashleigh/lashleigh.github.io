@@ -49,12 +49,10 @@
     read_count: 0
 - 9578127:
     book_id: 9578127
-    title: 'Beyond Inclusion, Beyond Empowerment: A Developmental Strategy To Liberate
-      Everyone'
+    title: 'Beyond Inclusion, Beyond Empowerment: A Developmental Strategy To Liberate Everyone'
     author: Leticia Nieto
-    additional_authors: Margot F. Boyer, Liz Goodwin, Garth R. Johnson, Laurel Collier
-      Smith
-    isbn: 0976611201
+    additional_authors: Margot F. Boyer, Liz Goodwin, Garth R. Johnson, Laurel Collier Smith
+    isbn: '0976611201'
     isbn13: '9780976611202'
     publisher: Cuetzpalin
     binding: Paperback
@@ -98,8 +96,7 @@
     read_count: 1
 - 29771103:
     book_id: 29771103
-    title: 'Biting the Hands that Feed Us: How Fewer, Smarter Laws Would Make Our
-      Food System More Sustainable'
+    title: 'Biting the Hands that Feed Us: How Fewer, Smarter Laws Would Make Our Food System More Sustainable'
     author: Baylen J. Linnekin
     isbn: '1610916751'
     isbn13: '9781610916752'
@@ -187,7 +184,7 @@
     book_id: 30809689
     title: Norse Mythology
     author: Neil Gaiman
-    isbn: 039360909X
+    isbn: '039360909X'
     isbn13: '9780393609097'
     publisher: W. W. Norton & Company
     binding: Hardcover
@@ -232,7 +229,7 @@
     title: Speak
     author: Louisa Hall
     additional_authors: Suet Yee Chong
-    isbn: 0062391194
+    isbn: '0062391194'
     isbn13: '9780062391193'
     publisher: Ecco
     binding: Hardcover
@@ -276,7 +273,7 @@
     book_id: 6759
     title: Infinite Jest
     author: David Foster Wallace
-    isbn: 0316921173
+    isbn: '0316921173'
     isbn13: '9780316921176'
     publisher: Back Bay Books
     binding: Paperback
@@ -289,10 +286,9 @@
     exclusive_shelf: to-read
 - 5986375:
     book_id: 5986375
-    title: 'This Is Water: Some Thoughts, Delivered on a Significant Occasion, about
-      Living a Compassionate Life'
+    title: 'This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life'
     author: David Foster Wallace
-    isbn: 0316068225
+    isbn: '0316068225'
     isbn13: '9780316068222'
     publisher: Little, Brown and Company
     binding: Hardcover
@@ -306,7 +302,7 @@
     book_id: 19063
     title: The Book Thief
     author: Markus Zusak
-    isbn: 0375831002
+    isbn: '0375831002'
     isbn13: '9780375831003'
     publisher: Knopf Books for Young Readers
     binding: Hardcover
@@ -364,10 +360,9 @@
     exclusive_shelf: to-read
 - 433281:
     book_id: 433281
-    title: 'Racism without Racists: Color-Blind Racism and the Persistence of Racial
-      Inequality in the United States'
+    title: 'Racism without Racists: Color-Blind Racism and the Persistence of Racial Inequality in the United States'
     author: Eduardo Bonilla-Silva
-    isbn: 0742546861
+    isbn: '0742546861'
     isbn13: '9780742546868'
     publisher: Rowman & Littlefield Publishers
     binding: Paperback
@@ -413,7 +408,7 @@
     book_id: 28587950
     title: 'Time Travel: A History'
     author: James Gleick
-    isbn: 0307908798
+    isbn: '0307908798'
     isbn13: '9780307908797'
     publisher: Pantheon Books
     binding: Hardcover
@@ -490,7 +485,7 @@
     book_id: 20910157
     title: Yes Please
     author: Amy Poehler
-    isbn: 0062268341
+    isbn: '0062268341'
     isbn13: '9780062268341'
     publisher: Dey St.
     binding: Hardcover
@@ -506,7 +501,7 @@
     title: 'Notorious RBG: The Life and Times of Ruth Bader Ginsburg'
     author: Irin Carmon
     additional_authors: Shana Knizhnik
-    isbn: 0062415832
+    isbn: '0062415832'
     isbn13: '9780062415837'
     publisher: Dey Street Books
     binding: Hardcover
@@ -521,7 +516,7 @@
     book_id: 1243498
     title: Making Shapely Fiction
     author: Jerome Stern
-    isbn: 039332124X
+    isbn: '039332124X'
     isbn13: '9780393321241'
     publisher: W. W. Norton  Company
     binding: Paperback
@@ -552,7 +547,7 @@
     title: 'Henry''s Freedom Box: A True Story from the Underground Railroad'
     author: Ellen Levine
     additional_authors: Kadir Nelson
-    isbn: 043977733X
+    isbn: '043977733X'
     isbn13: '9780439777339'
     publisher: Scholastic Press
     binding: Hardcover
@@ -599,7 +594,7 @@
     book_id: 9346907
     title: 'Bioshelter Market Garden: A Permaculture Farm'
     author: Darrell Frey
-    isbn: 0865716781
+    isbn: '0865716781'
     isbn13: '9780865716780'
     publisher: New Society Publishers
     binding: Paperback
@@ -612,8 +607,7 @@
     exclusive_shelf: skimmed
 - 22180819:
     book_id: 22180819
-    title: 'The Tao of Vegetable Gardening: Cultivating Tomatoes, Greens, Peas, Beans,
-      Squash, Joy, and Serenity'
+    title: 'The Tao of Vegetable Gardening: Cultivating Tomatoes, Greens, Peas, Beans, Squash, Joy, and Serenity'
     author: Carol Deppe
     isbn: '1603584870'
     isbn13: '9781603584876'
@@ -642,10 +636,9 @@
     exclusive_shelf: to-read
 - 72223:
     book_id: 72223
-    title: 'The Worst Hard Time: The Untold Story of Those Who Survived the Great
-      American Dust Bowl'
+    title: 'The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl'
     author: Timothy Egan
-    isbn: 0618773479
+    isbn: '0618773479'
     isbn13: '9780618773473'
     publisher: Mariner Books
     binding: Paperback
@@ -660,7 +653,7 @@
     book_id: 71642
     title: New and Selected Poems, Vol. 1
     author: Mary Oliver
-    isbn: 0807068780
+    isbn: '0807068780'
     isbn13: '9780807068786'
     publisher: Beacon Press
     binding: Hardcover
@@ -674,7 +667,7 @@
     book_id: 16248196
     title: The Art of Thinking Clearly
     author: Rolf Dobelli
-    isbn: 0062219685
+    isbn: '0062219685'
     isbn13: '9780062219688'
     publisher: Harper
     binding: Hardcover
@@ -703,7 +696,7 @@
     book_id: 28449076
     title: 'The Witches: Salem, 1692'
     author: Stacy Schiff
-    isbn: 031620059X
+    isbn: '031620059X'
     isbn13: '9780316200592'
     publisher: Back Bay Books
     binding: Paperback
@@ -718,7 +711,7 @@
     book_id: 20174424
     title: 'City of Stairs (The Divine Cities, #1)'
     author: Robert Jackson Bennett
-    isbn: 080413717X
+    isbn: '080413717X'
     isbn13: '9780804137171'
     publisher: Broadway Books
     binding: Paperback
@@ -789,8 +782,7 @@
     exclusive_shelf: to-read
 - 22245334:
     book_id: 22245334
-    title: 'The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of
-      Bureaucracy'
+    title: 'The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy'
     author: David Graeber
     isbn: '1612193749'
     isbn13: '9781612193748'
@@ -805,8 +797,7 @@
     exclusive_shelf: to-read
 - 10115296:
     book_id: 10115296
-    title: 'The Pun Also Rises: How the Humble Pun Revolutionized Language, Changed
-      History, and Made Wordplay More Than Some Antics'
+    title: 'The Pun Also Rises: How the Humble Pun Revolutionized Language, Changed History, and Made Wordplay More Than Some Antics'
     author: John Pollack
     isbn: '1592406238'
     isbn13: '9781592406234'
@@ -823,7 +814,7 @@
     book_id: 163462
     title: 'Epitaph for a Peach: Four Seasons on My Family Farm'
     author: David Mas Masumoto
-    isbn: 0062510258
+    isbn: '0062510258'
     isbn13: '9780062510259'
     publisher: HarperOne
     binding: Paperback
@@ -882,7 +873,7 @@
     book_id: 21418013
     title: 'Lock In (Lock In, #1)'
     author: John Scalzi
-    isbn: 0765375869
+    isbn: '0765375869'
     isbn13: '9780765375865'
     publisher: Tor Books
     binding: Hardcover
@@ -894,8 +885,7 @@
     exclusive_shelf: read
 - 18078311:
     book_id: 18078311
-    title: 'Letters of Note: An Eclectic Collection of Correspondence Deserving of
-      a Wider Audience'
+    title: 'Letters of Note: An Eclectic Collection of Correspondence Deserving of a Wider Audience'
     author: Shaun Usher
     isbn: '1782112235'
     isbn13: '9781782112235'
@@ -985,7 +975,7 @@
     book_id: 24972194
     title: 'On the Move: A Life'
     author: Oliver Sacks
-    isbn: 0385352549
+    isbn: '0385352549'
     isbn13: '9780385352543'
     publisher: Knopf
     binding: Hardcover
@@ -1014,7 +1004,7 @@
     book_id: 18730154
     title: 'My Drunk Kitchen: A Guide to Eating, Drinking, and Going with Your Gut'
     author: Hannah Hart
-    isbn: 0062293036
+    isbn: '0062293036'
     isbn13: '9780062293039'
     publisher: Dey Street Books
     binding: Hardcover
@@ -1044,7 +1034,7 @@
     book_id: 83988
     title: 'Once Upon a Quinceanera: Coming of Age in the USA'
     author: Julia Alvarez
-    isbn: 0670038733
+    isbn: '0670038733'
     isbn13: '9780670038732'
     publisher: Viking Adult
     binding: Hardcover
@@ -1058,8 +1048,7 @@
     exclusive_shelf: read
 - 20787425:
     book_id: 20787425
-    title: 'Reinventing Organizations: A Guide to Creating Organizations Inspired
-      by the Next Stage of Human Consciousness'
+    title: 'Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness'
     author: Frederic Laloux
     additional_authors: Ken Wilber
     isbn: ''
@@ -1077,7 +1066,7 @@
     book_id: 13330771
     title: Hallucinations
     author: Oliver Sacks
-    isbn: 0307957241
+    isbn: '0307957241'
     isbn13: '9780307957245'
     publisher: Knopf
     binding: Hardcover
@@ -1123,9 +1112,8 @@
     book_id: 79766
     title: 'A Pattern Language: Towns, Buildings, Construction'
     author: Christopher W. Alexander
-    additional_authors: Sara Ishikawa, Murray Silverstein, Max  Jacobson, Ingrid Fiksdahl-King,
-      Shlomo Angel
-    isbn: 0195019199
+    additional_authors: Sara Ishikawa, Murray Silverstein, Max  Jacobson, Ingrid Fiksdahl-King, Shlomo Angel
+    isbn: '0195019199'
     isbn13: '9780195019193'
     publisher: Oxford University Press, USA
     binding: Hardcover
@@ -1170,7 +1158,7 @@
     title: The Economy As An Evolving Complex System
     author: Philip Anderson
     additional_authors: David Pines, Kenneth J. Arrow
-    isbn: 0201156857
+    isbn: '0201156857'
     isbn13: '9780201156850'
     publisher: Westview Press
     binding: Paperback
@@ -1185,7 +1173,7 @@
     book_id: 1877110
     title: Dynamics Of Complex Systems
     author: Yaneer Bar-Yam
-    isbn: 0813341213
+    isbn: '0813341213'
     isbn13: '9780813341217'
     publisher: Westview Press
     binding: Paperback
@@ -1277,7 +1265,7 @@
     book_id: 24817626
     title: Go Set a Watchman
     author: Harper Lee
-    isbn: 0062409859
+    isbn: '0062409859'
     isbn13: '9780062409850'
     publisher: HarperCollins
     binding: Hardcover
@@ -1291,7 +1279,7 @@
     book_id: 13152194
     title: 'Tiny Beautiful Things: Advice on Love and Life from Dear Sugar'
     author: Cheryl Strayed
-    isbn: 030794932X
+    isbn: '030794932X'
     isbn13: '9780307949325'
     publisher: Vintage
     binding: ebook
@@ -1305,7 +1293,7 @@
     book_id: 12530
     title: The Writing Life
     author: Annie Dillard
-    isbn: 0060919884
+    isbn: '0060919884'
     isbn13: '9780060919887'
     publisher: Harper Perennial (HarperCollins)
     binding: Paperback
@@ -1319,7 +1307,7 @@
     book_id: 10639
     title: 'The Paradox of Choice: Why More Is Less'
     author: Barry Schwartz
-    isbn: 0060005696
+    isbn: '0060005696'
     isbn13: '9780060005696'
     publisher: Harper Perennial
     binding: Paperback
@@ -1335,7 +1323,7 @@
     title: The Feminine Mystique
     author: Betty Friedan
     additional_authors: Anna Quindlen, Gail Collins
-    isbn: 0393346781
+    isbn: '0393346781'
     isbn13: '9780393346787'
     publisher: W. W. Norton  Company
     binding: Paperback
@@ -1379,7 +1367,7 @@
     book_id: 26792189
     title: The Geek Feminist Revolution
     author: Kameron Hurley
-    isbn: 0765386259
+    isbn: '0765386259'
     isbn13: '9780765386250'
     publisher: Tor Books
     binding: ebook
@@ -1393,7 +1381,7 @@
     book_id: 22875103
     title: The Fishermen
     author: Chigozie Obioma
-    isbn: 0316338370
+    isbn: '0316338370'
     isbn13: '9780316338370'
     publisher: Little, Brown and Company
     binding: Hardcover
@@ -1407,7 +1395,7 @@
     book_id: 27882150
     title: The World According to Star Wars
     author: Cass R. Sunstein
-    isbn: 0062484222
+    isbn: '0062484222'
     isbn13: '9780062484222'
     publisher: Dey Street Books
     binding: Hardcover
@@ -1436,7 +1424,7 @@
     book_id: 16130
     title: Alexander Hamilton
     author: Ron Chernow
-    isbn: 0143034758
+    isbn: '0143034758'
     isbn13: '9780143034759'
     publisher: Penguin Books
     binding: Paperback
@@ -1451,9 +1439,7 @@
     book_id: 10864102
     title: The Absolute Sandman, Volume Five
     author: Neil Gaiman
-    additional_authors: P. Craig Russell, Yoshitaka Amano, Teddy Kristiansen, Milo
-      Manara, Miguelanxo Prado, Barron Storey, Bill Sienkiewicz, Glenn Fabry, Frank
-      Quitely, Dave McKean, Lovern Kindzierski, Christopher Chuckry, Todd Klein
+    additional_authors: P. Craig Russell, Yoshitaka Amano, Teddy Kristiansen, Milo Manara, Miguelanxo Prado, Barron Storey, Bill Sienkiewicz, Glenn Fabry, Frank Quitely, Dave McKean, Lovern Kindzierski, Christopher Chuckry, Todd Klein
     isbn: '1401232027'
     isbn13: '9781401232023'
     publisher: Vertigo
@@ -1469,9 +1455,7 @@
     book_id: 3375878
     title: The Absolute Sandman, Volume Four
     author: Neil Gaiman
-    additional_authors: Marc Hempel, Michael Zulli, D'Israeli, Richard Case, Charles
-      Vess, Teddy Kristiansen, Jon J. Muth, Kevin Nowlan, Dean Ormston, Glyn Dillion,
-      Daniel Vozzo, Todd Klein, Dave McKean
+    additional_authors: Marc Hempel, Michael Zulli, D'Israeli, Richard Case, Charles Vess, Teddy Kristiansen, Jon J. Muth, Kevin Nowlan, Dean Ormston, Glyn Dillion, Daniel Vozzo, Todd Klein, Dave McKean
     isbn: '1401210856'
     isbn13: '9781401210854'
     publisher: Vertigo
@@ -1486,11 +1470,7 @@
     book_id: 2186848
     title: The Absolute Sandman, Volume Three
     author: Neil Gaiman
-    additional_authors: Jill Thompson, Vince Locke, Bryan Talbot, Mark Buckingham,
-      P. Craig Russell, Michael Zulli, John Watkiss, Dick Giordano, Mike Allred, Shea
-      Anton Pensa, Alec Stevens, Gary Amaro, Kent Williams, Tony Harris, Steve Leialoha,
-      Daniel Vozzo, Lovern Kindzierski, Sherilyn van Valkenburgh, Todd Klein, Dave
-      McKean
+    additional_authors: Jill Thompson, Vince Locke, Bryan Talbot, Mark Buckingham, P. Craig Russell, Michael Zulli, John Watkiss, Dick Giordano, Mike Allred, Shea Anton Pensa, Alec Stevens, Gary Amaro, Kent Williams, Tony Harris, Steve Leialoha, Daniel Vozzo, Lovern Kindzierski, Sherilyn van Valkenburgh, Todd Klein, Dave McKean
     isbn: '1401210848'
     isbn13: '9781401210847'
     publisher: Vertigo
@@ -1505,10 +1485,7 @@
     book_id: 1025685
     title: The Absolute Sandman, Volume Two
     author: Neil Gaiman
-    additional_authors: Shawn McManus, Kelley Jones, Mike Dringenberg, Bryan Talbot,
-      John Watkiss, Matt Wagner, Stan Woch, Colleen Doran, Duncan Eagleson, John Bolton,
-      Malcolm Jones III, George Pratt, Dick Giordano, P. Craig Russell, Vince Locke,
-      Daniel Vozzo, Steve Oliff, Todd Klein, Dave McKean
+    additional_authors: Shawn McManus, Kelley Jones, Mike Dringenberg, Bryan Talbot, John Watkiss, Matt Wagner, Stan Woch, Colleen Doran, Duncan Eagleson, John Bolton, Malcolm Jones III, George Pratt, Dick Giordano, P. Craig Russell, Vince Locke, Daniel Vozzo, Steve Oliff, Todd Klein, Dave McKean
     isbn: 140121083X
     isbn13: '9781401210830'
     publisher: Vertigo
@@ -1523,9 +1500,7 @@
     book_id: 23753
     title: The Absolute Sandman, Volume One
     author: Neil Gaiman
-    additional_authors: Mike Dringenberg, Chris Bachalo, Michael Zulli, Kelly Jones,
-      Charles Vess, Colleen Doran, Malcolm Jones III, Steve Parkhouse, Daniel Vozzo,
-      Lee Loughridge, Steve Oliff, Todd Klein, Dave McKean, Sam Kieth
+    additional_authors: Mike Dringenberg, Chris Bachalo, Michael Zulli, Kelly Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Parkhouse, Daniel Vozzo, Lee Loughridge, Steve Oliff, Todd Klein, Dave McKean, Sam Kieth
     isbn: '1401210821'
     isbn13: '9781401210823'
     publisher: Vertigo
@@ -1540,16 +1515,7 @@
     book_id: 17468561
     title: The Moth
     author: Catherine Burns
-    additional_authors: Adam Gopnick, George Dawes Green, James  Braly, Damien Echols,
-      Ari Handel, Anoid Latipovna Rakhmatyllaeva, Joe Lockhart, Wayne Reece, Richard
-      Price, Jon Levin, Annie Duke, Michael Massimino, Kimberly Reed, Darryl McDaniels,
-      Sherman Powell, Ed Gavagan, Marvin Gelfand, Paul Nurse, Steve Osborne, Erin
-      Barker, Edgar Oliver, Ellie Lee, Carly Johnstone, Sebastian Junger, Andy Christie,
-      Malcolm Gladwell, Ophira Eisenberg, Ted Conover, Matthew Mcgough, Jeffery Rudell,
-      Elna Barker, Tristan Jimerson, Aimee Mullins, Janna Levin, Nathan Englander,
-      Wanda Bullard, Kemp Powers, Jenny Allen, Joyce Maynard, Stephanie Summerville,
-      Jenifer Hixson, Brian Finkelstein, Faye Lane, Mike DeStefano, George Lombardi,
-      Andrew Solomon, Alan Rabinowitz, Jillian Lauren, A.E. Hotchner
+    additional_authors: Adam Gopnick, George Dawes Green, James  Braly, Damien Echols, Ari Handel, Anoid Latipovna Rakhmatyllaeva, Joe Lockhart, Wayne Reece, Richard Price, Jon Levin, Annie Duke, Michael Massimino, Kimberly Reed, Darryl McDaniels, Sherman Powell, Ed Gavagan, Marvin Gelfand, Paul Nurse, Steve Osborne, Erin Barker, Edgar Oliver, Ellie Lee, Carly Johnstone, Sebastian Junger, Andy Christie, Malcolm Gladwell, Ophira Eisenberg, Ted Conover, Matthew Mcgough, Jeffery Rudell, Elna Barker, Tristan Jimerson, Aimee Mullins, Janna Levin, Nathan Englander, Wanda Bullard, Kemp Powers, Jenny Allen, Joyce Maynard, Stephanie Summerville, Jenifer Hixson, Brian Finkelstein, Faye Lane, Mike DeStefano, George Lombardi, Andrew Solomon, Alan Rabinowitz, Jillian Lauren, A.E. Hotchner
     isbn: '1401311113'
     isbn13: '9781401311117'
     publisher: Hachette Books
@@ -1576,8 +1542,7 @@
     exclusive_shelf: read
 - 28649432:
     book_id: 28649432
-    title: 'Catching Homelessness: A Nurse''s Story of Falling Through the Safety
-      Net'
+    title: 'Catching Homelessness: A Nurse''s Story of Falling Through the Safety Net'
     author: Josephine Ensign
     isbn: '1631521179'
     isbn13: '9781631521171'
@@ -1594,7 +1559,7 @@
     title: The Anthropology of Learning in Childhood
     author: David F. Lancy
     additional_authors: John Bock, Suzanne Gaskins
-    isbn: 075911322X
+    isbn: '075911322X'
     isbn13: '9780759113220'
     publisher: Altamira Press
     binding: Hardcover
@@ -1610,7 +1575,7 @@
     title: 'The Cross of Redemption: Uncollected Writings'
     author: James     Baldwin
     additional_authors: Randall Kenan
-    isbn: 0307378829
+    isbn: '0307378829'
     isbn13: '9780307378828'
     publisher: Pantheon
     binding: Hardcover
@@ -1625,7 +1590,7 @@
     book_id: 15916
     title: 'The True Believer: Thoughts on the Nature of Mass Movements'
     author: Eric Hoffer
-    isbn: 0060505915
+    isbn: '0060505915'
     isbn13: '9780060505912'
     publisher: Harper Perennial Modern Classics
     binding: Paperback
@@ -1640,7 +1605,7 @@
     book_id: 20890478
     title: 'Ravensbrück: Life and Death in Hitler''s Concentration Camp for Women'
     author: Sarah Helm
-    isbn: 038552059X
+    isbn: '038552059X'
     isbn13: '9780385520591'
     publisher: Nan A. Talese
     binding: Hardcover
@@ -1699,7 +1664,7 @@
     book_id: 126381
     title: Purple Hibiscus
     author: Chimamanda Ngozi Adichie
-    isbn: 0007189885
+    isbn: '0007189885'
     isbn13: '9780007189885'
     publisher: Harper Perennial
     binding: Paperback
@@ -1713,7 +1678,7 @@
     book_id: 15796700
     title: Americanah
     author: Chimamanda Ngozi Adichie
-    isbn: 0307271080
+    isbn: '0307271080'
     isbn13: '9780307271082'
     publisher: Knopf
     binding: Hardcover
@@ -1727,8 +1692,7 @@
     exclusive_shelf: read
 - 171127:
     book_id: 171127
-    title: 'The Little Book of Common Sense Investing: The Only Way to Guarantee Your
-      Fair Share of Stock Market Returns'
+    title: 'The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns'
     author: John C. Bogle
     isbn: '0470102101'
     isbn13: '9780470102107'
@@ -1776,7 +1740,7 @@
     book_id: 2010938
     title: 'No More Teams: Mastering the Dynamics of Creative Collaboration'
     author: Michael Schrage
-    isbn: 0385476035
+    isbn: '0385476035'
     isbn13: '9780385476034'
     publisher: Crown Business
     binding: Paperback
@@ -1806,7 +1770,7 @@
     book_id: 15195
     title: 'The Complete Maus (Maus, #1-2)'
     author: Art Spiegelman
-    isbn: 0141014083
+    isbn: '0141014083'
     isbn13: '9780141014081'
     publisher: Penguin Books
     binding: Paperback
@@ -1820,7 +1784,7 @@
     book_id: 2880662
     title: 'This Land Is Their Land: Reports from a Divided Nation'
     author: Barbara Ehrenreich
-    isbn: 0805088407
+    isbn: '0805088407'
     isbn13: '9780805088403'
     publisher: Metropolitan Books
     binding: Hardcover
@@ -1834,7 +1798,7 @@
     book_id: 18521
     title: A Room of One's Own
     author: Virginia Woolf
-    isbn: 0141183535
+    isbn: '0141183535'
     isbn13: '9780141183534'
     publisher: Penguin Books, Limited (UK)
     binding: Mass Market Paperback
@@ -1846,8 +1810,7 @@
     exclusive_shelf: read
 - 23848047:
     book_id: 23848047
-    title: 'Resurrection Science: Conservation, De-extinction and the Precarious Future
-      of Wild Things'
+    title: 'Resurrection Science: Conservation, De-extinction and the Precarious Future of Wild Things'
     author: M.R. O'Connor
     isbn: 113727929X
     isbn13: '9781137279293'
@@ -1880,7 +1843,7 @@
     title: Streetwise
     author: Mary Ellen Mark
     additional_authors: John Irving
-    isbn: 0812212681
+    isbn: '0812212681'
     isbn13: '9780812212686'
     publisher: University of Pennsylvania Press
     binding: Paperback
@@ -1895,7 +1858,7 @@
     book_id: 289751
     title: 'Proust and the Squid: The Story and Science of the Reading Brain'
     author: Maryanne Wolf
-    isbn: 0060186399
+    isbn: '0060186399'
     isbn13: '9780060186395'
     publisher: Harper
     binding: Hardcover
@@ -1910,7 +1873,7 @@
     book_id: 60931
     title: Kindred
     author: Octavia E. Butler
-    isbn: 0807083690
+    isbn: '0807083690'
     isbn13: '9780807083697'
     publisher: Beacon Press
     binding: Paperback
@@ -1940,7 +1903,7 @@
     book_id: 125441
     title: An Autobiography
     author: Angela Y. Davis
-    isbn: 0717806677
+    isbn: '0717806677'
     isbn13: '9780717806676'
     publisher: International Publishers
     binding: Paperback
@@ -1955,7 +1918,7 @@
     book_id: 8908
     title: 'World War Z: An Oral History of the Zombie War'
     author: Max Brooks
-    isbn: 0307346609
+    isbn: '0307346609'
     isbn13: '9780307346605'
     publisher: Crown
     binding: Hardcover
@@ -1986,7 +1949,7 @@
     title: How to Talk So Kids Will Listen & Listen So Kids Will Talk
     author: Adele Faber
     additional_authors: Elaine Mazlish, Kimberly Ann Coe
-    isbn: 0380811960
+    isbn: '0380811960'
     isbn13: '9780380811960'
     publisher: Collins Living
     binding: Paperback
@@ -2001,7 +1964,7 @@
     book_id: 64582
     title: 'Chaos: Making a New Science'
     author: James Gleick
-    isbn: 0140092501
+    isbn: '0140092501'
     isbn13: '9780140092509'
     publisher: Penguin Books
     binding: Paperback
@@ -2046,7 +2009,7 @@
     book_id: 10887582
     title: 'Design Like You Give a Damn {2}: Building Change from the Ground Up'
     author: Architecture For Humanity
-    isbn: 0810997029
+    isbn: '0810997029'
     isbn13: '9780810997028'
     publisher: Harry N. Abrams
     binding: Paperback
@@ -2089,7 +2052,7 @@
     book_id: 9839954
     title: M Is for Magic
     author: Neil Gaiman
-    isbn: 0061475815
+    isbn: '0061475815'
     isbn13: '9780061475818'
     publisher: HarperCollins
     binding: Audio
@@ -2103,7 +2066,7 @@
     book_id: 16981
     title: Invisible Man
     author: Ralph Ellison
-    isbn: 0679732764
+    isbn: '0679732764'
     isbn13: '9780679732761'
     publisher: Vintage
     binding: Paperback
@@ -2129,10 +2092,9 @@
     exclusive_shelf: hold
 - 9272404:
     book_id: 9272404
-    title: 'The Compass of Pleasure: How Our Brains Make Fatty Foods, Orgasm, Exercise,
-      Marijuana, Generosity, Vodka, Learning, and Gambling Feel So Good'
+    title: 'The Compass of Pleasure: How Our Brains Make Fatty Foods, Orgasm, Exercise, Marijuana, Generosity, Vodka, Learning, and Gambling Feel So Good'
     author: David J. Linden
-    isbn: 0670022586
+    isbn: '0670022586'
     isbn13: '9780670022588'
     publisher: Viking
     binding: Hardcover
@@ -2160,8 +2122,7 @@
     exclusive_shelf: to-read
 - 22875447:
     book_id: 22875447
-    title: 'Work Rules!: Insights from Inside Google That Will Transform How You Live
-      and Lead'
+    title: 'Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead'
     author: Laszlo Bock
     isbn: '1455554790'
     isbn13: '9781455554799'
@@ -2177,7 +2138,7 @@
     book_id: 1072491
     title: 'Serious Play: How the World''s Best Companies Simulate to Innovate'
     author: Michael Schrage
-    isbn: 0875848141
+    isbn: '0875848141'
     isbn13: '9780875848143'
     publisher: Harvard Business Review Press
     binding: Hardcover
@@ -2223,7 +2184,7 @@
     book_id: 26260495
     title: Video Games and Creativity
     author: Garo Green
-    isbn: 0128014628
+    isbn: '0128014628'
     isbn13: '9780128014622'
     publisher: Academic Press
     binding: Hardcover
@@ -2254,7 +2215,7 @@
     book_id: 18667945
     title: "#GIRLBOSS"
     author: Sophia Amoruso
-    isbn: 039916927X
+    isbn: '039916927X'
     isbn13: '9780399169274'
     publisher: Portfolio
     binding: Hardcover
@@ -2283,7 +2244,7 @@
     book_id: 37832
     title: 'Forty Ways to Look at Winston Churchill: A Brief Account of a Long Life'
     author: Gretchen Rubin
-    isbn: 0812971442
+    isbn: '0812971442'
     isbn13: '9780812971446'
     publisher: Random House Trade Paperbacks
     binding: Paperback
@@ -2298,7 +2259,7 @@
     book_id: 20949792
     title: 'Augustus: First Emperor of Rome'
     author: Adrian Goldsworthy
-    isbn: 0300178727
+    isbn: '0300178727'
     isbn13: '9780300178722'
     publisher: Yale University Press
     binding: Hardcover
@@ -2313,7 +2274,7 @@
     book_id: 1701815
     title: Julius Caesar
     author: Philip Freeman
-    isbn: 0743289536
+    isbn: '0743289536'
     isbn13: '9780743289535'
     publisher: Simon & Schuster
     binding: Hardcover
@@ -2328,7 +2289,7 @@
     book_id: 8161967
     title: 'Small Is Beautiful: Economics as if People Mattered'
     author: Ernst F. Schumacher
-    isbn: 0061997765
+    isbn: '0061997765'
     isbn13: '9780061997761'
     publisher: Harper Perennial
     binding: Paperback
@@ -2344,7 +2305,7 @@
     title: The Human Side of Enterprise
     author: Douglas McGregor
     additional_authors: Joel Cutcher-Gershenfeld
-    isbn: 0071462228
+    isbn: '0071462228'
     isbn13: '9780071462228'
     publisher: McGraw-Hill Companies
     binding: Hardcover
@@ -2360,7 +2321,7 @@
     title: Who
     author: Geoff Smart
     additional_authors: Randy Street
-    isbn: 0345504194
+    isbn: '0345504194'
     isbn13: '9780345504197'
     publisher: Ballantine Books
     binding: Hardcover
@@ -2387,11 +2348,10 @@
     exclusive_shelf: abandoned
 - 846249:
     book_id: 846249
-    title: 'The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning
-      Organization'
+    title: 'The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning Organization'
     author: Peter M. Senge
     additional_authors: Art Kleiner, Charlotte Roberts
-    isbn: 0385472560
+    isbn: '0385472560'
     isbn13: '9780385472562'
     publisher: Crown Business
     binding: Paperback
@@ -2406,7 +2366,7 @@
     book_id: 6667514
     title: 'The Checklist Manifesto: How to Get Things Right'
     author: Atul Gawande
-    isbn: 0805091742
+    isbn: '0805091742'
     isbn13: '9780805091748'
     publisher: Metropolitan Books
     binding: Hardcover
@@ -2421,7 +2381,7 @@
     title: 'Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa'
     author: Dambisa Moyo
     additional_authors: Niall Ferguson
-    isbn: 0374139563
+    isbn: '0374139563'
     isbn13: '9780374139568'
     publisher: Farrar, Straus and Giroux
     binding: Hardcover
@@ -2433,8 +2393,7 @@
     exclusive_shelf: read
 - 13552345:
     book_id: 13552345
-    title: 'Sowing Seeds in the Desert: Natural Farming, Global Restoration, and Ultimate
-      Food Security'
+    title: 'Sowing Seeds in the Desert: Natural Farming, Global Restoration, and Ultimate Food Security'
     author: Masanobu Fukuoka
     isbn: '1603584188'
     isbn13: '9781603584180'
@@ -2466,7 +2425,7 @@
     title: Farewell to Manzanar
     author: Jeanne Wakatsuki Houston
     additional_authors: James D. Houston
-    isbn: 0553272586
+    isbn: '0553272586'
     isbn13: '9780553272581'
     publisher: Dell
     binding: Paperback
@@ -2494,10 +2453,9 @@
     exclusive_shelf: read
 - 25489083:
     book_id: 25489083
-    title: 'The Myth of the Spoiled Child: Coddled Kids, Helicopter Parents, and Other
-      Phony Crises'
+    title: 'The Myth of the Spoiled Child: Coddled Kids, Helicopter Parents, and Other Phony Crises'
     author: Alfie Kohn
-    isbn: 0807073881
+    isbn: '0807073881'
     isbn13: '9780807073889'
     publisher: Beacon Press
     binding: Paperback
@@ -2514,7 +2472,7 @@
     title: 'All the Best, Neill: Letters from Summerhill'
     author: A.S. Neill
     additional_authors: Jonathan Croall
-    isbn: 0531098222
+    isbn: '0531098222'
     isbn13: '9780531098226'
     publisher: Franklin Watts
     binding: Hardcover
@@ -2530,7 +2488,7 @@
     title: The Day America Told the Truth
     author: James    Patterson
     additional_authors: Peter Kim
-    isbn: 0452268087
+    isbn: '0452268087'
     isbn13: '9780452268081'
     publisher: Plume
     binding: Paperback
@@ -2586,7 +2544,7 @@
     book_id: 17470674
     title: Fahrenheit 451
     author: Ray Bradbury
-    isbn: 0007491565
+    isbn: '0007491565'
     isbn13: '9780007491568'
     publisher: Harper Voyager
     binding: Hardcover
@@ -2599,8 +2557,7 @@
     exclusive_shelf: to-read
 - 22318578:
     book_id: 22318578
-    title: 'The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering
-      and Organizing'
+    title: 'The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing'
     author: Marie Kondō
     additional_authors: Cathy Hirano
     isbn: '1607747308'
@@ -2615,8 +2572,7 @@
     exclusive_shelf: read
 - 16190817:
     book_id: 16190817
-    title: 'Why Managing Sucks and How to Fix It: A Results-Only Guide to Taking Control
-      of Work, Not People'
+    title: 'Why Managing Sucks and How to Fix It: A Results-Only Guide to Taking Control of Work, Not People'
     author: Cali Ressler
     additional_authors: Jody Thompson
     isbn: '1118426363'
@@ -2647,7 +2603,7 @@
     book_id: 2657
     title: To Kill a Mockingbird
     author: Harper Lee
-    isbn: 0061120081
+    isbn: '0061120081'
     isbn13: '9780061120084'
     publisher: Harper Perennial Modern Classics
     binding: Paperback
@@ -2690,10 +2646,9 @@
     exclusive_shelf: read
 - 18693655:
     book_id: 18693655
-    title: 'A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked
-      Algebra)'
+    title: 'A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)'
     author: Barbara Oakley
-    isbn: 039916524X
+    isbn: '039916524X'
     isbn13: '9780399165245'
     publisher: Tarcher/Penguin
     binding: Paperback
@@ -2722,7 +2677,7 @@
     title: Farewell to Manzanar and Related Readings (Farewell to Manzanar)
     author: Jeanne Wakatsuki Houston
     additional_authors: McDougal Littell, James D. Houston
-    isbn: 0395884551
+    isbn: '0395884551'
     isbn13: '9780395884553'
     publisher: McDougal Littell
     binding: Hardcover
@@ -2779,7 +2734,7 @@
     title: 'QED: The Strange Theory of Light and Matter'
     author: Richard Feynman
     additional_authors: A. Zee
-    isbn: 0691125759
+    isbn: '0691125759'
     isbn13: '9780691125756'
     publisher: Princeton University Press
     binding: Paperback
@@ -2792,7 +2747,7 @@
     book_id: 2926211
     title: 'Conformity and Conflict: Readings in Cultural Anthropology'
     author: David W. McCurdy
-    isbn: 0205354793
+    isbn: '0205354793'
     isbn13: '9780205354795'
     publisher: Allyn & Bacon
     binding: Paperback
@@ -2843,8 +2798,7 @@
     exclusive_shelf: read
 - 17571564:
     book_id: 17571564
-    title: 'Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms,
-      Mayhem, and Other Things That Happened'
+    title: 'Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened'
     author: Allie Brosh
     isbn: '1451666179'
     isbn13: '9781451666175'
@@ -2859,7 +2813,7 @@
     book_id: 66354
     title: 'Flow: The Psychology of Optimal Experience'
     author: Mihaly Csikszentmihalyi
-    isbn: 0060920432
+    isbn: '0060920432'
     isbn13: '9780060920432'
     publisher: Harper Perennial
     binding: Paperback
@@ -2875,7 +2829,7 @@
     title: A Tale of Two Cities
     author: Charles Dickens
     additional_authors: Richard Maxwell, Hablot Knight Browne
-    isbn: 0141439602
+    isbn: '0141439602'
     isbn13: '9780141439600'
     publisher: Penguin
     binding: Paperback
@@ -2890,7 +2844,7 @@
     book_id: 255127
     title: 'The Fifth Discipline: The Art & Practice of The Learning Organization'
     author: Peter M. Senge
-    isbn: 0385517254
+    isbn: '0385517254'
     isbn13: '9780385517256'
     publisher: Crown Business
     binding: Paperback
@@ -2904,7 +2858,7 @@
     book_id: 32994
     title: 'Maverick: The Success Story Behind the World''s Most Unusual Workplace'
     author: Ricardo Semler
-    isbn: 0712678867
+    isbn: '0712678867'
     isbn13: '9780712678865'
     publisher: Random House
     binding: Paperback
@@ -2920,7 +2874,7 @@
     title: 'The War of Art: Break Through the Blocks & Win Your Inner Creative Battles'
     author: Steven Pressfield
     additional_authors: Robert McKee
-    isbn: 0446691437
+    isbn: '0446691437'
     isbn13: '9780446691437'
     publisher: Warner Books
     binding: Paperback
@@ -2933,10 +2887,9 @@
     exclusive_shelf: abandoned
 - 541132:
     book_id: 541132
-    title: 'Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A''s,
-      Praise and Other Bribes'
+    title: 'Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A''s, Praise and Other Bribes'
     author: Alfie Kohn
-    isbn: 0395710901
+    isbn: '0395710901'
     isbn13: '9780395710906'
     publisher: Mariner Books
     binding: Paperback
@@ -2948,8 +2901,7 @@
     exclusive_shelf: read
 - 18868057:
     book_id: 18868057
-    title: 'The Amateurs: The Story of Four Young Men and Their Quest for an Olympic
-      Gold Medal'
+    title: 'The Amateurs: The Story of Four Young Men and Their Quest for an Olympic Gold Medal'
     author: David Halberstam
     isbn: ''
     isbn13: ''
@@ -2966,7 +2918,7 @@
     book_id: 3228917
     title: 'Outliers: The Story of Success'
     author: Malcolm Gladwell
-    isbn: 0316017922
+    isbn: '0316017922'
     isbn13: '9780316017923'
     publisher: Little, Brown and Company
     binding: Hardcover
@@ -2982,7 +2934,7 @@
     title: 'Good Work: When Excellence and Ethics Meet'
     author: Howard Gardner
     additional_authors: Mihaly Csikszentmihalyi, William Damon
-    isbn: 0465026087
+    isbn: '0465026087'
     isbn13: '9780465026081'
     publisher: Basic Books
     binding: Paperback
@@ -3025,8 +2977,7 @@
     exclusive_shelf: read
 - 4485966:
     book_id: 4485966
-    title: 'Talent is Overrated: What Really Separates World-Class Performers from
-      Everybody Else'
+    title: 'Talent is Overrated: What Really Separates World-Class Performers from Everybody Else'
     author: Geoff Colvin
     isbn: '1591842247'
     isbn13: '9781591842248'
@@ -3043,7 +2994,7 @@
     book_id: 189989
     title: 'Finite and Infinite Games: A Vision of Life as Play and Possibility'
     author: James P. Carse
-    isbn: 0345341848
+    isbn: '0345341848'
     isbn13: '9780345341846'
     publisher: Ballantine Books
     binding: Mass Market Paperback
@@ -3058,7 +3009,7 @@
     book_id: 225850
     title: 'Dumbing Us Down: The Hidden Curriculum of Compulsory Education'
     author: John Taylor Gatto
-    isbn: 086571519X
+    isbn: '086571519X'
     isbn13: '9780865715196'
     publisher: New Society Publishers
     binding: Paperback
@@ -3073,7 +3024,7 @@
     book_id: 98250
     title: Once a Runner
     author: John L. Parker Jr.
-    isbn: 0915297019
+    isbn: '0915297019'
     isbn13: '9780915297016'
     publisher: Cedarwinds
     binding: Paperback
@@ -3103,7 +3054,7 @@
     book_id: 97782
     title: Then We Came to the End
     author: Joshua Ferris
-    isbn: 0316016381
+    isbn: '0316016381'
     isbn13: '9780316016384'
     publisher: Little, Brown and Company
     binding: Hardcover
@@ -3141,10 +3092,9 @@
     exclusive_shelf: read
 - 16158542:
     book_id: 16158542
-    title: 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at
-      the 1936 Berlin Olympics'
+    title: 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics'
     author: Daniel James Brown
-    isbn: 067002581X
+    isbn: '067002581X'
     isbn13: '9780670025817'
     publisher: Viking
     binding: Hardcover
@@ -3159,7 +3109,7 @@
     book_id: 129731
     title: 'Mindless Eating: Why We Eat More Than We Think'
     author: Brian Wansink
-    isbn: 0553804340
+    isbn: '0553804340'
     isbn13: '9780553804348'
     publisher: Bantam
     binding: Hardcover
@@ -3189,7 +3139,7 @@
     book_id: 1301
     title: 'Moneyball: The Art of Winning an Unfair Game'
     author: Michael   Lewis
-    isbn: 0393324818
+    isbn: '0393324818'
     isbn13: '9780393324815'
     publisher: W. W. Norton & Company
     binding: Paperback
@@ -3204,7 +3154,7 @@
     book_id: 48484
     title: 'Blindsight (Firefall, #1)'
     author: Peter Watts
-    isbn: 0765312182
+    isbn: '0765312182'
     isbn13: '9780765312181'
     publisher: Tor Books
     binding: Hardcover
@@ -3219,7 +3169,7 @@
     book_id: 22155
     title: 'Let My People Go Surfing: The Education of a Reluctant Businessman'
     author: Yvon Chouinard
-    isbn: 0143037838
+    isbn: '0143037838'
     isbn13: '9780143037835'
     publisher: Penguin Books
     binding: Paperback
@@ -3274,8 +3224,7 @@
     exclusive_shelf: read
 - 25666069:
     book_id: 25666069
-    title: 'The Most Wanted Man in China: My Journey from Scientist to Enemy of the
-      State'
+    title: 'The Most Wanted Man in China: My Journey from Scientist to Enemy of the State'
     author: Fang Lizhi
     isbn: '1627794999'
     isbn13: '9781627794992'
@@ -3293,7 +3242,7 @@
     book_id: 4667024
     title: The Help
     author: Kathryn Stockett
-    isbn: 0399155341
+    isbn: '0399155341'
     isbn13: '9780399155345'
     publisher: Amy Einhorn Books
     binding: Hardcover
@@ -3334,7 +3283,7 @@
     book_id: 250693
     title: How to Cook a Wolf
     author: M.F.K. Fisher
-    isbn: 0865473366
+    isbn: '0865473366'
     isbn13: '9780865473362'
     publisher: North Point Press
     binding: Paperback
@@ -3360,7 +3309,7 @@
     book_id: 14497
     title: Neverwhere
     author: Neil Gaiman
-    isbn: 0060557818
+    isbn: '0060557818'
     isbn13: '9780060557812'
     publisher: William Morrow Paperbacks
     binding: Paperback
@@ -3373,7 +3322,7 @@
     book_id: 18007564
     title: The Martian
     author: Andy Weir
-    isbn: 0804139024
+    isbn: '0804139024'
     isbn13: '9780804139021'
     publisher: Crown
     binding: Hardcover
@@ -3399,7 +3348,7 @@
     book_id: 2744
     title: Anansi Boys
     author: Neil Gaiman
-    isbn: 0060515198
+    isbn: '0060515198'
     isbn13: '9780060515195'
     publisher: HarperCollins HarperTorch
     binding: Mass Market Paperback
@@ -3412,7 +3361,7 @@
     book_id: 9361589
     title: The Night Circus
     author: Erin Morgenstern
-    isbn: 0385534639
+    isbn: '0385534639'
     isbn13: '9780385534635'
     publisher: Doubleday
     binding: Hardcover
@@ -3424,10 +3373,9 @@
     exclusive_shelf: read
 - 9484114:
     book_id: 9484114
-    title: 'The Happiness Advantage: The Seven Principles of Positive Psychology That
-      Fuel Success and Performance at Work'
+    title: 'The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work'
     author: Shawn Achor
-    isbn: 0307591565
+    isbn: '0307591565'
     isbn13: '9780307591562'
     publisher: Crown Business
     binding: ebook
@@ -3439,8 +3387,7 @@
     exclusive_shelf: read
 - 17288716:
     book_id: 17288716
-    title: 'Before Happiness: How Creating a Positive Reality First Amplifies Your
-      Levels of Happiness and Success'
+    title: 'Before Happiness: How Creating a Positive Reality First Amplifies Your Levels of Happiness and Success'
     author: Shawn Achor
     isbn: '0770436730'
     isbn13: '9780770436735'
@@ -3454,10 +3401,9 @@
     exclusive_shelf: read
 - 11:
     book_id: 11
-    title: 'The Hitchhiker''s Guide to the Galaxy (Hitchhiker''s Guide to the Galaxy,
-      #1)'
+    title: 'The Hitchhiker''s Guide to the Galaxy (Hitchhiker''s Guide to the Galaxy, #1)'
     author: Douglas Adams
-    isbn: 0345391802
+    isbn: '0345391802'
     isbn13: '9780345391803'
     publisher: Del Rey Books
     binding: Mass Market Paperback
@@ -3470,7 +3416,7 @@
     book_id: 9969571
     title: Ready Player One
     author: Ernest Cline
-    isbn: 030788743X
+    isbn: '030788743X'
     isbn13: '9780307887436'
     publisher: Crown Publishers
     binding: Hardcover
@@ -3483,7 +3429,7 @@
     book_id: 2767052
     title: 'The Hunger Games (The Hunger Games, #1)'
     author: Suzanne Collins
-    isbn: 0439023483
+    isbn: '0439023483'
     isbn13: '9780439023481'
     publisher: Scholastic Press
     binding: Hardcover
@@ -3496,7 +3442,7 @@
     book_id: 830
     title: Snow Crash
     author: Neal Stephenson
-    isbn: 0553380958
+    isbn: '0553380958'
     isbn13: '9780553380958'
     publisher: Bantam Books
     binding: Paperback

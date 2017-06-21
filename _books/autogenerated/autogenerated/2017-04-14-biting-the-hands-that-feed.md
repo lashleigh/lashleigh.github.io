@@ -1,7 +1,6 @@
 ---
 date: '2017-04-14'
-title: 'Biting the Hands that Feed Us: How Fewer, Smarter Laws Would Make Our Food
-  System More Sustainable'
+title: 'Biting the Hands that Feed Us: How Fewer, Smarter Laws Would Make Our Food System More Sustainable'
 author: Baylen J. Linnekin
 goodreads_book_id: 29771103
 

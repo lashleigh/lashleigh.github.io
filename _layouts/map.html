@@ -11,22 +11,22 @@
       <div id="mapid"></div>
       <script type="text/javascript">
         {% include map.js %}
-        {% for post in site.posts %}
-          {% if post.location.lat and post.location.lng %}
+        {% for book in site.books %}
+          {% if book.location.lat and book.location.lng %}
 
-            L.marker([{{post.location.lat}}, {{post.location.lng}}]).addTo(mymap)
-		     .bindPopup('<a class="map-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>');
-		  {% else %}
-		    L.marker([0,0], {
-		    	title: '<a class="map-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>'
-		      })
-		     .bindPopup('<a class="map-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>')
-		     .addTo(mymap)
-		     .on('dragend', function(event) {
-               lastEvent = event;
-               event.target.setPopupContent(event.target.options.title + "</br>" + event.target.getLatLng()).openPopup();
-             })
-		     .dragging.enable();	                  
+            L.marker([{{book.location.lat}}, {{book.location.lng}}]).addTo(mymap)
+		         .bindPopup('<a class="map-book-link" href="{{ book.url | relative_url }}">{{ book.title | escape }}</a>');
+		      {% elsif jekyll.environment != 'production' %}
+		        L.marker([0,0], {
+		        	title: '<a class="map-book-link" href="{{ book.url | relative_url }}">{{ book.title | escape }}</a>'
+		          })
+		         .bindPopup('<a class="map-book-link" href="{{ book.url | relative_url }}">{{ book.title | escape }}</a>')
+		         .addTo(mymap)
+		         .on('dragend', function(event) {
+                   lastEvent = event;
+                   event.target.setPopupContent(event.target.options.title + "</br>" + event.target.getLatLng()).openPopup();
+                 })
+		         .dragging.enable();	                  
           {% endif %}
         {% endfor %}
     </script>

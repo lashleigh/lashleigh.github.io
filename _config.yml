@@ -15,7 +15,17 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  - jekyll-maps
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  books:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: post
