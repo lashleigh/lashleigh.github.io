@@ -11,19 +11,42 @@
       <div id="mapid"></div>
       <script type="text/javascript">
         {% include map.js %}
-        {% for book in site.books %}
-          {% if book.location.lat and book.location.lng %}
-
-            L.marker([{{book.location.lat}}, {{book.location.lng}}]).addTo(mymap)
-		         .bindPopup('<a class="map-book-link" href="{{ book.url | relative_url }}">{{ book.title | escape }}</a>');
+        {% for book_hash in site.data.locations %}
+          {% assign book = book_hash[1] %}
+          {% assign location = book.manual.location %}
+          {% assign url = "https://www.goodreads.com/book/show/" | append: book.book_id %}
+            
+          {% if location.lat and location.lng %}
+            L.marker([{{location.lat}}, {{location.lng}}], {location: {{location | jsonify}} })
+             .addTo(map)
+		         .bindPopup('<a class="map-book-link" href={{ url }}>{{ book.title | escape }}</a>')
+             .on('mouseover', function(event) {
+                lastevent = event;
+                // IF there are any iso codes attached we should find them and light 'em up
+                stateFeatureLayer.eachLayer(function(l) {
+                  var loc = lastevent.target.options.location.iso_3166_2;
+                  if ( loc != null && loc.includes(l._iso_3166_2)) {
+                    l.setStyle(highlightStyle);
+                  }
+                 });
+              })
+              .on('mouseout', function(event) {
+                lastevent = event;
+                // IF there are any iso codes attached we should find them and reset to default
+                stateFeatureLayer.eachLayer(function(l) {
+                  var loc = lastevent.target.options.location.iso_3166_2;
+                  if ( loc != null && loc.includes(l._iso_3166_2)) {
+                    l.setStyle(defaultStyle);
+                  }
+                 });
+              });
 		      {% elsif jekyll.environment != 'production' %}
 		        L.marker([0,0], {
-		        	title: '<a class="map-book-link" href="{{ book.url | relative_url }}">{{ book.title | escape }}</a>'
+		        	title: '<a class="map-book-link" href="{{ url }}">{{ book.title | escape }}</a>'
 		          })
-		         .bindPopup('<a class="map-book-link" href="{{ book.url | relative_url }}">{{ book.title | escape }}</a>')
-		         .addTo(mymap)
+		         .bindPopup('<a class="map-book-link" href="{{ url }}">{{ book.title | escape }}</a>')
+		         .addTo(map)
 		         .on('dragend', function(event) {
-                   lastEvent = event;
                    event.target.setPopupContent(event.target.options.title + "</br>" + event.target.getLatLng()).openPopup();
                  })
 		         .dragging.enable();	                  

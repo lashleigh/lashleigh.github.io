@@ -8,6 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
+    coderay (1.1.2)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -158,6 +159,7 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
+    method_source (0.8.2)
     mini_portile2 (2.1.0)
     minima (2.1.1)
       jekyll (~> 3.3)
@@ -170,6 +172,10 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
@@ -180,6 +186,7 @@ GEM
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
+    slop (3.6.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -196,10 +203,11 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
+  pry
   tzinfo-data
 
 RUBY VERSION
    ruby 2.4.1p111
 
 BUNDLED WITH
-   1.15.1
+   1.15.4
