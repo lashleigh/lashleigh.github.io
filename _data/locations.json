@@ -25,10 +25,10 @@
     "exclusive_shelf": "currently-reading",
     "manual": {
       "location": {
-        "note": null,
+        "note": "I chose a point in the middle of the high lighted areas",
         "name": null,
-        "lat": null,
-        "lng": null,
+        "lat": 28.53386,
+        "lng": 88.37402,
         "iso_3166_2": null
       }
     }
@@ -195,10 +195,10 @@
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "The story goes that the author was walking in Cairo and saw a group of people waiting in line, when she walked past them again hours later the same people were still waiting in line.",
+        "name": "Cairo, Egypt",
+        "lat": 30.02987,
+        "lng":  31.24512,
         "iso_3166_2": null
       }
     }
@@ -844,9 +844,9 @@
     "manual": {
       "location": {
         "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "name": "Nagasaki, Japan",
+        "lat": 32.78258,
+        "lng":  129.86115,
         "iso_3166_2": null
       }
     }
@@ -1132,10 +1132,10 @@
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "This book highlights an interesting problem with locations, the place is an illegal settlement, unsupported by the local government. At any time the many people living there are at risk of eviction and their lives being torn apart.",
+        "name": "Kibera slum, Kenya",
+        "lat": -1.311347,
+        "lng":  36.789927,
         "iso_3166_2": null
       }
     }
@@ -2700,10 +2700,10 @@
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "Locating this book in japan because while her ideas are applicable to other places the book was definitely a window into many Japanese homes.",
+        "name": "Tokyo, Japan",
+        "lat": 35.709924,
+        "lng": 139.590750,
         "iso_3166_2": null
       }
     }

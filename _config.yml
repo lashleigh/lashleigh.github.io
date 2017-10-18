@@ -18,6 +18,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - resources
 
 collections:
   books:

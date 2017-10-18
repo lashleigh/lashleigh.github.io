@@ -40,7 +40,7 @@
                   }
                  });
               });
-		      {% elsif jekyll.environment != 'production' %}
+		      {% elsif (jekyll.environment != 'production') and (book.exclusive_shelf == 'read') %}
 		        L.marker([0,0], {
 		        	title: '<a class="map-book-link" href="{{ url }}">{{ book.title | escape }}</a>'
 		          })

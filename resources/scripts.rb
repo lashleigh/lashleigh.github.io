@@ -79,7 +79,7 @@ def write_goodreads_book_data(books, file = "./_data/goodreads/books.yaml")
   f.close
 end
 
-def read_book_data_and_convert_to_json(file = "./goodreads_library_export.csv")
+def read_book_data_and_convert_to_json(file = "./resources/goodreads_library_export.csv")
   res = CSV.read(file, :headers => true, :header_converters => :symbol, :converters => :all);
   res.map {|r| clean(r.to_hash) };
 end

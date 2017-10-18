@@ -16,3 +16,6 @@ Mapbox has some sweet demo tutorials
 Other map things I like
  * http://lyzidiamond.com/posts/4326-vs-3857
  * How to hover with leaflet: http://leafletjs.com/examples/choropleth/
+
+How to get category and demographic information?
+ * http://isbndb.com/api/v2/docs (thanks [SO](https://stackoverflow.com/questions/12203350/goodreads-api-get-genre))
