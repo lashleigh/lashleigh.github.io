@@ -102,7 +102,7 @@ def sort_order(book)
   "#{shelf_order}-#{9 - book[:my_rating]}"
 end
 
-def update_locations(data, reject_empty = true, location_file = "./_data/locations.json")
+def update_locations(data, reject_empty = false, location_file = "./_data/locations.json")
   existing_data = JSON.load(File.read(location_file)) || {}
 
   updates = data.map do |n|

@@ -1,9 +1,9 @@
 {
-  "25942967": {
-    "book_id": 25942967,
-    "isbn13": "9781580056229",
-    "title": "Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity",
-    "author": "Julia Serano",
+  "7937653": {
+    "book_id": 7937653,
+    "isbn13": "9780330508896",
+    "title": "The Mind's Eye",
+    "author": "Oliver Sacks",
     "my_rating": 0,
     "exclusive_shelf": "currently-reading",
     "manual": {
@@ -16,28 +16,47 @@
       }
     }
   },
-  "13218889": {
-    "book_id": 13218889,
-    "isbn13": "9781604864885",
-    "title": "Asia's Unknown Uprisings Volume 2: People Power in the Philippines, Burma, Tibet, China, Taiwan, Bangladesh, Nepal, Thailand and Indonesia 1947-2009",
-    "author": "George Katsiaficas",
+  "917346": {
+    "book_id": 917346,
+    "isbn13": "9780142003893",
+    "title": "All Over Creation",
+    "author": "Ruth Ozeki",
     "my_rating": 0,
     "exclusive_shelf": "currently-reading",
     "manual": {
       "location": {
-        "note": "I chose a point in the middle of the high lighted areas",
+        "note": null,
         "name": null,
-        "lat": 28.53386,
-        "lng": 88.37402,
+        "lat": null,
+        "lng": null,
         "iso_3166_2": null
       }
     }
   },
-  "24972194": {
-    "book_id": 24972194,
-    "isbn13": "9780385352543",
-    "title": "On the Move: A Life",
-    "author": "Oliver Sacks",
+  "83988": {
+    "book_id": 83988,
+    "isbn13": "9780670038732",
+    "title": "Once Upon a Quinceanera: Coming of Age in the USA",
+    "author": "Julia Alvarez",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "tags": ["latinx"],
+      "location": {
+        "note": "This book was more about the experience of cultures than a specific geography, which makes it hard to place. She visited families in New Yok, Florida, Texas, and Colorado. She is also speaking about a tradition shared by so many spanish speaking countries, the scope of geographic influence here is huge. ",
+        "name": null,
+        "lat": 19.103143,
+        "lng": -70.240672,
+        "iso_3166_2": ["US-NY", "US-CA", "US-TX", "US-FL"],
+        "iso_country": ["DOM"]
+      }
+    }
+  },
+  "18528190": {
+    "book_id": 18528190,
+    "isbn13": "9781608463862",
+    "title": "Men Explain Things to Me",
+    "author": "Rebecca Solnit",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -50,11 +69,163 @@
       }
     }
   },
-  "18528190": {
-    "book_id": 18528190,
-    "isbn13": "9781608463862",
-    "title": "Men Explain Things to Me",
+  "16793": {
+    "book_id": 16793,
+    "isbn13": "9780061142024",
+    "title": "Stardust",
+    "author": "Neil Gaiman",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "32191680": {
+    "book_id": 32191680,
+    "isbn13": "9780393249248",
+    "title": "No Apparent Distress: A Doctor's Coming-of-Age on the Front Lines of American Medicine",
+    "author": "Rachel Pearson",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": "This story is more than a little bit memoir so placing it where the author worked and went to school made sense.",
+        "name": "Galveston, TX",
+        "lat": 29.311288,
+        "lng": -94.777872,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "20344868": {
+    "book_id": 20344868,
+    "isbn13": "9781595341983",
+    "title": "The Encyclopedia of Trouble and Spaciousness",
     "author": "Rebecca Solnit",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "8549879": {
+    "book_id": 8549879,
+    "isbn13": "9781603582513",
+    "title": "Holy Shit: Managing Manure to Save Mankind",
+    "author": "Gene Logsdon",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "17235026": {
+    "book_id": 17235026,
+    "isbn13": "9780356500157",
+    "title": "The Girl with All the Gifts",
+    "author": "M.R. Carey",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "name": "North of London where the base is implied to be",
+        "lat": 51.68959,
+        "lng": -0.1593,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "8464781": {
+    "book_id": 8464781,
+    "isbn13": "9780007348640",
+    "title": "Island Beneath The Sea",
+    "author": "Isabel Allende",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "6748": {
+    "book_id": 6748,
+    "isbn13": "9780316925280",
+    "title": "A Supposedly Fun Thing I'll Never Do Again:  Essays and Arguments",
+    "author": "David Foster Wallace",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "17571564": {
+    "book_id": 17571564,
+    "isbn13": "9781451666175",
+    "title": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+    "author": "Allie Brosh",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "830": {
+    "book_id": 830,
+    "isbn13": "9780553380958",
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "2186848": {
+    "book_id": 2186848,
+    "isbn13": "9781401210847",
+    "title": "The Absolute Sandman, Volume Three",
+    "author": "Neil Gaiman",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -84,11 +255,11 @@
       }
     }
   },
-  "20344868": {
-    "book_id": 20344868,
-    "isbn13": "9781595341983",
-    "title": "The Encyclopedia of Trouble and Spaciousness",
-    "author": "Rebecca Solnit",
+  "9484114": {
+    "book_id": 9484114,
+    "isbn13": "9780307591562",
+    "title": "The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work",
+    "author": "Shawn Achor",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -135,45 +306,28 @@
       }
     }
   },
-  "23705512": {
-    "book_id": 23705512,
-    "isbn13": "9781476785653",
-    "title": "You're Never Weird on the Internet (Almost)",
-    "author": "Felicia Day",
+  "23399020": {
+    "book_id": 23399020,
+    "isbn13": "9780670025626",
+    "title": "Nagasaki: Life After Nuclear War",
+    "author": "Susan Southard",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
       "location": {
         "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "name": "Nagasaki, Japan",
+        "lat": 32.78258,
+        "lng": 129.86115,
         "iso_3166_2": null
       }
     }
   },
-  "840": {
-    "book_id": 840,
-    "isbn13": "9780465067107",
-    "title": "The Design of Everyday Things",
-    "author": "Donald A. Norman",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "18667790": {
-    "book_id": 18667790,
-    "isbn13": "9781594204074",
-    "title": "The Third Plate: Field Notes on the Future of Food",
-    "author": "Dan Barber",
+  "28748": {
+    "book_id": 28748,
+    "isbn13": "9781932416374",
+    "title": "The Very Persistent Gappers of Frip",
+    "author": "George Saunders",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -198,33 +352,36 @@
         "note": "The story goes that the author was walking in Cairo and saw a group of people waiting in line, when she walked past them again hours later the same people were still waiting in line.",
         "name": "Cairo, Egypt",
         "lat": 30.02987,
-        "lng":  31.24512,
+        "lng": 31.24512,
         "iso_3166_2": null
       }
     }
   },
-  "683539": {
-    "book_id": 683539,
-    "isbn13": "9780140255263",
-    "title": "Why We Do What We Do: Understanding Self-Motivation",
-    "author": "Edward L. Deci",
+  "32171778": {
+    "book_id": 32171778,
+    "isbn13": "9781786631732",
+    "title": "Threads: From the Refugee Crisis",
+    "author": "Kate   Evans",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
+      "tags": [
+        "immigration"
+      ],
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "The most obvious location for this story is the refugee camp that Evans visits multiple times. Unfortunately the story of what is happening there isn't unique to that area.",
+        "name": "The Jungle, near Calais, France",
+        "lat": 50.968185,
+        "lng": 1.908696,
         "iso_3166_2": null
       }
     }
   },
-  "8664353": {
-    "book_id": 8664353,
-    "isbn13": "9781400064168",
-    "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
-    "author": "Laura Hillenbrand",
+  "28695425": {
+    "book_id": 28695425,
+    "isbn13": "9781620972250",
+    "title": "Strangers in Their Own Land: Anger and Mourning on the American Right",
+    "author": "Arlie Russell Hochschild",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -254,11 +411,11 @@
       }
     }
   },
-  "315882": {
-    "book_id": 315882,
-    "isbn13": "9780439777339",
-    "title": "Henry's Freedom Box: A True Story from the Underground Railroad",
-    "author": "Ellen Levine",
+  "5587960": {
+    "book_id": 5587960,
+    "isbn13": "9780307271075",
+    "title": "The Thing Around Your Neck",
+    "author": "Chimamanda Ngozi Adichie",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -271,133 +428,11 @@
       }
     }
   },
-  "28048": {
-    "book_id": 28048,
-    "isbn13": "9781841956602",
-    "title": "Hope in the Dark",
-    "author": "Rebecca Solnit",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "27845690": {
-    "book_id": 27845690,
-    "isbn13": "9780241145470",
-    "title": "The Course of Love",
-    "author": "Alain de Botton",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "830": {
-    "book_id": 830,
-    "isbn13": "9780553380958",
-    "title": "Snow Crash",
-    "author": "Neal Stephenson",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "5986375": {
-    "book_id": 5986375,
-    "isbn13": "9780316068222",
-    "title": "This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life",
-    "author": "David Foster Wallace",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "541132": {
-    "book_id": 541132,
-    "isbn13": "9780395710906",
-    "title": "Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise and Other Bribes",
-    "author": "Alfie Kohn",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "28748": {
-    "book_id": 28748,
-    "isbn13": "9781932416374",
-    "title": "The Very Persistent Gappers of Frip",
-    "author": "George Saunders",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "32171778": {
-    "book_id": 32171778,
-    "isbn13": "9781786631732",
-    "title": "Threads: From the Refugee Crisis",
-    "author": "Kate   Evans",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "tags": [
-        "immigration"
-      ],
-      "location": {
-        "note": "The most obvious location for this story is the refugee camp that Evans visits multiple times. Unfortunately the story of what is happening there isn't unique to that area.",
-        "name": "The Jungle, near Calais, France",
-        "lat": 50.968185,
-        "lng": 1.908696,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "17571564": {
-    "book_id": 17571564,
-    "isbn13": "9781451666175",
-    "title": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
-    "author": "Allie Brosh",
+  "22738563": {
+    "book_id": 22738563,
+    "isbn13": "",
+    "title": "We Should All Be Feminists",
+    "author": "Chimamanda Ngozi Adichie",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -427,11 +462,130 @@
       }
     }
   },
+  "1025685": {
+    "book_id": 1025685,
+    "isbn13": "9781401210830",
+    "title": "The Absolute Sandman, Volume Two",
+    "author": "Neil Gaiman",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "10887582": {
+    "book_id": 10887582,
+    "isbn13": "9780810997028",
+    "title": "Design Like You Give a Damn {2}: Building Change from the Ground Up",
+    "author": "Architecture For Humanity",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "2657": {
     "book_id": 2657,
     "isbn13": "9780061120084",
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "5986375": {
+    "book_id": 5986375,
+    "isbn13": "9780316068222",
+    "title": "This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life",
+    "author": "David Foster Wallace",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "315882": {
+    "book_id": 315882,
+    "isbn13": "9780439777339",
+    "title": "Henry's Freedom Box: A True Story from the Underground Railroad",
+    "author": "Ellen Levine",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "27845690": {
+    "book_id": 27845690,
+    "isbn13": "9780241145470",
+    "title": "The Course of Love",
+    "author": "Alain de Botton",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "16981": {
+    "book_id": 16981,
+    "isbn13": "9780679732761",
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "28048": {
+    "book_id": 28048,
+    "isbn13": "9781841956602",
+    "title": "Hope in the Dark",
+    "author": "Rebecca Solnit",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -495,11 +649,11 @@
       }
     }
   },
-  "16981": {
-    "book_id": 16981,
-    "isbn13": "9780679732761",
-    "title": "Invisible Man",
-    "author": "Ralph Ellison",
+  "23705512": {
+    "book_id": 23705512,
+    "isbn13": "9781476785653",
+    "title": "You're Never Weird on the Internet (Almost)",
+    "author": "Felicia Day",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -529,11 +683,11 @@
       }
     }
   },
-  "9484114": {
-    "book_id": 9484114,
-    "isbn13": "9780307591562",
-    "title": "The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work",
-    "author": "Shawn Achor",
+  "24972194": {
+    "book_id": 24972194,
+    "isbn13": "9780385352543",
+    "title": "On the Move: A Life",
+    "author": "Oliver Sacks",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -546,11 +700,11 @@
       }
     }
   },
-  "10887582": {
-    "book_id": 10887582,
-    "isbn13": "9780810997028",
-    "title": "Design Like You Give a Damn {2}: Building Change from the Ground Up",
-    "author": "Architecture For Humanity",
+  "18667790": {
+    "book_id": 18667790,
+    "isbn13": "9781594204074",
+    "title": "The Third Plate: Field Notes on the Future of Food",
+    "author": "Dan Barber",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -563,10 +717,27 @@
       }
     }
   },
-  "22738563": {
-    "book_id": 22738563,
-    "isbn13": "",
-    "title": "We Should All Be Feminists",
+  "7108725": {
+    "book_id": 7108725,
+    "isbn13": "9781591842804",
+    "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "author": "Simon Sinek",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "15796700": {
+    "book_id": 15796700,
+    "isbn13": "9780307271082",
+    "title": "Americanah",
     "author": "Chimamanda Ngozi Adichie",
     "my_rating": 5,
     "exclusive_shelf": "read",
@@ -576,39 +747,6 @@
         "name": null,
         "lat": null,
         "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "10388990": {
-    "book_id": 10388990,
-    "isbn13": "9780307915061",
-    "title": "Chaos: Making a New Science",
-    "author": "James Gleick",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "18749": {
-    "book_id": 18749,
-    "isbn13": "9781400044160",
-    "title": "Half of a Yellow Sun",
-    "author": "Chimamanda Ngozi Adichie",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "name": "Nsukka, Nigeria",
-        "lat": 6.871724,
-        "lng": 7.412103,
         "iso_3166_2": null
       }
     }
@@ -681,11 +819,11 @@
       }
     }
   },
-  "17251093": {
-    "book_id": 17251093,
-    "isbn13": "9780316228589",
-    "title": "The Casual Vacancy",
-    "author": "J.K. Rowling",
+  "14497": {
+    "book_id": 14497,
+    "isbn13": "9780060557812",
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -715,11 +853,28 @@
       }
     }
   },
-  "18521": {
-    "book_id": 18521,
-    "isbn13": "9780141183534",
-    "title": "A Room of One's Own",
-    "author": "Virginia Woolf",
+  "840": {
+    "book_id": 840,
+    "isbn13": "9780465067107",
+    "title": "The Design of Everyday Things",
+    "author": "Donald A. Norman",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "17251093": {
+    "book_id": 17251093,
+    "isbn13": "9780316228589",
+    "title": "The Casual Vacancy",
+    "author": "J.K. Rowling",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -749,11 +904,11 @@
       }
     }
   },
-  "15796700": {
-    "book_id": 15796700,
-    "isbn13": "9780307271082",
-    "title": "Americanah",
-    "author": "Chimamanda Ngozi Adichie",
+  "8664353": {
+    "book_id": 8664353,
+    "isbn13": "9781400064168",
+    "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+    "author": "Laura Hillenbrand",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -766,28 +921,11 @@
       }
     }
   },
-  "5587960": {
-    "book_id": 5587960,
-    "isbn13": "9780307271075",
-    "title": "The Thing Around Your Neck",
-    "author": "Chimamanda Ngozi Adichie",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "28695425": {
-    "book_id": 28695425,
-    "isbn13": "9781620972250",
-    "title": "Strangers in Their Own Land: Anger and Mourning on the American Right",
-    "author": "Arlie Russell Hochschild",
+  "18521": {
+    "book_id": 18521,
+    "isbn13": "9780141183534",
+    "title": "A Room of One's Own",
+    "author": "Virginia Woolf",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -834,19 +972,36 @@
       }
     }
   },
-  "23399020": {
-    "book_id": 23399020,
-    "isbn13": "9780670025626",
-    "title": "Nagasaki: Life After Nuclear War",
-    "author": "Susan Southard",
+  "683539": {
+    "book_id": 683539,
+    "isbn13": "9780140255263",
+    "title": "Why We Do What We Do: Understanding Self-Motivation",
+    "author": "Edward L. Deci",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
       "location": {
         "note": null,
-        "name": "Nagasaki, Japan",
-        "lat": 32.78258,
-        "lng":  129.86115,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "541132": {
+    "book_id": 541132,
+    "isbn13": "9780395710906",
+    "title": "Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise and Other Bribes",
+    "author": "Alfie Kohn",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
         "iso_3166_2": null
       }
     }
@@ -885,11 +1040,27 @@
       }
     }
   },
-  "1025685": {
-    "book_id": 1025685,
-    "isbn13": "9781401210830",
-    "title": "The Absolute Sandman, Volume Two",
-    "author": "Neil Gaiman",
+  "18749": {
+    "book_id": 18749,
+    "isbn13": "9781400044160",
+    "title": "Half of a Yellow Sun",
+    "author": "Chimamanda Ngozi Adichie",
+    "my_rating": 5,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "name": "Nsukka, Nigeria",
+        "lat": 6.871724,
+        "lng": 7.412103,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "10388990": {
+    "book_id": 10388990,
+    "isbn13": "9780307915061",
+    "title": "Chaos: Making a New Science",
+    "author": "James Gleick",
     "my_rating": 5,
     "exclusive_shelf": "read",
     "manual": {
@@ -918,23 +1089,6 @@
       }
     }
   },
-  "2186848": {
-    "book_id": 2186848,
-    "isbn13": "9781401210847",
-    "title": "The Absolute Sandman, Volume Three",
-    "author": "Neil Gaiman",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "638794": {
     "book_id": 638794,
     "isbn13": "9780375415357",
@@ -954,163 +1108,11 @@
       }
     }
   },
-  "17235026": {
-    "book_id": 17235026,
-    "isbn13": "9780356500157",
-    "title": "The Girl with All the Gifts",
-    "author": "M.R. Carey",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "name": "North of London where the base is implied to be",
-        "lat": 51.68959,
-        "lng": -0.1593,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "14497": {
-    "book_id": 14497,
-    "isbn13": "9780060557812",
-    "title": "Neverwhere",
-    "author": "Neil Gaiman",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "16793": {
-    "book_id": 16793,
-    "isbn13": "9780061142024",
-    "title": "Stardust",
-    "author": "Neil Gaiman",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "32191680": {
-    "book_id": 32191680,
-    "isbn13": "9780393249248",
-    "title": "No Apparent Distress: A Doctor's Coming-of-Age on the Front Lines of American Medicine",
-    "author": "Rachel Pearson",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": "This story is more than a little bit memoir so placing it where the author worked and went to school made sense.",
-        "name": "Galveston, TX",
-        "lat": 29.311288,
-        "lng": -94.777872,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "7108725": {
-    "book_id": 7108725,
-    "isbn13": "9781591842804",
-    "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
-    "author": "Simon Sinek",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "8549879": {
-    "book_id": 8549879,
-    "isbn13": "9781603582513",
-    "title": "Holy Shit: Managing Manure to Save Mankind",
-    "author": "Gene Logsdon",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "8464781": {
-    "book_id": 8464781,
-    "isbn13": "9780007348640",
-    "title": "Island Beneath The Sea",
-    "author": "Isabel Allende",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "83988": {
-    "book_id": 83988,
-    "isbn13": "9780670038732",
-    "title": "Once Upon a Quinceanera: Coming of Age in the USA",
-    "author": "Julia Alvarez",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "6748": {
-    "book_id": 6748,
-    "isbn13": "9780316925280",
-    "title": "A Supposedly Fun Thing I'll Never Do Again:  Essays and Arguments",
-    "author": "David Foster Wallace",
-    "my_rating": 5,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "29771103": {
-    "book_id": 29771103,
-    "isbn13": "9781610916752",
-    "title": "Biting the Hands that Feed Us: How Fewer, Smarter Laws Would Make Our Food System More Sustainable",
-    "author": "Baylen J. Linnekin",
+  "163462": {
+    "book_id": 163462,
+    "isbn13": "9780062510259",
+    "title": "Epitaph for a Peach: Four Seasons on My Family Farm",
+    "author": "David Mas Masumoto",
     "my_rating": 4,
     "exclusive_shelf": "read",
     "manual": {
@@ -1123,19 +1125,121 @@
       }
     }
   },
-  "32445729": {
-    "book_id": 32445729,
-    "isbn13": "9781632280572",
-    "title": "Play Like a Girl: How a Soccer School in Kenya's Slums Started a Revolution",
-    "author": "Ellie Roscher",
+  "7815": {
+    "book_id": 7815,
+    "isbn13": "9781400078431",
+    "title": "The Year of Magical Thinking",
+    "author": "Joan Didion",
     "my_rating": 4,
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": "This book highlights an interesting problem with locations, the place is an illegal settlement, unsupported by the local government. At any time the many people living there are at risk of eviction and their lives being torn apart.",
-        "name": "Kibera slum, Kenya",
-        "lat": -1.311347,
-        "lng":  36.789927,
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "12530": {
+    "book_id": 12530,
+    "isbn13": "9780060919887",
+    "title": "The Writing Life",
+    "author": "Annie Dillard",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "13152194": {
+    "book_id": 13152194,
+    "isbn13": "9780307949325",
+    "title": "Tiny Beautiful Things: Advice on Love and Life from Dear Sugar",
+    "author": "Cheryl Strayed",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "21326": {
+    "book_id": 21326,
+    "isbn13": "9781563899423",
+    "title": "Fables, Vol. 1: Legends in Exile",
+    "author": "Bill Willingham",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "9969571": {
+    "book_id": 9969571,
+    "isbn13": "9780307887436",
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "25667918": {
+    "book_id": 25667918,
+    "isbn13": "9780765384461",
+    "title": "Binti (Binti, #1)",
+    "author": "Nnedi Okorafor",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "17288716": {
+    "book_id": 17288716,
+    "isbn13": "9780770436735",
+    "title": "Before Happiness: How Creating a Positive Reality First Amplifies Your Levels of Happiness and Success",
+    "author": "Shawn Achor",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
         "iso_3166_2": null
       }
     }
@@ -1152,7 +1256,7 @@
         "note": "I don't recall if a specific town was ever given, so locating this in the middle of Romania for now.",
         "name": "center of Romania",
         "lat": 46.026791,
-        "lng":  24.831458,
+        "lng": 24.831458,
         "iso_3166_2": null
       }
     }
@@ -1162,6 +1266,40 @@
     "isbn13": "9780307477477",
     "title": "A Visit from the Goon Squad",
     "author": "Jennifer Egan",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "250693": {
+    "book_id": 250693,
+    "isbn13": "9780865473362",
+    "title": "How to Cook a Wolf",
+    "author": "M.F.K. Fisher",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "16299389": {
+    "book_id": 16299389,
+    "isbn13": "9788820053482",
+    "title": "Cloud Atlas. L'Atlante delle Nuvole",
+    "author": "David Mitchell",
     "my_rating": 4,
     "exclusive_shelf": "read",
     "manual": {
@@ -1187,6 +1325,22 @@
         "name": null,
         "lat": null,
         "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "25666069": {
+    "book_id": 25666069,
+    "isbn13": "9781627794992",
+    "title": "The Most Wanted Man in China: My Journey from Scientist to Enemy of the State",
+    "author": "Fang Lizhi",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "name": "Tienamen Square",
+        "lat": 39.906148,
+        "lng": 116.397578,
         "iso_3166_2": null
       }
     }
@@ -1281,6 +1435,23 @@
     "isbn13": "9780385353540",
     "title": "Books for Living",
     "author": "Will Schwalbe",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "22155": {
+    "book_id": 22155,
+    "isbn13": "9780143037835",
+    "title": "Let My People Go Surfing: The Education of a Reluctant Businessman",
+    "author": "Yvon Chouinard",
     "my_rating": 4,
     "exclusive_shelf": "read",
     "manual": {
@@ -1415,6 +1586,74 @@
       }
     }
   },
+  "255127": {
+    "book_id": 255127,
+    "isbn13": "9780385517256",
+    "title": "The Fifth Discipline: The Art & Practice of The Learning Organization",
+    "author": "Peter M. Senge",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "3158100": {
+    "book_id": 3158100,
+    "isbn13": "9780671201531",
+    "title": "The Forest People",
+    "author": "Colin M. Turnbull",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "2926211": {
+    "book_id": 2926211,
+    "isbn13": "9780205354795",
+    "title": "Conformity and Conflict: Readings in Cultural Anthropology",
+    "author": "David W. McCurdy",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "29771103": {
+    "book_id": 29771103,
+    "isbn13": "9781610916752",
+    "title": "Biting the Hands that Feed Us: How Fewer, Smarter Laws Would Make Our Food System More Sustainable",
+    "author": "Baylen J. Linnekin",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "29405093": {
     "book_id": 29405093,
     "isbn13": "9781501139888",
@@ -1449,11 +1688,164 @@
       }
     }
   },
+  "56153": {
+    "book_id": 56153,
+    "isbn13": "9780691125756",
+    "title": "QED: The Strange Theory of Light and Matter",
+    "author": "Richard Feynman",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "18693655": {
+    "book_id": 18693655,
+    "isbn13": "9780399165245",
+    "title": "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)",
+    "author": "Barbara Oakley",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "25894085": {
     "book_id": 25894085,
     "isbn13": "9781594206801",
     "title": "Becoming Wise: An Inquiry into the Mystery and Art of Living",
     "author": "Krista Tippett",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "2855034": {
+    "book_id": 2855034,
+    "isbn13": "9780061433016",
+    "title": "Nation",
+    "author": "Terry Pratchett",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "25489083": {
+    "book_id": 25489083,
+    "isbn13": "9780807073889",
+    "title": "The Myth of the Spoiled Child: Coddled Kids, Helicopter Parents, and Other Phony Crises",
+    "author": "Alfie Kohn",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "649361": {
+    "book_id": 649361,
+    "isbn13": "9780553272581",
+    "title": "Farewell to Manzanar: A True Story of Japanese American Experience During and After the World War II Internment",
+    "author": "Jeanne Wakatsuki Houston",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "13552345": {
+    "book_id": 13552345,
+    "isbn13": "9781603584180",
+    "title": "Sowing Seeds in the Desert: Natural Farming, Global Restoration, and Ultimate Food Security",
+    "author": "Masanobu Fukuoka",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "6184317": {
+    "book_id": 6184317,
+    "isbn13": "9780374139568",
+    "title": "Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa",
+    "author": "Dambisa Moyo",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "6667514": {
+    "book_id": 6667514,
+    "isbn13": "9780805091748",
+    "title": "The Checklist Manifesto: How to Get Things Right",
+    "author": "Atul Gawande",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "22875447": {
+    "book_id": 22875447,
+    "isbn13": "9781455554799",
+    "title": "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead",
+    "author": "Laszlo Bock",
     "my_rating": 4,
     "exclusive_shelf": "read",
     "manual": {
@@ -1500,6 +1892,23 @@
       }
     }
   },
+  "25636791": {
+    "book_id": 25636791,
+    "isbn13": "",
+    "title": "What Matters Now",
+    "author": "Gary Hamel",
+    "my_rating": 4,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "22180819": {
     "book_id": 22180819,
     "isbn13": "9781603584876",
@@ -1534,11 +1943,11 @@
       }
     }
   },
-  "22245334": {
-    "book_id": 22245334,
-    "isbn13": "9781612193748",
-    "title": "The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy",
-    "author": "David Graeber",
+  "2880662": {
+    "book_id": 2880662,
+    "isbn13": "9780805088403",
+    "title": "This Land Is Their Land: Reports from a Divided Nation",
+    "author": "Barbara Ehrenreich",
     "my_rating": 4,
     "exclusive_shelf": "read",
     "manual": {
@@ -1551,11 +1960,11 @@
       }
     }
   },
-  "163462": {
-    "book_id": 163462,
-    "isbn13": "9780062510259",
-    "title": "Epitaph for a Peach: Four Seasons on My Family Farm",
-    "author": "David Mas Masumoto",
+  "22245334": {
+    "book_id": 22245334,
+    "isbn13": "9781612193748",
+    "title": "The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy",
+    "author": "David Graeber",
     "my_rating": 4,
     "exclusive_shelf": "read",
     "manual": {
@@ -1585,78 +1994,10 @@
       }
     }
   },
-  "7815": {
-    "book_id": 7815,
-    "isbn13": "9781400078431",
-    "title": "The Year of Magical Thinking",
-    "author": "Joan Didion",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "21326": {
-    "book_id": 21326,
-    "isbn13": "9781563899423",
-    "title": "Fables, Vol. 1: Legends in Exile",
-    "author": "Bill Willingham",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "13152194": {
-    "book_id": 13152194,
-    "isbn13": "9780307949325",
-    "title": "Tiny Beautiful Things: Advice on Love and Life from Dear Sugar",
-    "author": "Cheryl Strayed",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "12530": {
-    "book_id": 12530,
-    "isbn13": "9780060919887",
-    "title": "The Writing Life",
-    "author": "Annie Dillard",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "3375878": {
-    "book_id": 3375878,
-    "isbn13": "9781401210854",
-    "title": "The Absolute Sandman, Volume Four",
+  "24331386": {
+    "book_id": 24331386,
+    "isbn13": "9780062262264",
+    "title": "The View from the Cheap Seats: Selected Nonfiction",
     "author": "Neil Gaiman",
     "my_rating": 4,
     "exclusive_shelf": "read",
@@ -1687,402 +2028,12 @@
       }
     }
   },
-  "24331386": {
-    "book_id": 24331386,
-    "isbn13": "9780062262264",
-    "title": "The View from the Cheap Seats: Selected Nonfiction",
+  "3375878": {
+    "book_id": 3375878,
+    "isbn13": "9781401210854",
+    "title": "The Absolute Sandman, Volume Four",
     "author": "Neil Gaiman",
     "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "2880662": {
-    "book_id": 2880662,
-    "isbn13": "9780805088403",
-    "title": "This Land Is Their Land: Reports from a Divided Nation",
-    "author": "Barbara Ehrenreich",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "25636791": {
-    "book_id": 25636791,
-    "isbn13": "",
-    "title": "What Matters Now",
-    "author": "Gary Hamel",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "22875447": {
-    "book_id": 22875447,
-    "isbn13": "9781455554799",
-    "title": "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead",
-    "author": "Laszlo Bock",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "6667514": {
-    "book_id": 6667514,
-    "isbn13": "9780805091748",
-    "title": "The Checklist Manifesto: How to Get Things Right",
-    "author": "Atul Gawande",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "6184317": {
-    "book_id": 6184317,
-    "isbn13": "9780374139568",
-    "title": "Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa",
-    "author": "Dambisa Moyo",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "13552345": {
-    "book_id": 13552345,
-    "isbn13": "9781603584180",
-    "title": "Sowing Seeds in the Desert: Natural Farming, Global Restoration, and Ultimate Food Security",
-    "author": "Masanobu Fukuoka",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "649361": {
-    "book_id": 649361,
-    "isbn13": "9780553272581",
-    "title": "Farewell to Manzanar: A True Story of Japanese American Experience During and After the World War II Internment",
-    "author": "Jeanne Wakatsuki Houston",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "25489083": {
-    "book_id": 25489083,
-    "isbn13": "9780807073889",
-    "title": "The Myth of the Spoiled Child: Coddled Kids, Helicopter Parents, and Other Phony Crises",
-    "author": "Alfie Kohn",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "2855034": {
-    "book_id": 2855034,
-    "isbn13": "9780061433016",
-    "title": "Nation",
-    "author": "Terry Pratchett",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "18693655": {
-    "book_id": 18693655,
-    "isbn13": "9780399165245",
-    "title": "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)",
-    "author": "Barbara Oakley",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "56153": {
-    "book_id": 56153,
-    "isbn13": "9780691125756",
-    "title": "QED: The Strange Theory of Light and Matter",
-    "author": "Richard Feynman",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "2926211": {
-    "book_id": 2926211,
-    "isbn13": "9780205354795",
-    "title": "Conformity and Conflict: Readings in Cultural Anthropology",
-    "author": "David W. McCurdy",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "3158100": {
-    "book_id": 3158100,
-    "isbn13": "9780671201531",
-    "title": "The Forest People",
-    "author": "Colin M. Turnbull",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "255127": {
-    "book_id": 255127,
-    "isbn13": "9780385517256",
-    "title": "The Fifth Discipline: The Art & Practice of The Learning Organization",
-    "author": "Peter M. Senge",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "22155": {
-    "book_id": 22155,
-    "isbn13": "9780143037835",
-    "title": "Let My People Go Surfing: The Education of a Reluctant Businessman",
-    "author": "Yvon Chouinard",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "25666069": {
-    "book_id": 25666069,
-    "isbn13": "9781627794992",
-    "title": "The Most Wanted Man in China: My Journey from Scientist to Enemy of the State",
-    "author": "Fang Lizhi",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "name": "Tienamen Square",
-        "lat": 39.906148,
-        "lng": 116.397578,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "16299389": {
-    "book_id": 16299389,
-    "isbn13": "9788820053482",
-    "title": "Cloud Atlas. L'Atlante delle Nuvole",
-    "author": "David Mitchell",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "250693": {
-    "book_id": 250693,
-    "isbn13": "9780865473362",
-    "title": "How to Cook a Wolf",
-    "author": "M.F.K. Fisher",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "17288716": {
-    "book_id": 17288716,
-    "isbn13": "9780770436735",
-    "title": "Before Happiness: How Creating a Positive Reality First Amplifies Your Levels of Happiness and Success",
-    "author": "Shawn Achor",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "9969571": {
-    "book_id": 9969571,
-    "isbn13": "9780307887436",
-    "title": "Ready Player One",
-    "author": "Ernest Cline",
-    "my_rating": 4,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "25526296": {
-    "book_id": 25526296,
-    "isbn13": "9780765385505",
-    "title": "Every Heart a Doorway (Wayward Children, #1)",
-    "author": "Seanan McGuire",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "126381": {
-    "book_id": 126381,
-    "isbn13": "9780007189885",
-    "title": "Purple Hibiscus",
-    "author": "Chimamanda Ngozi Adichie",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "30988092": {
-    "book_id": 30988092,
-    "isbn13": "9780062663641",
-    "title": "Norse Mythology",
-    "author": "Neil Gaiman",
-    "my_rating": 3,
     "exclusive_shelf": "read",
     "manual": {
       "location": {
@@ -2099,57 +2050,6 @@
     "isbn13": "",
     "title": "Elon Musk: Inventing the Future",
     "author": "Ashlee Vance",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "31142377": {
-    "book_id": 31142377,
-    "isbn13": "",
-    "title": "Program or Be Programmed: Ten Commands for a Digital Age",
-    "author": "Douglas Rushkoff",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "18528093": {
-    "book_id": 18528093,
-    "isbn13": "9781608463855",
-    "title": "Capitalism: A Ghost Story",
-    "author": "Arundhati Roy",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "13641208": {
-    "book_id": 13641208,
-    "isbn13": "9780812993806",
-    "title": "Tenth of December",
-    "author": "George Saunders",
     "my_rating": 3,
     "exclusive_shelf": "read",
     "manual": {
@@ -2179,283 +2079,11 @@
       }
     }
   },
-  "97782": {
-    "book_id": 97782,
-    "isbn13": "9780316016384",
-    "title": "Then We Came to the End",
-    "author": "Joshua Ferris",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "9361589": {
-    "book_id": 9361589,
-    "isbn13": "9780385534635",
-    "title": "The Night Circus",
-    "author": "Erin Morgenstern",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "13588394": {
-    "book_id": 13588394,
-    "isbn13": "9781594204111",
-    "title": "The Signal and the Noise: Why So Many Predictions Fail - But Some Don't",
-    "author": "Nate Silver",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "16190817": {
-    "book_id": 16190817,
-    "isbn13": "9781118426364",
-    "title": "Why Managing Sucks and How to Fix It: A Results-Only Guide to Taking Control of Work, Not People",
-    "author": "Cali Ressler",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "16280156": {
-    "book_id": 16280156,
-    "isbn13": "9780345342966",
-    "title": "Fahrenheit 451",
-    "author": "Ray Bradbury",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "18635092": {
-    "book_id": 18635092,
-    "isbn13": "9780062282149",
-    "title": "The Truth is a Cave in the Black Mountains",
-    "author": "Neil Gaiman",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "2767052": {
-    "book_id": 2767052,
-    "isbn13": "9780439023481",
-    "title": "The Hunger Games (The Hunger Games, #1)",
-    "author": "Suzanne Collins",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "8935689": {
-    "book_id": 8935689,
-    "isbn13": "9781857231380",
-    "title": "Consider Phlebas (Culture, #1)",
-    "author": "Iain M. Banks",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "4667024": {
-    "book_id": 4667024,
-    "isbn13": "9780399155345",
-    "title": "The Help",
-    "author": "Kathryn Stockett",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "25667449": {
-    "book_id": 25667449,
-    "isbn13": "9781250039576",
-    "title": "The Lonely City: Adventures in the Art of Being Alone",
-    "author": "Olivia Laing",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "26792189": {
-    "book_id": 26792189,
-    "isbn13": "9780765386250",
-    "title": "The Geek Feminist Revolution",
-    "author": "Kameron Hurley",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "27882150": {
-    "book_id": 27882150,
-    "isbn13": "9780062484222",
-    "title": "The World According to Star Wars",
-    "author": "Cass R. Sunstein",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "25152052": {
-    "book_id": 25152052,
-    "isbn13": "9781501116971",
-    "title": "The Japanese Lover",
-    "author": "Isabel Allende",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "9839954": {
-    "book_id": 9839954,
-    "isbn13": "9780061475818",
-    "title": "M Is for Magic",
-    "author": "Neil Gaiman",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "6916961": {
-    "book_id": 6916961,
-    "isbn13": "9780307592439",
-    "title": "Although of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace",
-    "author": "David Lipsky",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "22114037": {
     "book_id": 22114037,
     "isbn13": "9781584351344",
     "title": "Fantomas Versus the Multinational Vampires: An Attainable Utopia",
     "author": "Julio Cortázar",
-    "my_rating": 3,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "10356713": {
-    "book_id": 10356713,
-    "isbn13": "",
-    "title": "In Other Worlds: SF and the Human Imagination",
-    "author": "Margaret Atwood",
     "my_rating": 3,
     "exclusive_shelf": "read",
     "manual": {
@@ -2487,11 +2115,62 @@
       }
     }
   },
+  "25152052": {
+    "book_id": 25152052,
+    "isbn13": "9781501116971",
+    "title": "The Japanese Lover",
+    "author": "Isabel Allende",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "17468561": {
     "book_id": 17468561,
     "isbn13": "9781401311117",
     "title": "The Moth",
     "author": "Catherine Burns",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "27882150": {
+    "book_id": 27882150,
+    "isbn13": "9780062484222",
+    "title": "The World According to Star Wars",
+    "author": "Cass R. Sunstein",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "97782": {
+    "book_id": 97782,
+    "isbn13": "9780316016384",
+    "title": "Then We Came to the End",
+    "author": "Joshua Ferris",
     "my_rating": 3,
     "exclusive_shelf": "read",
     "manual": {
@@ -2521,12 +2200,29 @@
       }
     }
   },
-  "857318": {
-    "book_id": 857318,
-    "isbn13": "9780679777397",
-    "title": "The Puttermesser Papers",
-    "author": "Cynthia Ozick",
-    "my_rating": 2,
+  "32445729": {
+    "book_id": 32445729,
+    "isbn13": "9781632280572",
+    "title": "Play Like a Girl: How a Soccer School in Kenya's Slums Started a Revolution",
+    "author": "Ellie Roscher",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": "This book highlights an interesting problem with locations, the place is an illegal settlement, unsupported by the local government. At any time the many people living there are at risk of eviction and their lives being torn apart.",
+        "name": "Kibera slum, Kenya",
+        "lat": -1.311347,
+        "lng": 36.789927,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "18464362": {
+    "book_id": 18464362,
+    "isbn13": "",
+    "title": "Updraft (Bone Universe, #1)",
+    "author": "Fran Wilde",
+    "my_rating": 3,
     "exclusive_shelf": "read",
     "manual": {
       "location": {
@@ -2538,11 +2234,334 @@
       }
     }
   },
-  "14761587": {
-    "book_id": 14761587,
-    "isbn13": "9781770892484",
-    "title": "How Should a Person Be? A Novel From Life",
-    "author": "Sheila Heti",
+  "26792189": {
+    "book_id": 26792189,
+    "isbn13": "9780765386250",
+    "title": "The Geek Feminist Revolution",
+    "author": "Kameron Hurley",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "10356713": {
+    "book_id": 10356713,
+    "isbn13": "",
+    "title": "In Other Worlds: SF and the Human Imagination",
+    "author": "Margaret Atwood",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "25526296": {
+    "book_id": 25526296,
+    "isbn13": "9780765385505",
+    "title": "Every Heart a Doorway (Wayward Children, #1)",
+    "author": "Seanan McGuire",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "31142377": {
+    "book_id": 31142377,
+    "isbn13": "",
+    "title": "Program or Be Programmed: Ten Commands for a Digital Age",
+    "author": "Douglas Rushkoff",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "126381": {
+    "book_id": 126381,
+    "isbn13": "9780007189885",
+    "title": "Purple Hibiscus",
+    "author": "Chimamanda Ngozi Adichie",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "16280156": {
+    "book_id": 16280156,
+    "isbn13": "9780345342966",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "4667024": {
+    "book_id": 4667024,
+    "isbn13": "9780399155345",
+    "title": "The Help",
+    "author": "Kathryn Stockett",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "13641208": {
+    "book_id": 13641208,
+    "isbn13": "9780812993806",
+    "title": "Tenth of December",
+    "author": "George Saunders",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "8935689": {
+    "book_id": 8935689,
+    "isbn13": "9781857231380",
+    "title": "Consider Phlebas (Culture, #1)",
+    "author": "Iain M. Banks",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "6916961": {
+    "book_id": 6916961,
+    "isbn13": "9780307592439",
+    "title": "Although of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace",
+    "author": "David Lipsky",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "16190817": {
+    "book_id": 16190817,
+    "isbn13": "9781118426364",
+    "title": "Why Managing Sucks and How to Fix It: A Results-Only Guide to Taking Control of Work, Not People",
+    "author": "Cali Ressler",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "9839954": {
+    "book_id": 9839954,
+    "isbn13": "9780061475818",
+    "title": "M Is for Magic",
+    "author": "Neil Gaiman",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "13588394": {
+    "book_id": 13588394,
+    "isbn13": "9781594204111",
+    "title": "The Signal and the Noise: Why So Many Predictions Fail - But Some Don't",
+    "author": "Nate Silver",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "2767052": {
+    "book_id": 2767052,
+    "isbn13": "9780439023481",
+    "title": "The Hunger Games (The Hunger Games, #1)",
+    "author": "Suzanne Collins",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "18635092": {
+    "book_id": 18635092,
+    "isbn13": "9780062282149",
+    "title": "The Truth is a Cave in the Black Mountains",
+    "author": "Neil Gaiman",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "25667449": {
+    "book_id": 25667449,
+    "isbn13": "9781250039576",
+    "title": "The Lonely City: Adventures in the Art of Being Alone",
+    "author": "Olivia Laing",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "9361589": {
+    "book_id": 9361589,
+    "isbn13": "9780385534635",
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "18528093": {
+    "book_id": 18528093,
+    "isbn13": "9781608463855",
+    "title": "Capitalism: A Ghost Story",
+    "author": "Arundhati Roy",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "30988092": {
+    "book_id": 30988092,
+    "isbn13": "9780062663641",
+    "title": "Norse Mythology",
+    "author": "Neil Gaiman",
+    "my_rating": 3,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "47701": {
+    "book_id": 47701,
+    "isbn13": "9780061238963",
+    "title": "InterWorld (InterWorld, #1)",
+    "author": "Neil Gaiman",
     "my_rating": 2,
     "exclusive_shelf": "read",
     "manual": {
@@ -2564,36 +2583,19 @@
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "Using the city of the main characters birth",
+        "name": "Pachuca, Hidalgo, Mexico",
+        "lat": 20.094894,
+        "lng": -98.761623,
         "iso_3166_2": null
       }
     }
   },
-  "9361377": {
-    "book_id": 9361377,
-    "isbn13": "9780887842405",
-    "title": "How Should a Person Be?",
-    "author": "Sheila Heti",
-    "my_rating": 2,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "8423493": {
-    "book_id": 8423493,
-    "isbn13": "",
-    "title": "Catching Fire (The Hunger Games, #2)",
-    "author": "Suzanne Collins",
+  "857318": {
+    "book_id": 857318,
+    "isbn13": "9780679777397",
+    "title": "The Puttermesser Papers",
+    "author": "Cynthia Ozick",
     "my_rating": 2,
     "exclusive_shelf": "read",
     "manual": {
@@ -2623,6 +2625,23 @@
       }
     }
   },
+  "14761587": {
+    "book_id": 14761587,
+    "isbn13": "9781770892484",
+    "title": "How Should a Person Be? A Novel From Life",
+    "author": "Sheila Heti",
+    "my_rating": 2,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "16248196": {
     "book_id": 16248196,
     "isbn13": "9780062219688",
@@ -2640,11 +2659,79 @@
       }
     }
   },
-  "46756": {
-    "book_id": 46756,
-    "isbn13": "9780385721677",
-    "title": "Oryx and Crake (MaddAddam, #1)",
-    "author": "Margaret Atwood",
+  "8423493": {
+    "book_id": 8423493,
+    "isbn13": "",
+    "title": "Catching Fire (The Hunger Games, #2)",
+    "author": "Suzanne Collins",
+    "my_rating": 2,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "26113735": {
+    "book_id": 26113735,
+    "isbn13": "9781939547248",
+    "title": "The Girl Who Saved Yesterday",
+    "author": "Julius Lester",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "18667945": {
+    "book_id": 18667945,
+    "isbn13": "9780399169274",
+    "title": "#GIRLBOSS",
+    "author": "Sophia Amoruso",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "24817626": {
+    "book_id": 24817626,
+    "isbn13": "9780062409850",
+    "title": "Go Set a Watchman",
+    "author": "Harper Lee",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "1054397": {
+    "book_id": 1054397,
+    "isbn13": "9781596911253",
+    "title": "Field Notes from a Catastrophe: Man, Nature, and Climate Change",
+    "author": "Elizabeth Kolbert",
     "my_rating": 0,
     "exclusive_shelf": "read",
     "manual": {
@@ -2691,19 +2778,19 @@
       }
     }
   },
-  "22318578": {
-    "book_id": 22318578,
-    "isbn13": "9781607747307",
-    "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
-    "author": "Marie Kondō",
+  "46756": {
+    "book_id": 46756,
+    "isbn13": "9780385721677",
+    "title": "Oryx and Crake (MaddAddam, #1)",
+    "author": "Margaret Atwood",
     "my_rating": 0,
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": "Locating this book in japan because while her ideas are applicable to other places the book was definitely a window into many Japanese homes.",
-        "name": "Tokyo, Japan",
-        "lat": 35.709924,
-        "lng": 139.590750,
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
         "iso_3166_2": null
       }
     }
@@ -2713,162 +2800,6 @@
     "isbn13": "9780316246620",
     "title": "Ancillary Justice (Imperial Radch #1)",
     "author": "Ann Leckie",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "21418013": {
-    "book_id": 21418013,
-    "isbn13": "9780765375865",
-    "title": "Lock In (Lock In, #1)",
-    "author": "John Scalzi",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "name": "Washington, DC",
-        "lat": 38.899336,
-        "lng": -77.05591,
-        "iso_3166_2": [
-          "US-DC",
-          "US-WA",
-          "US-VA"
-        ]
-      }
-    }
-  },
-  "60931": {
-    "book_id": 60931,
-    "isbn13": "9780807083697",
-    "title": "Kindred",
-    "author": "Octavia E. Butler",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "121892": {
-    "book_id": 121892,
-    "isbn13": "9781741146011",
-    "title": "Ultra Marathon Man",
-    "author": "Dean Karnazes",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "24817626": {
-    "book_id": 24817626,
-    "isbn13": "9780062409850",
-    "title": "Go Set a Watchman",
-    "author": "Harper Lee",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "25776682": {
-    "book_id": 25776682,
-    "isbn13": "9780062433015",
-    "title": "The Abundance: Narrative Essays Old and New",
-    "author": "Annie Dillard",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "26113735": {
-    "book_id": 26113735,
-    "isbn13": "9781939547248",
-    "title": "The Girl Who Saved Yesterday",
-    "author": "Julius Lester",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "18667945": {
-    "book_id": 18667945,
-    "isbn13": "9780399169274",
-    "title": "#GIRLBOSS",
-    "author": "Sophia Amoruso",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "1054397": {
-    "book_id": 1054397,
-    "isbn13": "9781596911253",
-    "title": "Field Notes from a Catastrophe: Man, Nature, and Climate Change",
-    "author": "Elizabeth Kolbert",
-    "my_rating": 0,
-    "exclusive_shelf": "read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "1595177": {
-    "book_id": 1595177,
-    "isbn13": "9781594482915",
-    "title": "The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need",
-    "author": "Daniel H. Pink",
     "my_rating": 0,
     "exclusive_shelf": "read",
     "manual": {
@@ -2898,6 +2829,111 @@
       }
     }
   },
+  "25776682": {
+    "book_id": 25776682,
+    "isbn13": "9780062433015",
+    "title": "The Abundance: Narrative Essays Old and New",
+    "author": "Annie Dillard",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "121892": {
+    "book_id": 121892,
+    "isbn13": "9781741146011",
+    "title": "Ultra Marathon Man",
+    "author": "Dean Karnazes",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "60931": {
+    "book_id": 60931,
+    "isbn13": "9780807083697",
+    "title": "Kindred",
+    "author": "Octavia E. Butler",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "1595177": {
+    "book_id": 1595177,
+    "isbn13": "9781594482915",
+    "title": "The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need",
+    "author": "Daniel H. Pink",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "22318578": {
+    "book_id": 22318578,
+    "isbn13": "9781607747307",
+    "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+    "author": "Marie Kondō",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": "Locating this book in japan because while her ideas are applicable to other places the book was definitely a window into many Japanese homes.",
+        "name": "Tokyo, Japan",
+        "lat": 35.709924,
+        "lng": 139.59075,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "21418013": {
+    "book_id": 21418013,
+    "isbn13": "9780765375865",
+    "title": "Lock In (Lock In, #1)",
+    "author": "John Scalzi",
+    "my_rating": 0,
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "name": "Washington, DC",
+        "lat": 38.899336,
+        "lng": -77.05591,
+        "iso_3166_2": [
+          "US-DC",
+          "US-WA",
+          "US-VA"
+        ]
+      }
+    }
+  },
   "171127": {
     "book_id": 171127,
     "isbn13": "9780470102107",
@@ -2915,11 +2951,11 @@
       }
     }
   },
-  "18730154": {
-    "book_id": 18730154,
-    "isbn13": "9780062293039",
-    "title": "My Drunk Kitchen: A Guide to Eating, Drinking, and Going with Your Gut",
-    "author": "Hannah Hart",
+  "18526648": {
+    "book_id": 18526648,
+    "isbn13": "9780226057507",
+    "title": "The Oldest Living Things in the World",
+    "author": "Rachel Sussman",
     "my_rating": 0,
     "exclusive_shelf": "skimmed",
     "manual": {
@@ -2937,6 +2973,40 @@
     "isbn13": "9780060505912",
     "title": "The True Believer: Thoughts on the Nature of Mass Movements",
     "author": "Eric Hoffer",
+    "my_rating": 0,
+    "exclusive_shelf": "skimmed",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "25942967": {
+    "book_id": 25942967,
+    "isbn13": "9781580056229",
+    "title": "Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity",
+    "author": "Julia Serano",
+    "my_rating": 0,
+    "exclusive_shelf": "skimmed",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "18730154": {
+    "book_id": 18730154,
+    "isbn13": "9780062293039",
+    "title": "My Drunk Kitchen: A Guide to Eating, Drinking, and Going with Your Gut",
+    "author": "Hannah Hart",
     "my_rating": 0,
     "exclusive_shelf": "skimmed",
     "manual": {
@@ -2983,23 +3053,6 @@
       }
     }
   },
-  "18526648": {
-    "book_id": 18526648,
-    "isbn13": "9780226057507",
-    "title": "The Oldest Living Things in the World",
-    "author": "Rachel Sussman",
-    "my_rating": 0,
-    "exclusive_shelf": "skimmed",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "8908": {
     "book_id": 8908,
     "isbn13": "9780307346605",
@@ -3017,45 +3070,11 @@
       }
     }
   },
-  "79766": {
-    "book_id": 79766,
-    "isbn13": "9780195019193",
-    "title": "A Pattern Language: Towns, Buildings, Construction",
-    "author": "Christopher W. Alexander",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "7258237": {
     "book_id": 7258237,
     "isbn13": "9781594202544",
     "title": "Plenitude: The New Economics of True Wealth",
     "author": "Juliet B. Schor",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "32075825": {
-    "book_id": 32075825,
-    "isbn13": "9780062409164",
-    "title": "The Rise and Fall of D.O.D.O.",
-    "author": "Neal Stephenson",
     "my_rating": 0,
     "exclusive_shelf": "abandoned",
     "manual": {
@@ -3119,147 +3138,11 @@
       }
     }
   },
-  "16144853": {
-    "book_id": 16144853,
-    "isbn13": "9781591845324",
-    "title": "Leaders Eat Last",
-    "author": "Simon Sinek",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "289751": {
-    "book_id": 289751,
-    "isbn13": "9780060186395",
-    "title": "Proust and the Squid: The Story and Science of the Reading Brain",
-    "author": "Maryanne Wolf",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "769016": {
-    "book_id": 769016,
-    "isbn13": "9780380811960",
-    "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
-    "author": "Adele Faber",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "8161967": {
-    "book_id": 8161967,
-    "isbn13": "9780061997761",
-    "title": "Small Is Beautiful: Economics as if People Mattered",
-    "author": "Ernst F. Schumacher",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "34985": {
-    "book_id": 34985,
-    "isbn13": "9781852521417",
-    "title": "The Deming Management Method",
-    "author": "Mary Walton",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "566574": {
-    "book_id": 566574,
-    "isbn13": "9780262541152",
-    "title": "Out of the Crisis",
-    "author": "W. Edwards Deming",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "30555488": {
-    "book_id": 30555488,
-    "isbn13": "9780385542364",
-    "title": "The Underground Railroad",
-    "author": "Colson Whitehead",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "553267": {
-    "book_id": 553267,
-    "isbn13": "9780531098226",
-    "title": "All the Best, Neill: Letters from Summerhill",
-    "author": "A.S. Neill",
-    "my_rating": 0,
-    "exclusive_shelf": "abandoned",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "29633660": {
-    "book_id": 29633660,
-    "isbn13": "9781909762299",
-    "title": "Speak Gigantular",
-    "author": "Irenosen Okojie",
+  "15798335": {
+    "book_id": 15798335,
+    "isbn13": "9780385535915",
+    "title": "Scatter, Adapt, and Remember: How Humans Will Survive a Mass Extinction",
+    "author": "Annalee Newitz",
     "my_rating": 0,
     "exclusive_shelf": "abandoned",
     "manual": {
@@ -3323,6 +3206,108 @@
       }
     }
   },
+  "225850": {
+    "book_id": 225850,
+    "isbn13": "9780865715196",
+    "title": "Dumbing Us Down: The Hidden Curriculum of Compulsory Education",
+    "author": "John Taylor Gatto",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "289751": {
+    "book_id": 289751,
+    "isbn13": "9780060186395",
+    "title": "Proust and the Squid: The Story and Science of the Reading Brain",
+    "author": "Maryanne Wolf",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "8161967": {
+    "book_id": 8161967,
+    "isbn13": "9780061997761",
+    "title": "Small Is Beautiful: Economics as if People Mattered",
+    "author": "Ernst F. Schumacher",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "34985": {
+    "book_id": 34985,
+    "isbn13": "9781852521417",
+    "title": "The Deming Management Method",
+    "author": "Mary Walton",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "16144853": {
+    "book_id": 16144853,
+    "isbn13": "9781591845324",
+    "title": "Leaders Eat Last",
+    "author": "Simon Sinek",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "29633660": {
+    "book_id": 29633660,
+    "isbn13": "9781909762299",
+    "title": "Speak Gigantular",
+    "author": "Irenosen Okojie",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "31945158": {
     "book_id": 31945158,
     "isbn13": "9781617754357",
@@ -3340,11 +3325,79 @@
       }
     }
   },
-  "225850": {
-    "book_id": 225850,
-    "isbn13": "9780865715196",
-    "title": "Dumbing Us Down: The Hidden Curriculum of Compulsory Education",
-    "author": "John Taylor Gatto",
+  "32075825": {
+    "book_id": 32075825,
+    "isbn13": "9780062409164",
+    "title": "The Rise and Fall of D.O.D.O.",
+    "author": "Neal Stephenson",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "30555488": {
+    "book_id": 30555488,
+    "isbn13": "9780385542364",
+    "title": "The Underground Railroad",
+    "author": "Colson Whitehead",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "20170404": {
+    "book_id": 20170404,
+    "isbn13": "9780385353304",
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "566574": {
+    "book_id": 566574,
+    "isbn13": "9780262541152",
+    "title": "Out of the Crisis",
+    "author": "W. Edwards Deming",
+    "my_rating": 0,
+    "exclusive_shelf": "abandoned",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "769016": {
+    "book_id": 769016,
+    "isbn13": "9780380811960",
+    "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+    "author": "Adele Faber",
     "my_rating": 0,
     "exclusive_shelf": "abandoned",
     "manual": {
@@ -3374,13 +3427,13 @@
       }
     }
   },
-  "98250": {
-    "book_id": 98250,
-    "isbn13": "9780915297016",
-    "title": "Once a Runner",
-    "author": "John L. Parker Jr.",
+  "553267": {
+    "book_id": 553267,
+    "isbn13": "9780531098226",
+    "title": "All the Best, Neill: Letters from Summerhill",
+    "author": "A.S. Neill",
     "my_rating": 0,
-    "exclusive_shelf": "hold",
+    "exclusive_shelf": "abandoned",
     "manual": {
       "location": {
         "note": null,
@@ -3391,13 +3444,13 @@
       }
     }
   },
-  "13628572": {
-    "book_id": 13628572,
-    "isbn13": "9781449319052",
-    "title": "The Connected Company",
-    "author": "Dave  Gray",
+  "79766": {
+    "book_id": 79766,
+    "isbn13": "9780195019193",
+    "title": "A Pattern Language: Towns, Buildings, Construction",
+    "author": "Christopher W. Alexander",
     "my_rating": 0,
-    "exclusive_shelf": "hold",
+    "exclusive_shelf": "abandoned",
     "manual": {
       "location": {
         "note": null,
@@ -3408,96 +3461,11 @@
       }
     }
   },
-  "4989687": {
-    "book_id": 4989687,
-    "isbn13": "9780345504197",
-    "title": "Who",
-    "author": "Geoff Smart",
-    "my_rating": 0,
-    "exclusive_shelf": "hold",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "1301": {
-    "book_id": 1301,
-    "isbn13": "9780393324815",
-    "title": "Moneyball: The Art of Winning an Unfair Game",
-    "author": "Michael   Lewis",
-    "my_rating": 0,
-    "exclusive_shelf": "hold",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "129731": {
-    "book_id": 129731,
-    "isbn13": "9780553804348",
-    "title": "Mindless Eating: Why We Eat More Than We Think",
-    "author": "Brian Wansink",
-    "my_rating": 0,
-    "exclusive_shelf": "hold",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "56627": {
-    "book_id": 56627,
-    "isbn13": "9781400077427",
-    "title": "Stumbling on Happiness",
-    "author": "Daniel Todd Gilbert",
-    "my_rating": 0,
-    "exclusive_shelf": "hold",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "30068850": {
-    "book_id": 30068850,
-    "isbn13": "",
-    "title": "Rising: Strategies for the Broke, the At-Risk, and Those Who Love Them",
-    "author": "Joon Madriga",
-    "my_rating": 0,
-    "exclusive_shelf": "hold",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "189989": {
-    "book_id": 189989,
-    "isbn13": "9780345341846",
-    "title": "Finite and Infinite Games: A Vision of Life as Play and Possibility",
-    "author": "James P. Carse",
+  "13588385": {
+    "book_id": 13588385,
+    "isbn13": "9781594204821",
+    "title": "There Was a Country: A Personal History of Biafra",
+    "author": "Chinua Achebe",
     "my_rating": 0,
     "exclusive_shelf": "hold",
     "manual": {
@@ -3544,11 +3512,28 @@
       }
     }
   },
-  "1072491": {
-    "book_id": 1072491,
-    "isbn13": "9780875848143",
-    "title": "Serious Play: How the World's Best Companies Simulate to Innovate",
-    "author": "Michael Schrage",
+  "30068850": {
+    "book_id": 30068850,
+    "isbn13": "",
+    "title": "Rising: Strategies for the Broke, the At-Risk, and Those Who Love Them",
+    "author": "Joon Madriga",
+    "my_rating": 0,
+    "exclusive_shelf": "hold",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "189989": {
+    "book_id": 189989,
+    "isbn13": "9780345341846",
+    "title": "Finite and Infinite Games: A Vision of Life as Play and Possibility",
+    "author": "James P. Carse",
     "my_rating": 0,
     "exclusive_shelf": "hold",
     "manual": {
@@ -3578,11 +3563,11 @@
       }
     }
   },
-  "18868057": {
-    "book_id": 18868057,
-    "isbn13": "",
-    "title": "The Amateurs: The Story of Four Young Men and Their Quest for an Olympic Gold Medal",
-    "author": "David Halberstam",
+  "98250": {
+    "book_id": 98250,
+    "isbn13": "9780915297016",
+    "title": "Once a Runner",
+    "author": "John L. Parker Jr.",
     "my_rating": 0,
     "exclusive_shelf": "hold",
     "manual": {
@@ -3595,11 +3580,11 @@
       }
     }
   },
-  "3228917": {
-    "book_id": 3228917,
-    "isbn13": "9780316017923",
-    "title": "Outliers: The Story of Success",
-    "author": "Malcolm Gladwell",
+  "4485966": {
+    "book_id": 4485966,
+    "isbn13": "9781591842248",
+    "title": "Talent is Overrated: What Really Separates World-Class Performers from Everybody Else",
+    "author": "Geoff Colvin",
     "my_rating": 0,
     "exclusive_shelf": "hold",
     "manual": {
@@ -3612,11 +3597,11 @@
       }
     }
   },
-  "13588385": {
-    "book_id": 13588385,
-    "isbn13": "9781594204821",
-    "title": "There Was a Country: A Personal History of Biafra",
-    "author": "Chinua Achebe",
+  "13628572": {
+    "book_id": 13628572,
+    "isbn13": "9781449319052",
+    "title": "The Connected Company",
+    "author": "Dave  Gray",
     "my_rating": 0,
     "exclusive_shelf": "hold",
     "manual": {
@@ -3625,6 +3610,23 @@
         "name": null,
         "lat": null,
         "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "13218889": {
+    "book_id": 13218889,
+    "isbn13": "9781604864885",
+    "title": "Asia's Unknown Uprisings Volume 2: People Power in the Philippines, Burma, Tibet, China, Taiwan, Bangladesh, Nepal, Thailand and Indonesia 1947-2009",
+    "author": "George Katsiaficas",
+    "my_rating": 0,
+    "exclusive_shelf": "hold",
+    "manual": {
+      "location": {
+        "note": "I chose a point in the middle of the high lighted areas",
+        "name": null,
+        "lat": 28.53386,
+        "lng": 88.37402,
         "iso_3166_2": null
       }
     }
@@ -3663,11 +3665,11 @@
       }
     }
   },
-  "4485966": {
-    "book_id": 4485966,
-    "isbn13": "9781591842248",
-    "title": "Talent is Overrated: What Really Separates World-Class Performers from Everybody Else",
-    "author": "Geoff Colvin",
+  "129731": {
+    "book_id": 129731,
+    "isbn13": "9780553804348",
+    "title": "Mindless Eating: Why We Eat More Than We Think",
+    "author": "Brian Wansink",
     "my_rating": 0,
     "exclusive_shelf": "hold",
     "manual": {
@@ -3680,13 +3682,13 @@
       }
     }
   },
-  "1701815": {
-    "book_id": 1701815,
-    "isbn13": "9780743289535",
-    "title": "Julius Caesar",
-    "author": "Philip Freeman",
+  "56627": {
+    "book_id": 56627,
+    "isbn13": "9781400077427",
+    "title": "Stumbling on Happiness",
+    "author": "Daniel Todd Gilbert",
     "my_rating": 0,
-    "exclusive_shelf": "to-read",
+    "exclusive_shelf": "hold",
     "manual": {
       "location": {
         "note": null,
@@ -3697,13 +3699,13 @@
       }
     }
   },
-  "249140": {
-    "book_id": 249140,
-    "isbn13": "9780071462228",
-    "title": "The Human Side of Enterprise",
-    "author": "Douglas McGregor",
+  "1301": {
+    "book_id": 1301,
+    "isbn13": "9780393324815",
+    "title": "Moneyball: The Art of Winning an Unfair Game",
+    "author": "Michael   Lewis",
     "my_rating": 0,
-    "exclusive_shelf": "to-read",
+    "exclusive_shelf": "hold",
     "manual": {
       "location": {
         "note": null,
@@ -3714,13 +3716,13 @@
       }
     }
   },
-  "7519640": {
-    "book_id": 7519640,
-    "isbn13": "9780446556248",
-    "title": "War",
-    "author": "Sebastian Junger",
+  "3228917": {
+    "book_id": 3228917,
+    "isbn13": "9780316017923",
+    "title": "Outliers: The Story of Success",
+    "author": "Malcolm Gladwell",
     "my_rating": 0,
-    "exclusive_shelf": "to-read",
+    "exclusive_shelf": "hold",
     "manual": {
       "location": {
         "note": null,
@@ -3731,13 +3733,13 @@
       }
     }
   },
-  "846249": {
-    "book_id": 846249,
-    "isbn13": "9780385472562",
-    "title": "The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning Organization",
-    "author": "Peter M. Senge",
+  "4989687": {
+    "book_id": 4989687,
+    "isbn13": "9780345504197",
+    "title": "Who",
+    "author": "Geoff Smart",
     "my_rating": 0,
-    "exclusive_shelf": "to-read",
+    "exclusive_shelf": "hold",
     "manual": {
       "location": {
         "note": null,
@@ -3748,13 +3750,13 @@
       }
     }
   },
-  "17573685": {
-    "book_id": 17573685,
-    "isbn13": "9780393346787",
-    "title": "The Feminine Mystique",
-    "author": "Betty Friedan",
+  "1072491": {
+    "book_id": 1072491,
+    "isbn13": "9780875848143",
+    "title": "Serious Play: How the World's Best Companies Simulate to Innovate",
+    "author": "Michael Schrage",
     "my_rating": 0,
-    "exclusive_shelf": "to-read",
+    "exclusive_shelf": "hold",
     "manual": {
       "location": {
         "note": null,
@@ -3765,47 +3767,13 @@
       }
     }
   },
-  "10639": {
-    "book_id": 10639,
-    "isbn13": "9780060005696",
-    "title": "The Paradox of Choice: Why More Is Less",
-    "author": "Barry Schwartz",
+  "18868057": {
+    "book_id": 18868057,
+    "isbn13": "",
+    "title": "The Amateurs: The Story of Four Young Men and Their Quest for an Olympic Gold Medal",
+    "author": "David Halberstam",
     "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "299215": {
-    "book_id": 299215,
-    "isbn13": "9780226320618",
-    "title": "The Road to Serfdom",
-    "author": "Friedrich A. Hayek",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "30075802": {
-    "book_id": 30075802,
-    "isbn13": "9781532913686",
-    "title": "The Princess Saves Herself in this One",
-    "author": "Amanda Lovelace",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
+    "exclusive_shelf": "hold",
     "manual": {
       "location": {
         "note": null,
@@ -3833,11 +3801,11 @@
       }
     }
   },
-  "18078311": {
-    "book_id": 18078311,
-    "isbn13": "9781782112235",
-    "title": "Letters of Note: An Eclectic Collection of Correspondence Deserving of a Wider Audience",
-    "author": "Shaun Usher",
+  "813033": {
+    "book_id": 813033,
+    "isbn13": "9781556708794",
+    "title": "The Atlas of Literature",
+    "author": "Malcolm Bradbury",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3850,11 +3818,11 @@
       }
     }
   },
-  "268530": {
-    "book_id": 268530,
-    "isbn13": "9780452268081",
-    "title": "The Day America Told the Truth",
-    "author": "James    Patterson",
+  "53413": {
+    "book_id": 53413,
+    "isbn13": "9780394752846",
+    "title": "Hopscotch",
+    "author": "Julio Cortázar",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3867,11 +3835,11 @@
       }
     }
   },
-  "12527": {
-    "book_id": 12527,
-    "isbn13": "9780072434170",
-    "title": "Pilgrim at Tinker Creek",
-    "author": "Annie Dillard",
+  "12784437": {
+    "book_id": 12784437,
+    "isbn13": "9781604864571",
+    "title": "Asia's Unknown Uprisings Volume 1: South Korean Social Movements in the 20th Century",
+    "author": "George Katsiaficas",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3884,11 +3852,11 @@
       }
     }
   },
-  "29065532": {
-    "book_id": 29065532,
-    "isbn13": "9781631775673",
-    "title": "I Forgot Something (But I Can't Remember What It Was)",
-    "author": "Nelson C Dellis",
+  "40745": {
+    "book_id": 40745,
+    "isbn13": "9781400062751",
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3901,11 +3869,11 @@
       }
     }
   },
-  "29465611": {
-    "book_id": 29465611,
-    "isbn13": "9781943190034",
-    "title": "A Reluctant Prosecutor: My Journey",
-    "author": "Creighton C Horton II",
+  "2199": {
+    "book_id": 2199,
+    "isbn13": "9780743270755",
+    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+    "author": "Doris Kearns Goodwin",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3918,11 +3886,11 @@
       }
     }
   },
-  "9516": {
-    "book_id": 9516,
-    "isbn13": "9780375714573",
-    "title": "Persepolis: The Story of a Childhood (Persepolis, #1)",
-    "author": "Marjane Satrapi",
+  "23468051": {
+    "book_id": 23468051,
+    "isbn13": "9781483308012",
+    "title": "Culturally Responsive Teaching and the Brain: Promoting Authentic Engagement and Rigor Among Culturally and Linguistically Diverse Students",
+    "author": "Zaretta Lynn Hammond",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3935,11 +3903,11 @@
       }
     }
   },
-  "118944": {
-    "book_id": 118944,
-    "isbn13": "9781596431522",
-    "title": "American Born Chinese",
-    "author": "Gene Luen Yang",
+  "6919721": {
+    "book_id": 6919721,
+    "isbn13": "9780393049343",
+    "title": "The History of White People",
+    "author": "Nell Irvin Painter",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3952,11 +3920,11 @@
       }
     }
   },
-  "26200563": {
-    "book_id": 26200563,
-    "isbn13": "9781455539741",
-    "title": "Hamilton: The Revolution",
-    "author": "Lin-Manuel Miranda",
+  "16158542": {
+    "book_id": 16158542,
+    "isbn13": "9780670025817",
+    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "author": "Daniel James Brown",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -3969,11 +3937,45 @@
       }
     }
   },
-  "475": {
-    "book_id": 475,
-    "isbn13": "9780143036555",
-    "title": "Collapse: How Societies Choose to Fail or Succeed",
-    "author": "Jared Diamond",
+  "48484": {
+    "book_id": 48484,
+    "isbn13": "9780765312181",
+    "title": "Blindsight (Firefall, #1)",
+    "author": "Peter Watts",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "464260": {
+    "book_id": 464260,
+    "isbn13": "9780679744726",
+    "title": "The Fire Next Time",
+    "author": "James     Baldwin",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "8089415": {
+    "book_id": 8089415,
+    "isbn13": "9781442601567",
+    "title": "A Good Book, in Theory: Making Sense Through Inquiry",
+    "author": "Alan Sears",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4003,11 +4005,11 @@
       }
     }
   },
-  "1877110": {
-    "book_id": 1877110,
-    "isbn13": "9780813341217",
-    "title": "Dynamics Of Complex Systems",
-    "author": "Yaneer Bar-Yam",
+  "23298123": {
+    "book_id": 23298123,
+    "isbn13": "9781632060150",
+    "title": "The Face",
+    "author": "Ruth Ozeki",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4037,62 +4039,249 @@
       }
     }
   },
+  "29972029": {
+    "book_id": 29972029,
+    "isbn13": "9781632157171",
+    "title": "Bitch Planet, Vol. 2: President Bitch",
+    "author": "Kelly Sue DeConnick",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "33917107": {
+    "book_id": 33917107,
+    "isbn13": "9780804190114",
+    "title": "On Tyranny: Twenty Lessons from the Twentieth Century",
+    "author": "Timothy Snyder",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "31189192": {
+    "book_id": 31189192,
+    "isbn13": "",
+    "title": "Null States",
+    "author": "Malka Ann Older",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "530878": {
+    "book_id": 530878,
+    "isbn13": "9780804108638",
+    "title": "Mean Spirit",
+    "author": "Linda Hogan",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "299215": {
+    "book_id": 299215,
+    "isbn13": "9780226320618",
+    "title": "The Road to Serfdom",
+    "author": "Friedrich A. Hayek",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "31933085": {
+    "book_id": 31933085,
+    "isbn13": "9780316465182",
+    "title": "Less",
+    "author": "Andrew Sean Greer",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "116326": {
+    "book_id": 116326,
+    "isbn13": "9781570613814",
+    "title": "Book Lust: Recommended Reading for Every Mood, Moment, and Reason",
+    "author": "Nancy Pearl",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "2526": {
+    "book_id": 2526,
+    "isbn13": "9780156007757",
+    "title": "Blindness",
+    "author": "José Saramago",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "31554413": {
+    "book_id": 31554413,
+    "isbn13": "9780316300339",
+    "title": "The Boy on the Bridge",
+    "author": "M.R. Carey",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "26200563": {
+    "book_id": 26200563,
+    "isbn13": "9781455539741",
+    "title": "Hamilton: The Revolution",
+    "author": "Lin-Manuel Miranda",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "846249": {
+    "book_id": 846249,
+    "isbn13": "9780385472562",
+    "title": "The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning Organization",
+    "author": "Peter M. Senge",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "1877110": {
+    "book_id": 1877110,
+    "isbn13": "9780813341217",
+    "title": "Dynamics Of Complex Systems",
+    "author": "Yaneer Bar-Yam",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "9516": {
+    "book_id": 9516,
+    "isbn13": "9780375714573",
+    "title": "Persepolis: The Story of a Childhood (Persepolis, #1)",
+    "author": "Marjane Satrapi",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "12527": {
+    "book_id": 12527,
+    "isbn13": "9780072434170",
+    "title": "Pilgrim at Tinker Creek",
+    "author": "Annie Dillard",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "338540": {
     "book_id": 338540,
     "isbn13": "9780201156850",
     "title": "The Economy As An Evolving Complex System",
     "author": "Philip Anderson",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "210509": {
-    "book_id": 210509,
-    "isbn13": "9780395884553",
-    "title": "Farewell to Manzanar and Related Readings (Farewell to Manzanar)",
-    "author": "Jeanne Wakatsuki Houston",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "6464060": {
-    "book_id": 6464060,
-    "isbn13": "",
-    "title": "Never Learn Anything From History",
-    "author": "Kate Beaton",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "16006353": {
-    "book_id": 16006353,
-    "isbn13": "",
-    "title": "The Infinite Wait and Other Stories",
-    "author": "Julia Wertz",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4122,11 +4311,11 @@
       }
     }
   },
-  "29972029": {
-    "book_id": 29972029,
-    "isbn13": "9781632157171",
-    "title": "Bitch Planet, Vol. 2: President Bitch",
-    "author": "Kelly Sue DeConnick",
+  "10639": {
+    "book_id": 10639,
+    "isbn13": "9780060005696",
+    "title": "The Paradox of Choice: Why More Is Less",
+    "author": "Barry Schwartz",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4139,11 +4328,11 @@
       }
     }
   },
-  "20170404": {
-    "book_id": 20170404,
-    "isbn13": "9780385353304",
-    "title": "Station Eleven",
-    "author": "Emily St. John Mandel",
+  "17573685": {
+    "book_id": 17573685,
+    "isbn13": "9780393346787",
+    "title": "The Feminine Mystique",
+    "author": "Betty Friedan",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4156,11 +4345,11 @@
       }
     }
   },
-  "16158542": {
-    "book_id": 16158542,
-    "isbn13": "9780670025817",
-    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
-    "author": "Daniel James Brown",
+  "28432244": {
+    "book_id": 28432244,
+    "isbn13": "",
+    "title": "Shrill: Notes from a Loud Woman",
+    "author": "Lindy West",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4207,130 +4396,62 @@
       }
     }
   },
+  "28014216": {
+    "book_id": 28014216,
+    "isbn13": "9780062316561",
+    "title": "The Nordic Theory of Everything: In Search of a Better Life",
+    "author": "Anu  Partanen",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "16130": {
+    "book_id": 16130,
+    "isbn13": "9780143034759",
+    "title": "Alexander Hamilton",
+    "author": "Ron Chernow",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "10864102": {
+    "book_id": 10864102,
+    "isbn13": "9781401232023",
+    "title": "The Absolute Sandman, Volume Five",
+    "author": "Neil Gaiman",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
   "13330771": {
     "book_id": 13330771,
     "isbn13": "9780307957245",
     "title": "Hallucinations",
     "author": "Oliver Sacks",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "28449076": {
-    "book_id": 28449076,
-    "isbn13": "9780316200592",
-    "title": "The Witches: Salem, 1692",
-    "author": "Stacy Schiff",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "20174424": {
-    "book_id": 20174424,
-    "isbn13": "9780804137171",
-    "title": "City of Stairs (The Divine Cities, #1)",
-    "author": "Robert Jackson Bennett",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "33917107": {
-    "book_id": 33917107,
-    "isbn13": "9780804190114",
-    "title": "On Tyranny: Twenty Lessons from the Twentieth Century",
-    "author": "Timothy Snyder",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "2199": {
-    "book_id": 2199,
-    "isbn13": "9780743270755",
-    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
-    "author": "Doris Kearns Goodwin",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "40745": {
-    "book_id": 40745,
-    "isbn13": "9781400062751",
-    "title": "Mindset: The New Psychology of Success",
-    "author": "Carol S. Dweck",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "23298123": {
-    "book_id": 23298123,
-    "isbn13": "9781632060150",
-    "title": "The Face",
-    "author": "Ruth Ozeki",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "6759": {
-    "book_id": 6759,
-    "isbn13": "9780316921176",
-    "title": "Infinite Jest",
-    "author": "David Foster Wallace",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4360,142 +4481,6 @@
       }
     }
   },
-  "19063": {
-    "book_id": 19063,
-    "isbn13": "9780375831003",
-    "title": "The Book Thief",
-    "author": "Markus Zusak",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "23215488": {
-    "book_id": 23215488,
-    "isbn13": "9780062391193",
-    "title": "Speak",
-    "author": "Louisa Hall",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "3618": {
-    "book_id": 3618,
-    "isbn13": "9781904859130",
-    "title": "¡Ya Basta!: Ten Years of the Zapatista Uprising",
-    "author": "Subcomandante Marcos",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "21971548": {
-    "book_id": 21971548,
-    "isbn13": "9781609805876",
-    "title": "Compañeras: Zapatista Women's Stories",
-    "author": "Hilary Klein",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "20518872": {
-    "book_id": 20518872,
-    "isbn13": "9780765377067",
-    "title": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
-    "author": "Liu Cixin",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "53413": {
-    "book_id": 53413,
-    "isbn13": "9780394752846",
-    "title": "Hopscotch",
-    "author": "Julio Cortázar",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "28587950": {
-    "book_id": 28587950,
-    "isbn13": "9780307908797",
-    "title": "Time Travel: A History",
-    "author": "James Gleick",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "27430326": {
-    "book_id": 27430326,
-    "isbn13": "9781847921963",
-    "title": "Black Hole Blues and Other Songs from Outer Space",
-    "author": "Janna Levin",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "7170627": {
     "book_id": 7170627,
     "isbn13": "9781439107959",
@@ -4513,11 +4498,11 @@
       }
     }
   },
-  "17591945": {
-    "book_id": 17591945,
-    "isbn13": "9781606996904",
-    "title": "Hip Hop Family Tree, Vol. 1: 1970s-1981",
-    "author": "Ed Piskor",
+  "28649432": {
+    "book_id": 28649432,
+    "isbn13": "9781631521171",
+    "title": "Catching Homelessness: A Nurse's Story of Falling Through the Safety Net",
+    "author": "Josephine Ensign",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4530,11 +4515,11 @@
       }
     }
   },
-  "20910157": {
-    "book_id": 20910157,
-    "isbn13": "9780062268341",
-    "title": "Yes Please",
-    "author": "Amy Poehler",
+  "8234930": {
+    "book_id": 8234930,
+    "isbn13": "9780759113220",
+    "title": "The Anthropology of Learning in Childhood",
+    "author": "David F. Lancy",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4547,129 +4532,10 @@
       }
     }
   },
-  "25422234": {
-    "book_id": 25422234,
-    "isbn13": "9780062415837",
-    "title": "Notorious RBG: The Life and Times of Ruth Bader Ginsburg",
-    "author": "Irin Carmon",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "6919721": {
-    "book_id": 6919721,
-    "isbn13": "9780393049343",
-    "title": "The History of White People",
-    "author": "Nell Irvin Painter",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "23468051": {
-    "book_id": 23468051,
-    "isbn13": "9781483308012",
-    "title": "Culturally Responsive Teaching and the Brain: Promoting Authentic Engagement and Rigor Among Culturally and Linguistically Diverse Students",
-    "author": "Zaretta Lynn Hammond",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "12784437": {
-    "book_id": 12784437,
-    "isbn13": "9781604864571",
-    "title": "Asia's Unknown Uprisings Volume 1: South Korean Social Movements in the 20th Century",
-    "author": "George Katsiaficas",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "1243498": {
-    "book_id": 1243498,
-    "isbn13": "9780393321241",
-    "title": "Making Shapely Fiction",
-    "author": "Jerome Stern",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "11206": {
-    "book_id": 11206,
-    "isbn13": "9780452274426",
-    "title": "In the Time of the Butterflies",
-    "author": "Julia Alvarez",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "27161156": {
-    "book_id": 27161156,
-    "isbn13": "9780062300546",
-    "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
-    "author": "J.D. Vance",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "464260": {
-    "book_id": 464260,
-    "isbn13": "9780679744726",
-    "title": "The Fire Next Time",
+  "6867864": {
+    "book_id": 6867864,
+    "isbn13": "9780307378828",
+    "title": "The Cross of Redemption: Uncollected Writings",
     "author": "James     Baldwin",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
@@ -4683,11 +4549,79 @@
       }
     }
   },
-  "8089415": {
-    "book_id": 8089415,
-    "isbn13": "9781442601567",
-    "title": "A Good Book, in Theory: Making Sense Through Inquiry",
-    "author": "Alan Sears",
+  "20890478": {
+    "book_id": 20890478,
+    "isbn13": "9780385520591",
+    "title": "Ravensbrück: Life and Death in Hitler's Concentration Camp for Women",
+    "author": "Sarah Helm",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "18078311": {
+    "book_id": 18078311,
+    "isbn13": "9781782112235",
+    "title": "Letters of Note: An Eclectic Collection of Correspondence Deserving of a Wider Audience",
+    "author": "Shaun Usher",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "10115296": {
+    "book_id": 10115296,
+    "isbn13": "9781592406234",
+    "title": "The Pun Also Rises: How the Humble Pun Revolutionized Language, Changed History, and Made Wordplay More Than Some Antics",
+    "author": "John Pollack",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "30075802": {
+    "book_id": 30075802,
+    "isbn13": "9781532913686",
+    "title": "The Princess Saves Herself in this One",
+    "author": "Amanda Lovelace",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "20174424": {
+    "book_id": 20174424,
+    "isbn13": "9780804137171",
+    "title": "City of Stairs (The Divine Cities, #1)",
+    "author": "Robert Jackson Bennett",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4751,40 +4685,6 @@
       }
     }
   },
-  "10115296": {
-    "book_id": 10115296,
-    "isbn13": "9781592406234",
-    "title": "The Pun Also Rises: How the Humble Pun Revolutionized Language, Changed History, and Made Wordplay More Than Some Antics",
-    "author": "John Pollack",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "20890478": {
-    "book_id": 20890478,
-    "isbn13": "9780385520591",
-    "title": "Ravensbrück: Life and Death in Hitler's Concentration Camp for Women",
-    "author": "Sarah Helm",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "9476755": {
     "book_id": 9476755,
     "isbn13": "9781604862003",
@@ -4819,11 +4719,11 @@
       }
     }
   },
-  "6867864": {
-    "book_id": 6867864,
-    "isbn13": "9780307378828",
-    "title": "The Cross of Redemption: Uncollected Writings",
-    "author": "James     Baldwin",
+  "28449076": {
+    "book_id": 28449076,
+    "isbn13": "9780316200592",
+    "title": "The Witches: Salem, 1692",
+    "author": "Stacy Schiff",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4836,62 +4736,11 @@
       }
     }
   },
-  "813033": {
-    "book_id": 813033,
-    "isbn13": "9781556708794",
-    "title": "The Atlas of Literature",
-    "author": "Malcolm Bradbury",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "8234930": {
-    "book_id": 8234930,
-    "isbn13": "9780759113220",
-    "title": "The Anthropology of Learning in Childhood",
-    "author": "David F. Lancy",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "28649432": {
-    "book_id": 28649432,
-    "isbn13": "9781631521171",
-    "title": "Catching Homelessness: A Nurse's Story of Falling Through the Safety Net",
-    "author": "Josephine Ensign",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "530878": {
-    "book_id": 530878,
-    "isbn13": "9780804108638",
-    "title": "Mean Spirit",
-    "author": "Linda Hogan",
+  "475": {
+    "book_id": 475,
+    "isbn13": "9780143036555",
+    "title": "Collapse: How Societies Choose to Fail or Succeed",
+    "author": "Jared Diamond",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4921,11 +4770,11 @@
       }
     }
   },
-  "48484": {
-    "book_id": 48484,
-    "isbn13": "9780765312181",
-    "title": "Blindsight (Firefall, #1)",
-    "author": "Peter Watts",
+  "7519640": {
+    "book_id": 7519640,
+    "isbn13": "9780446556248",
+    "title": "War",
+    "author": "Sebastian Junger",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4938,11 +4787,11 @@
       }
     }
   },
-  "10864102": {
-    "book_id": 10864102,
-    "isbn13": "9781401232023",
-    "title": "The Absolute Sandman, Volume Five",
-    "author": "Neil Gaiman",
+  "11206": {
+    "book_id": 11206,
+    "isbn13": "9780452274426",
+    "title": "In the Time of the Butterflies",
+    "author": "Julia Alvarez",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -4955,28 +4804,11 @@
       }
     }
   },
-  "16130": {
-    "book_id": 16130,
-    "isbn13": "9780143034759",
-    "title": "Alexander Hamilton",
-    "author": "Ron Chernow",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
-  "28014216": {
-    "book_id": 28014216,
-    "isbn13": "9780062316561",
-    "title": "The Nordic Theory of Everything: In Search of a Better Life",
-    "author": "Anu  Partanen",
+  "1243498": {
+    "book_id": 1243498,
+    "isbn13": "9780393321241",
+    "title": "Making Shapely Fiction",
+    "author": "Jerome Stern",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -5006,11 +4838,11 @@
       }
     }
   },
-  "31189192": {
-    "book_id": 31189192,
-    "isbn13": "",
-    "title": "Null States",
-    "author": "Malka Ann Older",
+  "25422234": {
+    "book_id": 25422234,
+    "isbn13": "9780062415837",
+    "title": "Notorious RBG: The Life and Times of Ruth Bader Ginsburg",
+    "author": "Irin Carmon",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {
@@ -5091,23 +4923,6 @@
       }
     }
   },
-  "28432244": {
-    "book_id": 28432244,
-    "isbn13": "",
-    "title": "Shrill: Notes from a Loud Woman",
-    "author": "Lindy West",
-    "my_rating": 0,
-    "exclusive_shelf": "to-read",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "89230": {
     "book_id": 89230,
     "isbn13": "9781400061280",
@@ -5147,6 +4962,346 @@
     "isbn13": "9780300178722",
     "title": "Augustus: First Emperor of Rome",
     "author": "Adrian Goldsworthy",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "1701815": {
+    "book_id": 1701815,
+    "isbn13": "9780743289535",
+    "title": "Julius Caesar",
+    "author": "Philip Freeman",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "249140": {
+    "book_id": 249140,
+    "isbn13": "9780071462228",
+    "title": "The Human Side of Enterprise",
+    "author": "Douglas McGregor",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "118944": {
+    "book_id": 118944,
+    "isbn13": "9781596431522",
+    "title": "American Born Chinese",
+    "author": "Gene Luen Yang",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "20910157": {
+    "book_id": 20910157,
+    "isbn13": "9780062268341",
+    "title": "Yes Please",
+    "author": "Amy Poehler",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "17591945": {
+    "book_id": 17591945,
+    "isbn13": "9781606996904",
+    "title": "Hip Hop Family Tree, Vol. 1: 1970s-1981",
+    "author": "Ed Piskor",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "27430326": {
+    "book_id": 27430326,
+    "isbn13": "9781847921963",
+    "title": "Black Hole Blues and Other Songs from Outer Space",
+    "author": "Janna Levin",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "28587950": {
+    "book_id": 28587950,
+    "isbn13": "9780307908797",
+    "title": "Time Travel: A History",
+    "author": "James Gleick",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "20518872": {
+    "book_id": 20518872,
+    "isbn13": "9780765377067",
+    "title": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
+    "author": "Liu Cixin",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "268530": {
+    "book_id": 268530,
+    "isbn13": "9780452268081",
+    "title": "The Day America Told the Truth",
+    "author": "James    Patterson",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "29065532": {
+    "book_id": 29065532,
+    "isbn13": "9781631775673",
+    "title": "I Forgot Something (But I Can't Remember What It Was)",
+    "author": "Nelson C. Dellis",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "29465611": {
+    "book_id": 29465611,
+    "isbn13": "9781943190034",
+    "title": "A Reluctant Prosecutor: My Journey",
+    "author": "Creighton C Horton II",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "21971548": {
+    "book_id": 21971548,
+    "isbn13": "9781609805876",
+    "title": "Compañeras: Zapatista Women's Stories",
+    "author": "Hilary Klein",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "3618": {
+    "book_id": 3618,
+    "isbn13": "9781904859130",
+    "title": "¡Ya Basta!: Ten Years of the Zapatista Uprising",
+    "author": "Subcomandante Marcos",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "19063": {
+    "book_id": 19063,
+    "isbn13": "9780375831003",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "6759": {
+    "book_id": 6759,
+    "isbn13": "9780316921176",
+    "title": "Infinite Jest",
+    "author": "David Foster Wallace",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "23215488": {
+    "book_id": 23215488,
+    "isbn13": "9780062391193",
+    "title": "Speak",
+    "author": "Louisa Hall",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "27161156": {
+    "book_id": 27161156,
+    "isbn13": "9780062300546",
+    "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+    "author": "J.D. Vance",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "210509": {
+    "book_id": 210509,
+    "isbn13": "9780395884553",
+    "title": "Farewell to Manzanar and Related Readings (Farewell to Manzanar)",
+    "author": "Jeanne Wakatsuki Houston",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "6464060": {
+    "book_id": 6464060,
+    "isbn13": "",
+    "title": "Never Learn Anything From History",
+    "author": "Kate Beaton",
+    "my_rating": 0,
+    "exclusive_shelf": "to-read",
+    "manual": {
+      "location": {
+        "note": null,
+        "name": null,
+        "lat": null,
+        "lng": null,
+        "iso_3166_2": null
+      }
+    }
+  },
+  "16006353": {
+    "book_id": 16006353,
+    "isbn13": "",
+    "title": "The Infinite Wait and Other Stories",
+    "author": "Julia Wertz",
     "my_rating": 0,
     "exclusive_shelf": "to-read",
     "manual": {

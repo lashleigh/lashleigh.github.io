@@ -29,6 +29,13 @@
                     l.setStyle(highlightStyle);
                   }
                  });
+
+                countryFeatureLayer.eachLayer(function(l) {
+                  var loc = lastevent.target.options.location.iso_country;
+                  if ( loc != null && loc.includes(l._polygonId)) {
+                    l.setStyle(highlightStyle);
+                  }
+                });
               })
               .on('mouseout', function(event) {
                 lastevent = event;
@@ -38,7 +45,14 @@
                   if ( loc != null && loc.includes(l._iso_3166_2)) {
                     l.setStyle(defaultStyle);
                   }
-                 });
+                });
+
+                countryFeatureLayer.eachLayer(function(l) {
+                  var loc = lastevent.target.options.location.iso_country;
+                  if ( loc != null && loc.includes(l._polygonId)) {
+                    l.setStyle(defaultStyle);
+                  }
+                });
               });
 		      {% elsif (jekyll.environment != 'production') and (book.exclusive_shelf == 'read') %}
 		        L.marker([0,0], {
