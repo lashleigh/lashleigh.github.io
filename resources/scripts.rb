@@ -97,9 +97,13 @@ end
 # that is maintained, all other fields are stopmed on.
 SHELF_ORDER = %w(currently-reading read skimmed abandoned hold to-read).to_a.map.with_index {|v, i| {v => i}}.reduce(&:merge)
 
+FAR_FUTURE_WHY = 100.years.since
+
 def sort_order(book)
   shelf_order = SHELF_ORDER[book[:exclusive_shelf]] || (puts "No sort order for shelf: #{shelf}"; 999)
-  "#{shelf_order}-#{9 - book[:my_rating]}"
+  order = "#{shelf_order}-#{(FAR_FUTURE_WHY - Time.parse(book[:date_added])).to_i}-#{9 - book[:my_rating]}-#{book[:book_id]}"
+  puts order
+  return order
 end
 
 def update_locations(data, reject_empty = false, location_file = "./_data/locations.json")
@@ -121,7 +125,7 @@ def update_locations(data, reject_empty = false, location_file = "./_data/locati
     # to make sure I don't stomp on other manual info even if there is no location.
     next if reject_empty && manual.all? {|k, v| v.is_a?(Hash) ? v.values.uniq.compact.empty? : v.blank? }
     
-    {n[:book_id] => n.slice(:book_id,:isbn13,:title,:author,:my_rating,:exclusive_shelf).merge(manual: manual) }
+    {n[:book_id] => n.slice(:book_id,:isbn13,:title,:author,:my_rating,:date_added,:exclusive_shelf).merge(manual: manual) }
   end.compact
 
   ordered = updates.sort_by {|h| sort_order(h.values.first)}.reduce(&:merge)
