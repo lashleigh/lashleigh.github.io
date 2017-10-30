@@ -1,22 +1,4 @@
 {
-  "32148009": {
-    "book_id": 32148009,
-    "isbn13": "9780307954909",
-    "title": "Give a Girl a Knife",
-    "author": "Amy Thielen",
-    "my_rating": 0,
-    "date_added": "2017-10-23",
-    "exclusive_shelf": "currently-reading",
-    "manual": {
-      "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
-        "iso_3166_2": null
-      }
-    }
-  },
   "7937653": {
     "book_id": 7937653,
     "isbn13": "9780330508896",
@@ -44,11 +26,16 @@
     "date_added": "2017-10-24",
     "exclusive_shelf": "read",
     "manual": {
+      "tags": [
+        "immigration",
+        "emigration",
+        "refugee"
+      ],
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "This book deals with so many places, and with the loss of places. I located it in Pakistan which is where the story starts and where the author is from.",
+        "name": "Pakistan",
+        "lat": 29.596996,
+        "lng": 69.450673,
         "iso_3166_2": null
       }
     }
@@ -89,6 +76,24 @@
       }
     }
   },
+  "32148009": {
+    "book_id": 32148009,
+    "isbn13": "9780307954909",
+    "title": "Give a Girl a Knife",
+    "author": "Amy Thielen",
+    "my_rating": 3,
+    "date_added": "2017-10-23",
+    "exclusive_shelf": "read",
+    "manual": {
+      "location": {
+        "note": "Placed the pin near to where the authors off grid cabin should be. She did spend time in New York, but the most critical part of her story and heritage seemed to be the rural roots she came from and returned to.",
+        "name": "near Grand Forks, MN",
+        "lat": 48.129575,
+        "lng":  -96.963651,
+        "iso_3166_2": null
+      }
+    }
+  },
   "33898879": {
     "book_id": 33898879,
     "isbn13": "9781250137746",
@@ -99,10 +104,10 @@
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "null",
+        "name": "Stanford University, Standford, CA",
+        "lat": 37.429708,
+        "lng":  -122.168839,
         "iso_3166_2": null
       }
     }
@@ -135,10 +140,10 @@
     "exclusive_shelf": "read",
     "manual": {
       "location": {
-        "note": null,
-        "name": null,
-        "lat": null,
-        "lng": null,
+        "note": "Set in Idaho potato country. Though the influences from Japan, the traveling homeless, and Hawaii should be acknowledged.",
+        "name": "Idaho",
+        "lat": 43.492766,
+        "lng":  -112.069244,
         "iso_3166_2": null
       }
     }
